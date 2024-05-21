@@ -1,2 +1,3 @@
-# WriterLite
-This is the official home page of WriterLite app project
+# Lite Writer 
+
+This is the official home page of Lite Writer app project
