@@ -1,0 +1,55 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Lite Writer App Officail Site
+theme: PaperMod
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+params:
+    homeInfoParams:
+        Title: Writer Lite App Official Site
+        Content:  "[Writer Lite - Google Play](https://play.google.com/store/apps/details?id=core.writer)"
+        
+    profileMode:
+        enabled: false
+        title: "Writer Lite App Official Site"
+        subtitle: "For people who like writing"
+        imageUrl: ""
+        imageTitle: ""
+        imageWidth: 120
+        imageHeight: 120
+
+languages:
+    en:
+        contentDir: content/en
+        disabled: false
+        languageCode: en-US
+        languageDirection: ltr
+        languageName: English 
+        title: Lite Writer
+        weight: 1
+        params:
+            subtitle: Reference, Tutorials, and Explanations
+
+    zh-CN:
+        contentDir: content/zh-CN
+        disabled: false
+        languageCode: zh-CN
+        languageDirection: ltr
+        languageName: 简体中文
+        title: 轻羽写作
+        weight: 2
+        params:
+            subtitle: 引言，教程和文档
+
+    zh-TW:
+        contentDir: content/zh-TW
+        disabled: false
+        languageCode: zh-TW
+        languageDirection: ltr
+        languageName: 繁體中文
+        title: 輕羽寫作
+        weight: 3
+        params:
+            subtitle: 引言，教程和文檔
