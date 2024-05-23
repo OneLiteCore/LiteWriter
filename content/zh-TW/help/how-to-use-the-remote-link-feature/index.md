@@ -19,7 +19,7 @@ date = 2024-05-23T21:40:00+08:00
 
 安裝打開後你可以看到如下介面，接著按照下麵步驟操作：
 
-![RaiDrive setup](/img/zh-TW/how-to-use-the-remote-link-feature/add_drive.webp)
+![RaiDrive setup](add_drive.webp)
 
 1. 點擊頂部“添加”按鈕進入映射配寘流程
 2 .選擇“NAS”並選中“WebDav”協定
@@ -33,7 +33,7 @@ date = 2024-05-23T21:40:00+08:00
 
 如果一切順利則在成功後會自動打開映射目錄，如下圖所示：
 
-![Done](/img/zh-TW/how-to-use-the-remote-link-feature/done.webp)
+![Done](done.webp)
 
 ## Linux 或者 MacOS
 

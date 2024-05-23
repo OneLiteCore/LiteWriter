@@ -30,7 +30,7 @@ Install and open it, you may see panel like this, just follow the tips:
 
 If everything goes well, you might see this:
 
-![Done](/img/en/done.webp)
+![Done](done.webp)
 
 ## Linux or MacOS
 
