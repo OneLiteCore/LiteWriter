@@ -7,6 +7,7 @@ theme: PaperMod
 
 enableRobotsTXT: true
 enableEmoji: true
+mainsections: ["posts"]
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
