@@ -1,55 +1,65 @@
 baseURL: https://onelitecore.github.io/LiteWriter/
+title: Lite Writer
+
 languageCode: en-us
-title: Lite Writer App Officail Site
 theme: PaperMod
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 params:
-    homeInfoParams:
-        Title: Writer Lite App Official Site
-        Content:  "[Writer Lite - Google Play](https://play.google.com/store/apps/details?id=core.writer)"
-        
+    ShowBreadCrumbs: true
+
     profileMode:
         enabled: false
-        title: "Writer Lite App Official Site"
-        subtitle: "For people who like writing"
-        imageUrl: ""
-        imageTitle: ""
-        imageWidth: 120
-        imageHeight: 120
+        title: Lite Writer App
+        subtitle: For writers, novelist and more
+        imageUrl: img/icon.png
+        imageWidth: 240
+        imageHeight: 240
 
 languages:
     en:
         contentDir: content/en
-        disabled: false
         languageCode: en-US
-        languageDirection: ltr
         languageName: English 
         title: Lite Writer
         weight: 1
-        params:
-            subtitle: Reference, Tutorials, and Explanations
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+              weight: 1
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+              weight: 2
 
     zh-CN:
         contentDir: content/zh-CN
-        disabled: false
         languageCode: zh-CN
-        languageDirection: ltr
         languageName: 简体中文
         title: 轻羽写作
         weight: 2
-        params:
-            subtitle: 引言，教程和文档
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+              weight: 1
+            - name: 问题/建议
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+              weight: 2
 
     zh-TW:
         contentDir: content/zh-TW
-        disabled: false
         languageCode: zh-TW
-        languageDirection: ltr
         languageName: 繁體中文
         title: 輕羽寫作
         weight: 3
-        params:
-            subtitle: 引言，教程和文檔
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+              weight: 1
+            - name: 問題/建議
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+              weight: 2
