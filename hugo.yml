@@ -1,8 +1,12 @@
 baseURL: https://onelitecore.github.io/LiteWriter/
 title: Lite Writer
 
+paginate: 5
 languageCode: en-us
 theme: PaperMod
+
+enableRobotsTXT: true
+enableEmoji: true
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -10,17 +14,8 @@ defaultContentLanguageInSubdir: false
 params:
     ShowBreadCrumbs: true
 
-    profileMode:
-        enabled: false
-        title: Lite Writer App
-        subtitle: For writers, novelist and more
-        imageUrl: img/icon.png
-        imageWidth: 240
-        imageHeight: 240
-
 languages:
     en:
-        contentDir: content/en
         languageCode: en-US
         languageName: English 
         title: Lite Writer
@@ -35,7 +30,6 @@ languages:
               weight: 2
 
     zh-CN:
-        contentDir: content/zh-CN
         languageCode: zh-CN
         languageName: 简体中文
         title: 轻羽写作
@@ -50,7 +44,6 @@ languages:
               weight: 2
 
     zh-TW:
-        contentDir: content/zh-TW
         languageCode: zh-TW
         languageName: 繁體中文
         title: 輕羽寫作
