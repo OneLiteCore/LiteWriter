@@ -2,10 +2,10 @@
 author: 輕羽寫作開發組
 title: 輕羽寫作 - 介紹、指引和文檔
 date: 2024-05-24
-cover:
-  image: "app_graphic.jpg"
 ShowToc: true
 TocOpen: true
+cover:
+  image: app_graphic.jpg
 ---
 
 該文檔提供關於應用的的介紹、指引和文檔，以便您瞭解本應用的相關功能以及其是如何運作的。
