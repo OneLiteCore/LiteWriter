@@ -1,6 +1,8 @@
 ---
 title: 如何使用“连接”功能?
 date: 2024-05-23
+ShowToc: true
+TocOpen: true
 ---
 
 “连接”功能可以将你的应用数据映射为 PC 上的一个文件夹，使得你可以用 PC 的软件来编辑你的文本。
@@ -17,7 +19,7 @@ date: 2024-05-23
 
 安装打开后你可以看到如下界面，接着按照下面步骤操作：
 
-![RaiDrive setup](add_drive.webp)
+![RaiDrive setup](add_drive.zh-CN.webp)
 
 1. 点击顶部“添加”按钮进入映射配置流程
 2. 选择“NAS”并选中“WebDav”协议
@@ -31,7 +33,7 @@ date: 2024-05-23
 
 如果一切顺利则在成功后会自动打开映射目录，如下图所示：
 
-![Done](done.webp)
+![Done](done.zh-CN.webp)
 
 ## Linux 或者 MacOS
 

@@ -1,6 +1,8 @@
 ---
 title: 如何使用“連接”功能?
 date: 2024-05-23
+ShowToc: true
+TocOpen: true
 ---
 
 如何使用“連接”功能？
@@ -19,7 +21,7 @@ date: 2024-05-23
 
 安裝打開後你可以看到如下介面，接著按照下麵步驟操作：
 
-![RaiDrive setup](add_drive.webp)
+![RaiDrive setup](add_drive.zh-TW.webp)
 
 1. 點擊頂部“添加”按鈕進入映射配寘流程
 2 .選擇“NAS”並選中“WebDav”協定
@@ -33,7 +35,7 @@ date: 2024-05-23
 
 如果一切順利則在成功後會自動打開映射目錄，如下圖所示：
 
-![Done](done.webp)
+![Done](done.zh-TW.webp)
 
 ## Linux 或者 MacOS
 
