@@ -1,7 +1,6 @@
 ---
 author: Lite Writer App Team
 title: Lite Writer App - Intro, Guidences and Documents
-date: 2024-05-24
 ShowToc: true
 TocOpen: true
 weight: 1
