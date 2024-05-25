@@ -10,7 +10,7 @@ enableEmoji: true
 mainsections: ["posts"]
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 params:
     ShowBreadCrumbs: true
