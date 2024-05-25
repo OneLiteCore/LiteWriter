@@ -19,7 +19,7 @@ TocOpen: true
 
 安装打开后你可以看到如下界面，接着按照下面步骤操作：
 
-![RaiDrive setup](add_drive.zh-CN.webp)
+![RaiDrive setup](add_drive.webp)
 
 1. 点击顶部“添加”按钮进入映射配置流程
 2. 选择“NAS”并选中“WebDav”协议
@@ -33,7 +33,7 @@ TocOpen: true
 
 如果一切顺利则在成功后会自动打开映射目录，如下图所示：
 
-![Done](done.zh-CN.webp)
+![Done](done.webp)
 
 ## Linux 或者 MacOS
 
