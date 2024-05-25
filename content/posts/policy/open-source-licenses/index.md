@@ -1,6 +1,11 @@
-+++
-title = 'Open Source Licenses'
-+++
+---
+title: Open Source Licenses
+weight: 5
+---
+
+This document lists some open source SDK and projects which have been used in the app. We will update this document time to time, sometime we might not update it in time, please understand.
+
+<!--more-->
 
 ## [picasso](https://github.com/square/picasso)
 

@@ -1,12 +1,11 @@
 ---
 author: 轻羽写作开发组
 title: 轻羽写作 - 介绍、指引和文档
-date: 2024-05-24
 ShowToc: true
 TocOpen: true
 weight: 1
 cover:
-  image: app_graphic.jpg
+  image: img/app_graphic.jpg
 ---
 
 👋欢迎来到轻羽写作官方站！在这篇文档中我们将为您提供关于我们应用的的介绍、指引和文档，以便您了解本应用的相关功能以及其是如何运作的。

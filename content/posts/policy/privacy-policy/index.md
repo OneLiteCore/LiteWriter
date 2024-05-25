@@ -1,8 +1,7 @@
 ---
 title: Privacy Policy
-date: 2024-01-1 
 ShowToc: true
-TocOpen: true
+weight: 4
 ---
 
 OneLiteCore built the Lite Writer app as a Free app. This SERVICE is provided by OneLiteCore at no cost and is intended for use as is.
