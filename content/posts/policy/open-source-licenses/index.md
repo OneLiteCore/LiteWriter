@@ -3,7 +3,7 @@ title: Open Source Licenses
 weight: 5
 ---
 
-This document lists some open source SDK and projects which have been used in the app. We will update this document time to time, sometime we might not update it in time, please understand.
+This document lists the open source SDKs that have been used in the app. We will update this document from time to time, but sometimes it might not be that in time, please understand.
 
 <!--more-->
 
