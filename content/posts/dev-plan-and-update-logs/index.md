@@ -8,7 +8,7 @@ weight: 2
 
 - Seperate day and night editor themes into 2 configuration
 - Add "Archive book" feature
-- Imrpove backup system
+- Improve backup system
     - Allow to set multiple cloud backup server
     - Add "Import backup" feature
     - Allow selecting a folder of Google Drive as the cloud backup folder
