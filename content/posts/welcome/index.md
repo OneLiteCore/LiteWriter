@@ -16,11 +16,15 @@ By the way this site are still under development, so there may be something miss
 
 ## Feature guide
 
-- [How to use the remote link feature](help/how-to-use-the-remote-link-feature)
+- [How to use the remote link feature](help/commercial)
 
 ## Issues & Suggestions
 
-If you have came accross some issues or want some features, please file an issue on the issues page of this [GitHub repo](https://github.com/OneLiteCore/LiteWriter/issues)
+- [Frequently Asked Questions](help/faqs)
+
+Please check out the link above to see if there is anything useful to you, if you come across any questions.
+
+If you found an issue needs to report or want some features, please file an issue on the issues page of this [GitHub repo](https://github.com/OneLiteCore/LiteWriter/issues)
 
 ## Contact Us
 

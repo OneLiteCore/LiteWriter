@@ -3,6 +3,7 @@ title: Lite Writer
 
 languageCode: en-us
 theme: PaperMod
+paginate: 6
 
 enableRobotsTXT: true
 enableEmoji: true
