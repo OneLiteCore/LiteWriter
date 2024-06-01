@@ -24,8 +24,6 @@ cover:
 
 请先检查上方链接以查找可能对你遇到的有问题有帮助的信息。
 
-如果您在使用过程中遇到任何问题需要报告或者希望添加某些新的功能，请在本[GitHub repo](https://github.com/OneLiteCore/LiteWriter/issues) 提交一个 issue
-
 ## 联系我们
 
 如果您需要更多的帮助请通过 one.lite.core@gmail.com 邮箱联系我们
