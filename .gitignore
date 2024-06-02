@@ -16,4 +16,5 @@ hugo.linux
 .DS_Store
 
 # Scripts
-pack.to
+pack_to.json
+deploy

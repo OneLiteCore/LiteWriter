@@ -10,7 +10,7 @@ enableEmoji: true
 mainsections: ["posts"]
 
 defaultContentLanguage: zh-CN
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 params:
     ShowBreadCrumbs: true
