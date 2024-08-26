@@ -19,6 +19,6 @@ weight: 2
 
 ## Released versions
 
-### v1.73.0
+## v1.73.0
 
 - Update help docs
