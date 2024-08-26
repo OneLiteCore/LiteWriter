@@ -30,6 +30,20 @@ languages:
               url: https://github.com/OneLiteCore/LiteWriter/issues
               weight: 2
 
+    ar:
+        languageCode: ar
+        languageName: Arabic 
+        title: Lite Writer
+        weight: 1
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+              weight: 1
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+              weight: 2
+
     zh-CN:
         languageCode: zh-CN
         languageName: 简体中文
