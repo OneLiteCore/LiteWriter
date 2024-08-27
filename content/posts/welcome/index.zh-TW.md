@@ -17,6 +17,7 @@ cover:
 ## 功能指引
 
 - [如何使用“連線”功能?](help/how-to-use-the-remote-link-feature)
+- [如何找回資料](help/how-to-recover-data)
 
 ## 問題和建議
 

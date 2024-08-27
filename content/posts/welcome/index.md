@@ -16,7 +16,8 @@ By the way this site are still under development, so there may be something miss
 
 ## Feature guide
 
-- [How to use the remote link feature](help/commercial)
+- [How to use the remote link feature](help/how-to-use-the-remote-link-feature)
+- [How to recover data](help/how-to-recover-data)
 
 ## Issues & Suggestions
 
