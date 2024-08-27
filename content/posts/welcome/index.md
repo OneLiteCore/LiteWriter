@@ -1,12 +1,12 @@
 ---
 author: Lite Writer App Team
-title: Lite Writer App - Intro, Guidences and Documents
+title: Intro, Guidences and Documents
 ShowToc: true
 TocOpen: true
 weight: 1
-cover:
-  image: img/app_graphic.jpg
 ---
+
+![Img](/LiteWriter/img/app_graphic.jpg)
 
 👋 Hello there, welcome to the official site of the Lite Writer app! In this document we will offer intro, guidences and documents of the app, to let you know what kind of features it has and how they work.
 

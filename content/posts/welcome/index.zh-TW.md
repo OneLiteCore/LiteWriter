@@ -4,9 +4,9 @@ title: 輕羽寫作 - 介紹、指引和文件
 ShowToc: true
 TocOpen: true
 weight: 1
-cover:
-  image: img/app_graphic.jpg
 ---
+
+![Img](/LiteWriter/img/app_graphic.jpg)
 
 👋歡迎來到輕羽寫作官方站！在這篇文件中我們將為您提供關於我們應用的的介紹、指引和文件，以便您瞭解本應用的相關功能以及其是如何運作的。
 

@@ -2,18 +2,15 @@ baseURL: https://onelitecore.github.io/LiteWriter/
 title: Lite Writer
 
 languageCode: en-us
-theme: PaperMod
-paginate: 6
-
-enableRobotsTXT: true
-enableEmoji: true
-mainsections: ["posts"]
+theme: hugo-book
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 params:
     ShowBreadCrumbs: true
+    BookLogo: 'img/icon.png'
+    BookSection: 'posts'
 
 languages:
     en:
