@@ -25,24 +25,8 @@ languages:
           main:
             - name: Google Play
               url: https://play.google.com/store/apps/details?id=core.writer
-              weight: 1
             - name: Issues
               url: https://github.com/OneLiteCore/LiteWriter/issues
-              weight: 2
-
-    ar:
-        languageCode: ar
-        languageName: Arabic 
-        title: Lite Writer
-        weight: 1
-        menu:
-          main:
-            - name: Google Play
-              url: https://play.google.com/store/apps/details?id=core.writer
-              weight: 1
-            - name: Issues
-              url: https://github.com/OneLiteCore/LiteWriter/issues
-              weight: 2
 
     zh-CN:
         languageCode: zh-CN
@@ -53,10 +37,8 @@ languages:
           main:
             - name: Google Play
               url: https://play.google.com/store/apps/details?id=core.writer
-              weight: 1
             - name: 问题/建议
               url: https://github.com/OneLiteCore/LiteWriter/issues
-              weight: 2
 
     zh-TW:
         languageCode: zh-TW
@@ -67,7 +49,137 @@ languages:
           main:
             - name: Google Play
               url: https://play.google.com/store/apps/details?id=core.writer
-              weight: 1
             - name: 問題/建議
               url: https://github.com/OneLiteCore/LiteWriter/issues
-              weight: 2
+    
+    ar:
+        languageCode: ar
+        languageName: Arabic 
+        title: Lite Writer
+        weight: 4
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+    
+    da:
+        languageCode: da
+        languageName: Danish
+        title: Lite Writer
+        weight: 5
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    de:
+        languageCode: de
+        languageName: German
+        title: Lite Writer
+        weight: 6
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    es:
+        languageCode: es
+        languageName: Spanish
+        title: Lite Writer
+        weight: 7
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    fa:
+        languageCode: fa
+        languageName: Persian
+        title: Lite Writer
+        weight: 8
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    fi:
+        languageCode: fi
+        languageName: Finnish
+        title: Lite Writer
+        weight: 9
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    fil:
+        languageCode: fil
+        languageName: Filipino
+        title: Lite Writer
+        weight: 10
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    hi:
+        languageCode: hi
+        languageName: Hindi
+        title: Lite Writer
+        weight: 11
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    in:
+        languageCode: in
+        languageName: Indeonesian
+        title: Lite Writer
+        weight: 12
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    it:
+        languageCode: it
+        languageName: Italic
+        title: Lite Writer
+        weight: 13
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    ja:
+        languageCode: ja
+        languageName: Japnese
+        title: Lite Writer
+        weight: 14
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
