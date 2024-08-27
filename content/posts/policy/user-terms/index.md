@@ -1,6 +1,5 @@
 ---
 title: Terms & Conditions
-date: 2024-06-13
 ---
 
 By downloading or using the app, these terms will

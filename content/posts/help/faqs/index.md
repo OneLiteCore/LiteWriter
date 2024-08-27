@@ -6,11 +6,11 @@ weight: 3
 
 This document is still under construction
 
-## Make this app completely free?
+## How to recover data
 
-This topic deserves a individual post, please check link below:
+Please refer to this post:
 
-[For Free Users and Commercialization](../for-free-users-and-commercialization)
+[How to recover data](../how-to-recover-data)
 
 ## What do "books" mean in the app?
 
