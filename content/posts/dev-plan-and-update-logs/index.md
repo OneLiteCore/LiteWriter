@@ -28,6 +28,6 @@ weight: 2
 
 - Add scrollbar to some UI page
 
-### v1.73.0
+## v1.73.0
 
 - Update help docs

@@ -1,7 +1,6 @@
 ---
 title: Help improve our localization
 ShowToc: true
-weight: 6
 ---
 
  [Lite Writer App Languages](https://docs.google.com/spreadsheets/d/1zKR2g9ouGUxMY-k6v2U0_w8dzVAZb2hWTF42-fi2ZP8/edit#gid=2145029998)
