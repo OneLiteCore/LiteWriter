@@ -1,7 +1,6 @@
 ---
 title: 隐私政策
 ShowToc: true
-weight: 4
 ---
 
 # 轻羽写作隐私政策
