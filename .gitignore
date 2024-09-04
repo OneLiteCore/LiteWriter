@@ -17,6 +17,7 @@ hugo.linux
 
 # Scripts
 pack_to.json
+project.json
 deploy
 
 # ide
