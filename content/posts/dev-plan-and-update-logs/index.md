@@ -20,6 +20,18 @@ weight: 2
 
 ## Released versions
 
+### V1.78.0
+
+- Add Date Tool
+
+### v1.77.0
+
+- Add FAQs
+
+### v1.76.0
+
+- Optimize searching speed
+
 ### v1.75.0
 
 - Add blue light filter
