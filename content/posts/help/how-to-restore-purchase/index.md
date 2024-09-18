@@ -4,46 +4,43 @@ date: 2024-09-18
 ShowToc: true
 ---
 
-This article will help you restore your puchase, if you switch to a new device or have the app reinstalled, this should be helpful to you.
+If you've switched to a new device or reinstalled the app, this guide will help you restore your purchase of the Pro edition.
 
-Currently we sell the Pro edition of the app as a Google Play In-app product, in this case Google Play service holds the purchase record of your purchase, not us.
+Currently, the Pro edition is sold as a Google Play in-app product, meaning Google Play services hold the purchase record.
 
-# Make sure you have access to internaltional networks
+# Ensure Access to International Networks
 
-Google Play service is not available all over the world, in some regions it is banned due to local policies. If you are living in such a region, you may need to find a way to deal with it.
+Google Play services may not be available in all regions due to local policies. If you're in such a region, you may need to use a workaround to access the service.
 
-# Check your Google account first
+# Check Your Google Account
 
-Please make sure that you've logged in and selected the same Google account which you used to make the purchase, both in your system's Google settings and Google Play Store.
+Make sure you're logged in with the same Google account used to make the purchase:
 
-Go to Google Play Store -> Click your account icon -> Payments & subscriptions, check if there is a subscription or purchase history of the app Pro edition. Make sure that you do have purchased before.
+1. **Go to Google Play Store** -> **Click your account icon** -> **Payments & subscriptions.**  
+2. Verify that there is a subscription or purchase history for the Pro edition of the app.
 
-Then go to the upgrade page and hit the "Restore purchase" text on the bottom of the page, if nothing goes wrong your purchase would have been restored at this moment.
+Once confirmed, go to the upgrade page in the app and tap on "Restore purchase" at the bottom. If everything is in order, this should restore your purchase.
 
-# If things goes wrong
+# If Things Go Wrong
 
-As Murphy's Law says, "Anything that can go wrong will go wrong".
+As Murphy's Law states, "Anything that can go wrong will go wrong."
 
-Sometimes even you have everything checked but the app still can't restore your purchase. This could be a network issue or a Goolge Play service cache issue. Luckily there is still one way to deal with this situation.
+If the app still can't restore your purchase, it could be a network or cache issue with Google Play services. Here's what to do:
 
-Google Play service does not allow a duplicate purchase, so if you do sure that you have purchased before, launch a new purchase flow with the same subscription plan or product you've purchased.
+1. Initiate a new purchase using the same subscription plan or product you've previously bought.
 
-BE AWARE THAT YOU DON'T HAVE TO PAY ONCE AGAIN.
-
-BE AWARE THAT YOU DON'T HAVE TO PAY ONCE AGAIN.
-
-BE AWARE THAT YOU DON'T HAVE TO PAY ONCE AGAIN.
-
-As we said, Google Play service does not allow a duplicate purchase, so by doing so you would get an error code indicates that it is duplicated. This will force Google Play service to refresh its cache, therefore it might have the issue fixed.
+   **Note:** **You do not have to pay again.** Google Play does not allow duplicate purchases, so you should see an error indicating a duplicate. This action forces Google Play services to refresh its cache, which may resolve the issue.
 
 # Missing SKUs?
 
-SKU means a purchase plan, like a subscription plan or a product.
+SKU (Stock Keeping Unit) refers to a subscription plan or product. If some SKUs that you need are missing, do the following:
 
-If some SKUs that you are looking for are missing, go to Settings -> Other settings -> Test lab -> Show all SKUs and make sure the option is enabled.
+1. Go to **Settings** -> **Other settings** -> **Test lab** -> **Show all SKUs** and ensure this option is enabled.
+   
+This will reveal all SKUs, including those that may be disabled due to marketing strategies.
 
-Due to some marketing strategies we might have disabled some SKUs like Semi-Annually subscription or Annually subscription. But with the option you could force enable all SKUs that the app ever supported.
+# Cancel a Subscription or Request a Refund
 
-# Cancel a subscription or refund a purchase?
+To cancel a subscription or request a refund:
 
-Go to Google Play Store -> Click your account icon -> Payments & subscriptions and manage your purchase there.
+1. Go to **Google Play Store** -> **Click your account icon** -> **Payments & subscriptions** and manage your purchase there.
