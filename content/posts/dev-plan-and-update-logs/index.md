@@ -6,7 +6,6 @@ weight: 2
 
 ## Dev plan
 
-- Seperate day and night editor themes into 2 configuration
 - Add "Archive book" feature
 - Improve backup system
     - Allow to set multiple cloud backup server
@@ -16,11 +15,15 @@ weight: 2
     - Add OneDrive cloud backup server support
     - Add DropBox cloud backup server support
 - Optimize statistic feature
-- Add date time format tool
 
 ## Released versions
 
-### V1.78.0
+### v1.79.0
+
+- Seperate day and night editor themes into 2 configuration
+- Now you can sepcific a theme for a book
+
+### v1.78.0
 
 - Add Date Tool
 
