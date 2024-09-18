@@ -2,18 +2,15 @@ baseURL: https://onelitecore.github.io/LiteWriter/
 title: Lite Writer
 
 languageCode: en-us
-theme: PaperMod
-paginate: 6
-
-enableRobotsTXT: true
-enableEmoji: true
-mainsections: ["posts"]
+theme: hugo-book
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 params:
     ShowBreadCrumbs: true
+    BookLogo: 'img/icon.png'
+    BookSection: 'posts'
 
 languages:
     en:
@@ -135,10 +132,10 @@ languages:
               url: https://play.google.com/store/apps/details?id=core.writer
             - name: Issues
               url: https://github.com/OneLiteCore/LiteWriter/issues
-
-    hi:
-        languageCode: hi
-        languageName: Hindi
+    
+    fr:
+        languageCode: fr
+        languageName: French
         title: Lite Writer
         weight: 11
         menu:
@@ -148,11 +145,23 @@ languages:
             - name: Issues
               url: https://github.com/OneLiteCore/LiteWriter/issues
 
-    in:
-        languageCode: in
-        languageName: Indeonesian
+    hi:
+        languageCode: hi
+        languageName: Hindi
         title: Lite Writer
         weight: 12
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+
+    id:
+        languageCode: id
+        languageName: Indeonesian
+        title: Lite Writer
+        weight: 13
         menu:
           main:
             - name: Google Play
@@ -164,7 +173,7 @@ languages:
         languageCode: it
         languageName: Italic
         title: Lite Writer
-        weight: 13
+        weight: 14
         menu:
           main:
             - name: Google Play
@@ -175,18 +184,6 @@ languages:
     ja:
         languageCode: ja
         languageName: Japnese
-        title: Lite Writer
-        weight: 14
-        menu:
-          main:
-            - name: Google Play
-              url: https://play.google.com/store/apps/details?id=core.writer
-            - name: Issues
-              url: https://github.com/OneLiteCore/LiteWriter/issues
-    
-    ko:
-        languageCode: ko
-        languageName: Korean
         title: Lite Writer
         weight: 15
         menu:
@@ -208,11 +205,23 @@ languages:
             - name: Issues
               url: https://github.com/OneLiteCore/LiteWriter/issues
     
+    ko:
+        languageCode: ko
+        languageName: Korean
+        title: Lite Writer
+        weight: 17
+        menu:
+          main:
+            - name: Google Play
+              url: https://play.google.com/store/apps/details?id=core.writer
+            - name: Issues
+              url: https://github.com/OneLiteCore/LiteWriter/issues
+    
     ms:
         languageCode: ms
         languageName: Malay
         title: Lite Writer
-        weight: 17
+        weight: 18
         menu:
           main:
             - name: Google Play
@@ -224,7 +233,7 @@ languages:
         languageCode: nl
         languageName: Dutch
         title: Lite Writer
-        weight: 18
+        weight: 19
         menu:
           main:
             - name: Google Play
@@ -236,7 +245,7 @@ languages:
         languageCode: pl
         languageName: Polish
         title: Lite Writer
-        weight: 19
+        weight: 20
         menu:
           main:
             - name: Google Play
@@ -248,7 +257,7 @@ languages:
         languageCode: pt
         languageName: Portuguese
         title: Lite Writer
-        weight: 20
+        weight: 21
         menu:
           main:
             - name: Google Play
@@ -260,7 +269,7 @@ languages:
         languageCode: ru
         languageName: Russian
         title: Lite Writer
-        weight: 21
+        weight: 22
         menu:
           main:
             - name: Google Play
@@ -272,7 +281,7 @@ languages:
         languageCode: th
         languageName: Thai
         title: Lite Writer
-        weight: 22
+        weight: 23
         menu:
           main:
             - name: Google Play
@@ -284,7 +293,7 @@ languages:
         languageCode: tr
         languageName: Turkish
         title: Lite Writer
-        weight: 23
+        weight: 24
         menu:
           main:
             - name: Google Play

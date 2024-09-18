@@ -4,9 +4,9 @@ title: 轻羽写作 - 介绍、指引和文档
 ShowToc: true
 TocOpen: true
 weight: 1
-cover:
-  image: img/app_graphic.jpg
 ---
+
+![Img](/LiteWriter/img/app_graphic.jpg)
 
 👋欢迎来到轻羽写作官方站！在这篇文档中我们将为您提供关于我们应用的的介绍、指引和文档，以便您了解本应用的相关功能以及其是如何运作的。
 
@@ -17,6 +17,7 @@ cover:
 ## 功能指引
 
 - [如何使用“连接”功能?](help/how-to-use-the-remote-link-feature)
+- [如何找回数据](help/how-to-recover-data)
 
 ## 问题和建议
 
