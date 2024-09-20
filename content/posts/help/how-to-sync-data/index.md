@@ -1,38 +1,37 @@
 ---
-title: How to sync data
-date: 2024-09-20
+title: How to sync data  
+date: 2024-09-20  
 ShowToc: true
 ---
 
-Technically speaking our app does not support syncing data between devices. Although you can use backup feature to transform your data from one device to another, it is still not convenient enough.
+Technically speaking our app does not support syncing data between devices. Although you can use backup feature to transform your data from one device to another, it couldn't be called as syncing.
 
 That being said, you still have some ways to perform syncing outside the app.
 
-# Set a storage folder as the app's home folder
+# Set a Storage Folder as the App's Home Folder
 
-Setting a folder in your device storage as the app's home folder is supported in the first place, in this case your books and chapters will be saved as sub-folders and text files within the folder.
+You can set a folder in your device's storage as the app's home folder. In this setup, your books and chapters are saved as sub-folders and text files in the storage folder.
 
-They are files already, therefore you can use tools which are for syncing files to syncing your data for the app.
+Since they are already stored as files, you can use external file-syncing tools to sync this data across devices.
 
 # [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
 
-Syncthing is a widely used cross-platform data synchronization tool, you can use it to sync your data between your phone devices and your PC/Laptop/Home server.
+Syncthing is a widely-used, cross-platform data synchronization tool. You can use it to sync your app's data between your mobile devices, PC, laptop, or home server.
 
-Check its official guide to know how to use it:
+Check out Syncthing's official guide to learn how to set it up:
 
 [Syncthing - Getting Started](https://docs.syncthing.net/intro/getting-started.html#getting-started)
 
-# Network disks
+# Network Disks
 
-Some network disks provide a bi-directional file syncing folder feature, making the app's home folder as the syncing folder would allow it to sync your data between devices. It could also perform an add-on backup server in this case.
+Some network disks offer a bi-directional file-syncing feature. By setting your app's home folder as the syncing folder, you can sync data across devices, with the added benefit of using the network disk as a backup.
 
-# Git, Svn and Rsync
+# Git, SVN, and Rsync
 
-If you know programming well then this is the recommended way. You can use apps like Termux to run commands lines for data syncing.
+For those with programming knowledge, this method is highly recommended. Using apps like Termux you can run command-line tools for syncing your data.
 
-You don't need a guide for it if you know what is talking about, but if you don't know then we would not recommend it for you as Git or Svn or command lines are never for common users.
+If you're familiar with Git, SVN, or Rsync, this option provides great flexibility. However, if you're not familiar with these tools, we wouldn't recommend this method, as they involve more technical know-how and are not intended for common users.
 
 # Summary
 
-The first principle of the app is keeping users' data safe, and syncing data between 2 client apps isn't safe enough, therefore we do not develop a built-in syncing feature and leave this to thoes professional tools which are bound to it.
-
+The app's primary goal is to keep users' data safe. Since syncing data between two client apps isn't always secure, we've chosen not to develop a built-in syncing feature. Instead, we recommend using reliable, professional tools for data syncing.
