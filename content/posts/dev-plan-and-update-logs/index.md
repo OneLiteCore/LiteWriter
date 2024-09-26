@@ -18,6 +18,10 @@ weight: 2
 
 ## Released versions
 
+### v1.80.0
+
+- Add more app themes
+
 ### v1.79.0
 
 - Seperate day and night editor themes into 2 configuration
