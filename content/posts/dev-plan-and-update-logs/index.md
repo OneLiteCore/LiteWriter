@@ -15,10 +15,11 @@ weight: 2
     - Add OneDrive cloud backup server support
     - Add DropBox cloud backup server support
 - Optimize statistic feature
+- Add calendar reminders and widgets
 
 ## Released versions
 
-### v1.80.0
+### v1.80.0 - 2024-09-28
 
 - Add more app themes
 
