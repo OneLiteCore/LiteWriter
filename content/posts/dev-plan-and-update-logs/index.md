@@ -6,10 +6,11 @@ weight: 2
 
 ## Dev plan
 
+- Add more Editor themes
 - Add "Archive book" feature
 - Improve backup system
-    - Allow to set multiple cloud backup server
     - Add "Import backup" feature
+    - Add "Search files in backups" feature
     - Allow selecting a folder of Google Drive as the cloud backup folder
     - Add JianguoYun cloud backup server support
     - Add OneDrive cloud backup server support
