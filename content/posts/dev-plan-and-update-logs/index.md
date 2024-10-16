@@ -9,7 +9,6 @@ weight: 2
 - Add "Archive book" feature
 - Improve backup system
     - Allow to set multiple cloud backup server
-    - Add "Import backup" feature
     - Allow selecting a folder of Google Drive as the cloud backup folder
     - Add JianguoYun cloud backup server support
     - Add OneDrive cloud backup server support
@@ -18,6 +17,13 @@ weight: 2
 - Add calendar reminders and widgets
 
 ## Released versions
+
+### v1.81.0 - 2024-10-13
+
+- Add list and task list tool
+- Optimize sharing feature, now you can export a whole book into PDF
+- Experimental: Render markdown when exporting as PDF
+- Add "Import backup file" feature
 
 ### v1.80.0 - 2024-09-28
 
