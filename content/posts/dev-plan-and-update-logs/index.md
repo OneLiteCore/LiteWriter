@@ -6,6 +6,7 @@ weight: 2
 
 ## Dev plan
 
+- Add typing visual and sound effect 
 - Add more Editor themes
 - Add "Archive book" feature
 - Improve backup system
@@ -30,6 +31,7 @@ weight: 2
 ### v1.80.0 - 2024-09-28
 
 - Add more app themes
+- Add data recovery guide
 
 ### v1.79.0
 
