@@ -21,6 +21,10 @@ weight: 2
 
 ## Released versions
 
+### v1.82.0 - 2024-10-21
+
+- Add editor count changing effect
+
 ### v1.81.0 - 2024-10-13
 
 - Add list and task list tool
