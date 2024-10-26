@@ -6,7 +6,7 @@ weight: 2
 
 ## Dev plan
 
-- Add typing visual and sound effect 
+- Add a feature to replace text globally
 - Add more Editor themes
 - Add "Archive book" feature
 - Improve backup system
