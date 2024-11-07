@@ -21,6 +21,14 @@ weight: 2
 
 ## Released versions
 
+### v1.84.0 - 2024-11-07
+
+- Now you can adjust bottom bar size or hide it
+
+### v1.83.0 - 2024-10-28
+
+- Add more editor theme
+
 ### v1.82.0 - 2024-10-21
 
 - Add editor count changing effect
