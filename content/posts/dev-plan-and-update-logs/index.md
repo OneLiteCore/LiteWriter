@@ -9,6 +9,7 @@ weight: 2
 - Add a feature to replace text globally
 - Add more Editor themes
 - Add "Archive book" feature
+- Add some AI stuff
 - Improve backup system
     - Allow to set multiple cloud backup server
     - Add "Search files in backups" feature
