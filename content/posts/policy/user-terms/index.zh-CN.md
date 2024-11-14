@@ -1,7 +1,6 @@
 ---
 title: 用户协议
 ShowToc: true
-weight: 5
 ---
 
 # 轻羽写作用户协议
