@@ -22,6 +22,11 @@ weight: 2
 
 ## Released versions
 
+### v1.85.0 - 2024-11-20
+
+- Now you can adjust top tool bar's layout
+- Optimize the opening speed of the editor
+
 ### v1.84.0 - 2024-11-07
 
 - Now you can adjust bottom bar size or hide it
