@@ -24,6 +24,7 @@ Link to the privacy policy of third-party service providers used by the app
 - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 - [Unity Ads](https://unity.com/legal/privacy-policy)
+    - If you want do delete your data collected by Unity Ads, you can contact them at [DPO@unity3d.com](mailto:DPO@unity3d.com)
 
 ## Log Data
 
