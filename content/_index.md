@@ -1,3 +1,7 @@
+---
+copy_mark: "src"
+---
+
 ![Img](/img/app_graphic.jpg)
 
 # Lite Writer: Writing/Note/Memo

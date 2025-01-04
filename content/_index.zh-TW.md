@@ -1,3 +1,7 @@
+---
+copy_mark: "src"
+---
+
 ![Img](/img/app_graphic.jpg)
 
 # 輕羽寫作：寫小說編輯劇本創作筆記便籤日記Markdown

@@ -1,3 +1,7 @@
+---
+copy_mark: "src"
+---
+
 ![Img](/img/app_graphic.jpg)
 
 # 轻羽写作：写小说编辑剧本创作笔记便签日记Markdown
