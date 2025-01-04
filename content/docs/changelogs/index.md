@@ -1,5 +1,5 @@
 ---
-title: Dev plan & Update logs
+title: Changelogs
 ShowToc: true
 weight: 2
 ---

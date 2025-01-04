@@ -1,5 +1,5 @@
 ---
-title: 开发计划和更新日志
+title: 更新日志
 ShowToc: true
 weight: 2
 ---
