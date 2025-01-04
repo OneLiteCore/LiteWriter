@@ -1,5 +1,6 @@
 ---
 linkTitle: "Documents"
+copy_mark: "src"
 ---
 
 # Documents
