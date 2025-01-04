@@ -2,6 +2,7 @@
 title: Changelogs
 ShowToc: true
 weight: 2
+copy_mark: "src"
 ---
 
 ## Dev plan

@@ -1,5 +1,6 @@
 ---
 title: Terms & Conditions
+copy_mark: "src"
 ---
 
 By downloading or using the app, these terms will

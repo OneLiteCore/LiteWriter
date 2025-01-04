@@ -2,6 +2,7 @@
 title: 如何使用“連線”功能?
 date: 2024-05-25
 ShowToc: true
+copy_mark: "src"
 ---
 
 “連線”功能可以將你的應用資料對映為 PC 上的一個資料夾，使得你可以用 PC 的軟體來編輯你的文字。
@@ -18,7 +19,7 @@ ShowToc: true
 
 安裝開啟後你可以看到如下介面，接著按照下面步驟操作：
 
-![RaiDrive setup](posts/help/how-to-use-the-remote-link-feature/add_drive.zh-CN.webp)
+![RaiDrive setup](/img/add_drive.zh-TW.webp)
 
 1. 點選頂部“新增”按鈕進入對映配置流程
 2. 選擇“NAS”並選中“WebDav”協議
@@ -32,7 +33,7 @@ ShowToc: true
 
 如果一切順利則在成功後會自動開啟對映目錄，如下圖所示：
 
-![Done](posts/help/how-to-use-the-remote-link-feature/done.zh-CN.webp)
+![Done](/img/done.zh-TW.webp)
 
 ## Linux 或者 MacOS
 

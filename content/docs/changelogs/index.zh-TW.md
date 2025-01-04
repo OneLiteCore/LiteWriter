@@ -2,6 +2,7 @@
 title: 更新日誌
 ShowToc: true
 weight: 2
+copy_mark: "src"
 ---
 
 ## 開發計劃

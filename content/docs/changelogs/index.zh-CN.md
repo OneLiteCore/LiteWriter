@@ -2,6 +2,7 @@
 title: 更新日志
 ShowToc: true
 weight: 2
+copy_mark: "src"
 ---
 
 ## 开发计划

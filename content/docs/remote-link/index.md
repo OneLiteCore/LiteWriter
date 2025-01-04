@@ -2,6 +2,7 @@
 title: How to use the Remote Link feature
 date: 2024-05-25
 ShowToc: true
+copy_mark: "src"
 ---
 
 "Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
@@ -18,7 +19,7 @@ On Windows platform we recommand you the third-party software, **RaiDrive**. You
 
 Install and open it, you may see panel like this, just follow the tips:
 
-![RaiDrive setup](add_drive.webp)
+![RaiDrive setup](/img/add_drive.webp)
 
 1. Click "Add" button on the top to enter the configuration.
 2. Go "NAS" tab and select the WebDav option
@@ -31,7 +32,7 @@ Install and open it, you may see panel like this, just follow the tips:
 
 If everything goes well, you might see this:
 
-![Done](done.webp)
+![Done](/img/done.webp)
 
 ## Linux or MacOS
 
