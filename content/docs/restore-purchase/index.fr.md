@@ -1,7 +1,8 @@
 ---
 title: Comment restaurer un achat  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Si vous avez changé d’appareil ou réinstallé l'application, ce guide vous aidera à restaurer votre achat de l'édition Pro.

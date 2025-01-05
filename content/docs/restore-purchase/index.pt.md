@@ -1,7 +1,8 @@
 ---
 title: Como restaurar uma compra  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Se você mudou para um novo dispositivo ou reinstalou o aplicativo, este guia irá ajudá-lo a restaurar sua compra da versão Pro.

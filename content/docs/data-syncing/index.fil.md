@@ -2,6 +2,7 @@
 title: Paano i-sync ang data  
 date: 2024-09-20  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Teknikal na pagsasalita, ang aming app ay hindi sumusuporta sa pag-sync ng data sa pagitan ng mga device. Bagaman maaari mong gamitin ang feature na backup upang ilipat ang iyong data mula sa isang device patungo sa iba, hindi ito maituturing na pag-sync.

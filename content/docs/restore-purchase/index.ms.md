@@ -1,7 +1,8 @@
 ---
 title: Cara Memulihkan Pembelian  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Jika anda telah beralih ke peranti baharu atau memasang semula aplikasi, panduan ini akan membantu anda memulihkan pembelian edisi Pro anda.

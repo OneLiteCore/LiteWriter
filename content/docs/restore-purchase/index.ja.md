@@ -1,7 +1,8 @@
 ---
 title: 購入を復元する方法  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 新しいデバイスに切り替えた場合やアプリを再インストールした場合、このガイドはPro版の購入を復元するのに役立ちます。

@@ -3,6 +3,7 @@ title: How to recover data
 date: 2024-08-24
 ShowToc: true
 copy_mark: "src"
+copy_mark: "src"
 ---
 
 This guide will help you recover your data, whether it's been accidentally deleted or you're transferring data between devices.

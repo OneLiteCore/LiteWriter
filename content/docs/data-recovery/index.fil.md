@@ -2,6 +2,7 @@
 title: Paano mabawi ang mga datos  
 date: 2024-08-24  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Ang gabay na ito ay makakatulong sa iyo na mabawi ang iyong mga datos, kung ito man ay aksidenteng natanggal o ikaw ay naglilipat ng datos sa pagitan ng mga device.

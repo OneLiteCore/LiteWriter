@@ -1,7 +1,8 @@
 ---
 title: Cara untuk menyelaraskan data  
 date: 2024-09-20  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Secara teknikal, aplikasi kami tidak menyokong penyelarasan data antara peranti. Walaupun anda boleh menggunakan ciri sandaran untuk memindahkan data dari satu peranti ke peranti lain, ia tidak boleh dianggap sebagai penyelarasan.

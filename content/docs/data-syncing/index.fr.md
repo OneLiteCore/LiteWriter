@@ -2,6 +2,7 @@
 title: Comment synchroniser les données  
 date: 2024-09-20  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Techniquement parlant, notre application ne prend pas en charge la synchronisation des données entre appareils. Bien que vous puissiez utiliser la fonctionnalité de sauvegarde pour transférer vos données d’un appareil à un autre, cela ne peut pas être qualifié de synchronisation.

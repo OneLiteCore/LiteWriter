@@ -1,7 +1,8 @@
 ---
 title: Jak przywrócić zakup  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Jeśli przeniosłeś się na nowe urządzenie lub ponownie zainstalowałeś aplikację, ten przewodnik pomoże Ci przywrócić zakup wersji Pro.

@@ -1,7 +1,8 @@
 ---
 title: Hoe gegevens te synchroniseren  
 date: 2024-09-20  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Technisch gezien ondersteunt onze app geen gegevenssynchronisatie tussen apparaten. Hoewel je de back-upfunctie kunt gebruiken om je gegevens van het ene apparaat naar het andere over te zetten, kan dit niet als synchronisatie worden beschouwd.

@@ -1,7 +1,8 @@
 ---
 title: Como sincronizar dados  
 date: 2024-09-20  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Tecnicamente, nosso aplicativo não suporta a sincronização de dados entre dispositivos. Embora você possa usar o recurso de backup para transferir seus dados de um dispositivo para outro, isso não pode ser chamado de sincronização.

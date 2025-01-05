@@ -1,7 +1,8 @@
 ---
 title: So stellen Sie einen Kauf wieder her  
 date: 2024-09-18  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Wenn Sie auf ein neues Gerät gewechselt oder die App neu installiert haben, hilft Ihnen dieser Leitfaden dabei, Ihren Kauf der Pro-Edition wiederherzustellen.

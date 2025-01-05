@@ -2,6 +2,7 @@
 title: Sådan gendanner du data  
 date: 2024-08-24
 ShowToc: true
+copy_mark: "src"
 ---
 
 Denne vejledning vil hjælpe dig med at gendanne dine data, uanset om de er blevet slettet ved et uheld, eller om du overfører data mellem enheder.

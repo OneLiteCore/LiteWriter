@@ -2,6 +2,7 @@
 title: Hoe gegevens herstellen  
 date: 2024-08-24  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Deze handleiding helpt je om je gegevens te herstellen, of ze nu per ongeluk zijn verwijderd of als je gegevens tussen apparaten overdraagt.

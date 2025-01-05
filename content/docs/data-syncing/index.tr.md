@@ -1,7 +1,8 @@
 ---
 title: Verileri nasıl senkronize edebilirim  
 date: 2024-09-20  
-ShowToc: true  
+ShowToc: true
+copy_mark: "src"
 ---
 
 Teknik olarak, uygulamamız cihazlar arasında veri senkronizasyonunu desteklememektedir. Verilerinizi bir cihazdan diğerine aktarmak için yedekleme özelliğini kullanabilirsiniz, ancak bu işlem senkronizasyon olarak adlandırılamaz.

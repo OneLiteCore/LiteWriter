@@ -2,6 +2,7 @@
 title: Comment récupérer des données  
 date: 2024-08-24  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Ce guide vous aidera à récupérer vos données, qu'elles aient été accidentellement supprimées ou que vous soyez en train de transférer des données entre appareils.

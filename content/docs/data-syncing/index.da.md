@@ -2,6 +2,7 @@
 title: Sådan synkroniserer du data  
 date: 2024-09-20  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Teknisk set understøtter vores app ikke synkronisering af data mellem enheder. Selvom du kan bruge backup-funktionen til at overføre dine data fra en enhed til en anden, kan det ikke kaldes synkronisering.

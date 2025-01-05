@@ -2,6 +2,7 @@
 title: So stellen Sie Daten wieder her  
 date: 2024-08-24  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Diese Anleitung hilft Ihnen, Ihre Daten wiederherzustellen, egal ob sie versehentlich gelöscht wurden oder Sie Daten zwischen Geräten übertragen.
