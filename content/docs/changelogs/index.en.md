@@ -1,0 +1,82 @@
+---
+title: Changelogs
+ShowToc: true
+weight: 2
+copy_mark: "src"
+---
+
+## Dev plan
+
+- Add a feature to replace text globally
+- Add more Editor themes
+- Add "Archive book" feature
+- Add some AI stuff
+- Improve backup system
+    - Allow to set multiple cloud backup server
+    - Add "Search files in backups" feature
+    - Allow selecting a folder of Google Drive as the cloud backup folder
+    - Add JianguoYun cloud backup server support
+    - Add OneDrive cloud backup server support
+    - Add DropBox cloud backup server support
+- Optimize statistic feature
+- Add calendar reminders and widgets
+
+## Released versions
+
+### v1.85.0 - 2024-11-20
+
+- Now you can adjust top tool bar's layout
+- Optimize the opening speed of the editor
+
+### v1.84.0 - 2024-11-07
+
+- Now you can adjust bottom bar size or hide it
+
+### v1.83.0 - 2024-10-28
+
+- Add more editor theme
+
+### v1.82.0 - 2024-10-21
+
+- Add editor count changing effect
+
+### v1.81.0 - 2024-10-13
+
+- Add list and task list tool
+- Optimize sharing feature, now you can export a whole book into PDF
+- Experimental: Render markdown when exporting as PDF
+- Add "Import backup file" feature
+
+### v1.80.0 - 2024-09-28
+
+- Add more app themes
+- Add data recovery guide
+
+### v1.79.0
+
+- Seperate day and night editor themes into 2 configuration
+- Now you can sepcific a theme for a book
+
+### v1.78.0
+
+- Add Date Tool
+
+### v1.77.0
+
+- Add FAQs
+
+### v1.76.0
+
+- Optimize searching speed
+
+### v1.75.0
+
+- Add blue light filter
+
+### v1.74.0
+
+- Add scrollbar to some UI page
+
+## v1.73.0
+
+- Update help docs
