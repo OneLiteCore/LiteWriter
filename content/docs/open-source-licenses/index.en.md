@@ -1,6 +1,6 @@
 ---
 title: Open Source Licenses
-copy_mark: "src"
+copy_mark: src
 ---
 
 This document lists the open source SDKs that have been used in the app. We will update this document from time to time, but sometimes it might not be that in time, please understand.

@@ -1,6 +1,9 @@
 ---
+ShowToc: true
+aliases:
+- docs/user-terms/index.zh-cn.md
+copy_mark: copied
 title: Terms & Conditions
-copy_mark: "copied"
 ---
 
 By downloading or using the app, these terms will

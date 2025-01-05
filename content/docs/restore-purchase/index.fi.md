@@ -2,7 +2,7 @@
 title: Kuinka palauttaa ostos  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Jos olet vaihtanut uuteen laitteeseen tai asentanut sovelluksen uudelleen, tämä opas auttaa sinua palauttamaan Pro-version ostoksesi.

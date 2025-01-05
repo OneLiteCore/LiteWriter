@@ -2,7 +2,7 @@
 title: Jak odzyskać dane  
 date: 2024-08-24  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Ten przewodnik pomoże Ci odzyskać dane, niezależnie od tego, czy zostały one przypadkowo usunięte, czy przenosisz dane między urządzeniami.

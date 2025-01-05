@@ -2,7 +2,7 @@
 title: Come ripristinare un acquisto  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Se hai cambiato dispositivo o hai reinstallato l'app, questa guida ti aiuterà a ripristinare l'acquisto della versione Pro.

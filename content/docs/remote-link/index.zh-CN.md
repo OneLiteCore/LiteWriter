@@ -2,7 +2,7 @@
 title: 如何使用“连接”功能?
 date: 2024-05-25
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 “连接”功能可以将你的应用数据映射为 PC 上的一个文件夹，使得你可以用 PC 的软件来编辑你的文本。

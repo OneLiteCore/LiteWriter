@@ -2,7 +2,7 @@
 title: Paano ibalik ang binili  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Kung lumipat ka sa bagong device o muling in-install ang app, makakatulong ang gabay na ito upang maibalik mo ang binili mong Pro edition.

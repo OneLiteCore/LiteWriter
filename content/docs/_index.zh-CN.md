@@ -1,6 +1,9 @@
 ---
-linkTitle: "Documents"
-copy_mark: "copied"
+ShowToc: true
+aliases:
+- docs/_index.zh-cn.md
+copy_mark: copied
+linkTitle: Documents
 ---
 
 # Documents

@@ -2,7 +2,7 @@
 title: 구매를 복원하는 방법  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 새로운 기기로 변경하거나 앱을 재설치한 경우, 이 가이드는 Pro 버전 구매를 복원하는 데 도움이 될 것입니다.

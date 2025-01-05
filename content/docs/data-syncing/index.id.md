@@ -2,7 +2,7 @@
 title: Cara Sinkronisasi Data  
 date: 2024-09-20  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Secara teknis, aplikasi kami tidak mendukung sinkronisasi data antar perangkat. Meskipun Anda dapat menggunakan fitur cadangan untuk mentransfer data dari satu perangkat ke perangkat lain, ini tidak bisa disebut sebagai sinkronisasi.

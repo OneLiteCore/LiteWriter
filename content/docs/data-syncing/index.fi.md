@@ -2,7 +2,7 @@
 title: Kuinka synkronoida tiedot  
 date: 2024-09-20  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Teknisesti ottaen sovelluksemme ei tue tietojen synkronointia laitteiden välillä. Vaikka voit käyttää varmuuskopiointiominaisuutta siirtääksesi tietosi yhdeltä laitteelta toiselle, sitä ei voida kutsua synkronoinniksi.

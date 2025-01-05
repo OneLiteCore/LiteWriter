@@ -1,6 +1,7 @@
 ---
-linkTitle: "Documents"
-copy_mark: "copied"
+ShowToc: true
+copy_mark: copied
+linkTitle: Documents
 ---
 
 # Documents

@@ -2,7 +2,7 @@
 title: Verilerin Nasıl Kurtarılacağı  
 date: 2024-08-24  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Bu rehber, verilerinizi yanlışlıkla silinmiş olsun ya da cihazlar arasında veri aktarımı yapıyor olun, verilerinizi kurtarmanıza yardımcı olacaktır.

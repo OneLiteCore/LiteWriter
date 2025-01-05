@@ -1,6 +1,6 @@
 ---
 linkTitle: "Documents"
-copy_mark: "src"
+copy_mark: src
 ---
 
 # Documents

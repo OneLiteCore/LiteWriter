@@ -2,7 +2,7 @@
 title: Satın Almayı Nasıl Geri Yüklerim  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Yeni bir cihaza geçtiyseniz veya uygulamayı yeniden yüklediyseniz, bu kılavuz Pro sürümünüzü geri yüklemenize yardımcı olacaktır.

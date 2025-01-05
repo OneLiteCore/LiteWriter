@@ -1,8 +1,8 @@
 ---
-title: Changelogs
 ShowToc: true
+copy_mark: copied
+title: Changelogs
 weight: 2
-copy_mark: "copied"
 ---
 
 ## Dev plan

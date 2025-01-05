@@ -2,7 +2,7 @@
 title: Cómo restaurar una compra  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Si has cambiado a un nuevo dispositivo o reinstalado la aplicación, esta guía te ayudará a restaurar tu compra de la edición Pro.

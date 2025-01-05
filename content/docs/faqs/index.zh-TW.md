@@ -2,7 +2,7 @@
 title: 常見問題
 ShowToc: true
 weight: 3
-copy_mark: "src"
+copy_mark: src
 ---
 
 該檔案還在處在建設之中

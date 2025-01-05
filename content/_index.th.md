@@ -1,5 +1,6 @@
 ---
-copy_mark: "copied"
+ShowToc: true
+copy_mark: copied
 ---
 
 ![Img](/img/app_graphic.jpg)

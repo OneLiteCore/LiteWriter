@@ -2,7 +2,7 @@
 title: Cara Memulihkan Data  
 date: 2024-08-24  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Panduan ini akan membantu anda memulihkan data anda, sama ada data tersebut telah dipadam secara tidak sengaja atau anda sedang memindahkan data antara peranti.

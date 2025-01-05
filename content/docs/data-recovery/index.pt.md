@@ -2,7 +2,7 @@
 title: Como recuperar dados  
 date: 2024-08-24  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Este guia vai te ajudar a recuperar seus dados, seja se foram deletados acidentalmente ou se você está transferindo dados entre dispositivos.

@@ -2,7 +2,7 @@
 title: Kuinka palauttaa tietoja  
 date: 2024-08-24  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Tämä opas auttaa sinua palauttamaan tietosi, olipa ne poistettu vahingossa tai olet siirtämässä tietoja laitteiden välillä.

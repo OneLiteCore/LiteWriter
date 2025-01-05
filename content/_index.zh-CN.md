@@ -1,5 +1,5 @@
 ---
-copy_mark: "src"
+copy_mark: src
 ---
 
 ![Img](/img/app_graphic.jpg)

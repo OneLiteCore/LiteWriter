@@ -2,7 +2,7 @@
 title: Sådan gendannes et køb  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: "src"
+copy_mark: src
 ---
 
 Hvis du har skiftet til en ny enhed eller geninstalleret appen, vil denne guide hjælpe dig med at gendanne dit køb af Pro-udgaven.
