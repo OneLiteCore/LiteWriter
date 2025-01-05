@@ -37,7 +37,7 @@ menu:
         type: search
     - name: GitHub
       weight: 4
-      url: "https://onelitecore.github.io/LiteWriter/"
+      url: "https://github.com/OneLiteCore/LiteWriter"
       params:
         icon: github
 
