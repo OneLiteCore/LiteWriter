@@ -2,6 +2,7 @@
 title: How to restore a purchase
 date: 2024-09-18
 ShowToc: true
+copy_mark: "src"
 ---
 
 If you've switched to a new device or reinstalled the app, this guide will help you restore your purchase of the Pro edition.

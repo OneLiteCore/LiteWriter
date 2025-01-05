@@ -2,6 +2,7 @@
 title: How to sync data  
 date: 2024-09-20  
 ShowToc: true
+copy_mark: "src"
 ---
 
 Technically speaking our app does not support syncing data between devices. Although you can use backup feature to transform your data from one device to another, it couldn't be called as syncing.
