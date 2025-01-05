@@ -5,6 +5,7 @@ aliases:
 copy_mark: src
 date: 2024-05-25
 title: 如何使用“連線”功能?
+url: /zh-TW/docs/remote-link/
 ---
 
 “連線”功能可以將你的應用資料對映為 PC 上的一個資料夾，使得你可以用 PC 的軟體來編輯你的文字。

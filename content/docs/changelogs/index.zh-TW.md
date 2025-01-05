@@ -4,6 +4,7 @@ aliases:
 - zh-TW/docs/changelogs/
 copy_mark: src
 title: 更新日誌
+url: /zh-TW/docs/changelogs/
 weight: 2
 ---
 

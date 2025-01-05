@@ -5,6 +5,7 @@ aliases:
 copy_mark: src
 date: 2024-09-20
 title: 如何同步数据
+url: /zh-CN/docs/data-syncing/
 ---
 
 从技术上讲，我们的应用程序并不支持设备之间的数据同步。尽管您可以使用备份功能将数据从一台设备传输到另一台设备，但这不能称为同步。

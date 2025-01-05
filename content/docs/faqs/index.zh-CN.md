@@ -4,6 +4,7 @@ aliases:
 - zh-CN/docs/faqs/
 copy_mark: src
 title: 常见问题
+url: /zh-CN/docs/faqs/
 weight: 3
 ---
 

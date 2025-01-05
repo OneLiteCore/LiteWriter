@@ -3,6 +3,7 @@ ShowToc: true
 aliases:
 - zh-CN/
 copy_mark: src
+url: /zh-CN/
 ---
 
 ![Img](/img/app_graphic.jpg)

@@ -4,6 +4,7 @@ aliases:
 - docs/user-terms/index.zh-cn.md
 copy_mark: copied
 title: Terms & Conditions
+url: /zh-CN/docs/user-terms/
 ---
 
 By downloading or using the app, these terms will

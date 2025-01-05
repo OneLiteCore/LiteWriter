@@ -5,6 +5,7 @@ aliases:
 copy_mark: src
 date: 2024-09-18
 title: 如何恢復購買
+url: /zh-TW/docs/restore-purchase/
 ---
 
 如果您更換了新裝置或重新安裝了應用程式，本指南將幫助您恢復購買的專業版。

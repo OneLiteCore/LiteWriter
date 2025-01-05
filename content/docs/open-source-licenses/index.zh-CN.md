@@ -4,6 +4,7 @@ aliases:
 - docs/open-source-licenses/index.zh-cn.md
 copy_mark: copied
 title: Open Source Licenses
+url: /zh-CN/docs/open-source-licenses/
 ---
 
 This document lists the open source SDKs that have been used in the app. We will update this document from time to time, but sometimes it might not be that in time, please understand.
