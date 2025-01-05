@@ -6,8 +6,6 @@ languageCode: en-us
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
-disablePathToLower: true
-
 module:
   imports:
   - path: github.com/imfing/hextra
