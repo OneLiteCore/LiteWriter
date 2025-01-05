@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/remote-link/index.zh-cn.md
+- zh-CN/docs/remote-link/
 copy_mark: src
 date: 2024-05-25
 title: 如何使用“连接”功能?

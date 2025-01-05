@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/data-recovery/index.zh-cn.md
+- zh-CN/docs/data-recovery/
 copy_mark: src
 date: 2024-08-24
 title: 如何找回数据

@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/data-syncing/index.zh-tw.md
+- zh-TW/docs/data-syncing/
 copy_mark: src
 date: 2024-09-20
 title: 如何同步資料

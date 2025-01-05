@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/changelogs/index.zh-cn.md
+- zh-CN/docs/changelogs/
 copy_mark: src
 title: 更新日志
 weight: 2

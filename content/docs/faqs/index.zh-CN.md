@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/faqs/index.zh-cn.md
+- zh-CN/docs/faqs/
 copy_mark: src
 title: 常见问题
 weight: 3

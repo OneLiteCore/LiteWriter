@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- _index.zh-tw.md
+- zh-TW/
 copy_mark: src
 ---
 

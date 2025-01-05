@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 aliases:
-- docs/restore-purchase/index.zh-tw.md
+- zh-TW/docs/restore-purchase/
 copy_mark: src
 date: 2024-09-18
 title: 如何恢復購買
