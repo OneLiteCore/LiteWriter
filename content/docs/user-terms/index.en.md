@@ -1,6 +1,7 @@
 ---
-title: Terms & Conditions
+ShowToc: true
 copy_mark: src
+title: Terms & Conditions
 ---
 
 By downloading or using the app, these terms will

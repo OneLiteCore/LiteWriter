@@ -1,8 +1,10 @@
 ---
-title: 常見問題
 ShowToc: true
-weight: 3
+aliases:
+- docs/faqs/index.zh-tw.md
 copy_mark: src
+title: 常見問題
+weight: 3
 ---
 
 該檔案還在處在建設之中

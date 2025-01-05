@@ -1,6 +1,7 @@
 ---
-linkTitle: "Documents"
+ShowToc: true
 copy_mark: src
+linkTitle: Documents
 ---
 
 # Documents

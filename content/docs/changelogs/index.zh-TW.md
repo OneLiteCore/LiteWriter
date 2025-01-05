@@ -1,8 +1,10 @@
 ---
-title: 更新日誌
 ShowToc: true
-weight: 2
+aliases:
+- docs/changelogs/index.zh-tw.md
 copy_mark: src
+title: 更新日誌
+weight: 2
 ---
 
 ## 開發計劃

@@ -1,8 +1,10 @@
 ---
-title: 如何恢復購買
-date: 2024-09-18
 ShowToc: true
+aliases:
+- docs/restore-purchase/index.zh-tw.md
 copy_mark: src
+date: 2024-09-18
+title: 如何恢復購買
 ---
 
 如果您更換了新裝置或重新安裝了應用程式，本指南將幫助您恢復購買的專業版。

@@ -1,4 +1,7 @@
 ---
+ShowToc: true
+aliases:
+- _index.zh-cn.md
 copy_mark: src
 ---
 

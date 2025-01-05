@@ -1,8 +1,10 @@
 ---
-title: 如何找回数据
-date: 2024-08-24
 ShowToc: true
+aliases:
+- docs/data-recovery/index.zh-cn.md
 copy_mark: src
+date: 2024-08-24
+title: 如何找回数据
 ---
 
 这篇指引将会告诉您如何找回您的数据，无论您认为您的数据丢失了或者想要在不同设备间转移数据，该篇指引都将提供必要的帮助。
