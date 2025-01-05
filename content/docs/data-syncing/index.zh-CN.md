@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- zh-CN/docs/data-syncing/
 copy_mark: src
 date: 2024-09-20
 title: 如何同步数据

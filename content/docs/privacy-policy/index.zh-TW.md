@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- docs/privacy-policy/index.zh-tw.md
 copy_mark: copied
 title: Privacy Policy
 url: /zh-TW/docs/privacy-policy/

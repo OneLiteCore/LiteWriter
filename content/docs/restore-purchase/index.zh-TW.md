@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- zh-TW/docs/restore-purchase/
 copy_mark: src
 date: 2024-09-18
 title: 如何恢復購買

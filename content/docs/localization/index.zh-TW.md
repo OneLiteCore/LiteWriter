@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- docs/localization/index.zh-tw.md
 copy_mark: copied
 title: Help improve our localization
 url: /zh-TW/docs/localization/

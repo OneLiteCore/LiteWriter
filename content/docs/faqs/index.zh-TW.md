@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- zh-TW/docs/faqs/
 copy_mark: src
 title: 常見問題
 url: /zh-TW/docs/faqs/

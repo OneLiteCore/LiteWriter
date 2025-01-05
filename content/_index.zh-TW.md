@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- zh-TW/
 copy_mark: src
 url: /zh-TW/
 ---

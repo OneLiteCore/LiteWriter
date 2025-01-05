@@ -1,7 +1,5 @@
 ---
 ShowToc: true
-aliases:
-- docs/open-source-licenses/index.zh-tw.md
 copy_mark: copied
 title: Open Source Licenses
 url: /zh-TW/docs/open-source-licenses/
