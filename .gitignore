@@ -16,4 +16,6 @@ hugo.linux
 .DS_Store
 
 # Scripts
+.idea
 project.json
+deploy
