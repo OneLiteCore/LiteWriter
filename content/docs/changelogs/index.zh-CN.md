@@ -2,7 +2,6 @@
 ShowToc: true
 copy_mark: src
 title: 更新日志
-url: /zh-CN/docs/changelogs/
 weight: 2
 ---
 

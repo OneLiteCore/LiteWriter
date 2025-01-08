@@ -3,7 +3,6 @@ ShowToc: true
 copy_mark: src
 date: 2024-08-24
 title: 如何找回資料
-url: /zh-TW/docs/data-recovery/
 ---
 
 這篇指引將會告訴您如何找回您的資料，無論您認為您的資料丟失了或者想要在不同裝置間轉移資料，該篇指引都將提供必要的幫助。

@@ -2,7 +2,6 @@
 ShowToc: true
 copy_mark: copied
 title: Terms & Conditions
-url: /zh-TW/docs/user-terms/
 ---
 
 By downloading or using the app, these terms will

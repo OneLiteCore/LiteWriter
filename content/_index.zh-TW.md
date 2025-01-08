@@ -1,7 +1,6 @@
 ---
 ShowToc: true
 copy_mark: src
-url: /zh-TW/
 ---
 
 ![Img](/img/app_graphic.jpg)

@@ -3,7 +3,6 @@ ShowToc: true
 copy_mark: src
 date: 2024-09-18
 title: 如何恢复购买
-url: /zh-CN/docs/restore-purchase/
 ---
 
 如果您更换了新设备或重新安装了应用程序，本指南将帮助您恢复购买的专业版。

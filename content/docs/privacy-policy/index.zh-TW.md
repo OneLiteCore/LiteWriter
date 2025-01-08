@@ -2,7 +2,6 @@
 ShowToc: true
 copy_mark: copied
 title: Privacy Policy
-url: /zh-TW/docs/privacy-policy/
 ---
 
 OneLiteCore built the Lite Writer app as a Free app. This SERVICE is provided by OneLiteCore at no cost and is intended for use as is.

@@ -3,7 +3,6 @@ ShowToc: true
 copy_mark: src
 date: 2024-09-20
 title: 如何同步資料
-url: /zh-TW/docs/data-syncing/
 ---
 
 從技術上講，我們的應用程式並不支援裝置之間的資料同步。儘管您可以使用備份功能將資料從一臺裝置傳輸到另一臺裝置，但這不能稱為同步。

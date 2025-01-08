@@ -3,7 +3,6 @@ ShowToc: true
 copy_mark: src
 date: 2025-01-06
 title: 微信支付
-url: /zh-TW/docs/wechat-pay/
 ---
 
 當前只有應用的中國大陸版本支援微信支付。

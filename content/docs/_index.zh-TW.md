@@ -2,7 +2,6 @@
 ShowToc: true
 copy_mark: copied
 linkTitle: 文件
-url: /zh-TW/docs/
 ---
 
 # 文件
