@@ -1,10 +1,10 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: 文档
 url: /zh-CN/docs/
 ---
 
-# Documents
+# 文档
 
-⬅️ Click one document on the left side menu to see
+⬅️ 点击左侧文档以开始
