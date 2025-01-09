@@ -1,10 +1,8 @@
 ---
 ShowToc: true
-copy_mark: copied
-title: Open Source Licenses
+title: 开源协议
+copy_mark: src
 ---
-
-This document lists the open source SDKs that have been used in the app. We will update this document from time to time, but sometimes it might not be that in time, please understand.
 
 <!--more-->
 
@@ -171,3 +169,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
