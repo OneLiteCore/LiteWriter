@@ -1,10 +1,8 @@
-baseURL: https://onelitecore.github.io/LiteWriter/
+baseURL: https://writer.kamidragon.com/
 title: Lite Writer
 
-languageCode: en-us
-
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguage: zh-CN
+defaultContentLanguageInSubdir: false
 
 module:
   imports:
@@ -42,152 +40,8 @@ menu:
         icon: github
 
 languages:
-  en:
-    languageCode: en-US
-    languageName: English 
-    title: Lite Writer
-    weight: 1
-
   zh-CN:
     languageCode: zh-CN
     languageName: 简体中文
     title: 轻羽写作
     weight: 2
-
-  zh-TW:
-    languageCode: zh-TW
-    languageName: 繁體中文
-    title: 輕羽寫作
-    weight: 3
-
-  ar:
-    languageCode: ar
-    languageName: Arabic 
-    title: Lite Writer
-    weight: 4
-    
-  da:
-    languageCode: da
-    languageName: Danish
-    title: Lite Writer
-    weight: 5
-
-  de:
-    languageCode: de
-    languageName: German
-    title: Lite Writer
-    weight: 6
-
-  es:
-    languageCode: es
-    languageName: Spanish
-    title: Lite Writer
-    weight: 7
-
-  fa:
-    languageCode: fa
-    languageName: Persian
-    title: Lite Writer
-    weight: 8
-
-  fi:
-    languageCode: fi
-    languageName: Finnish
-    title: Lite Writer
-    weight: 9
-
-  fil:
-    languageCode: fil
-    languageName: Filipino
-    title: Lite Writer
-    weight: 10
-  
-  fr:
-    languageCode: fr
-    languageName: French
-    title: Lite Writer
-    weight: 11
-
-  hi:
-    languageCode: hi
-    languageName: Hindi
-    title: Lite Writer
-    weight: 12
-
-  id:
-    languageCode: id
-    languageName: Indeonesian
-    title: Lite Writer
-    weight: 13
-
-  it:
-    languageCode: it
-    languageName: Italic
-    title: Lite Writer
-    weight: 14
-
-  ja:
-    languageCode: ja
-    languageName: Japnese
-    title: Lite Writer
-    weight: 15
-  
-  ko:
-    languageCode: ko
-    languageName: Korean
-    title: Lite Writer
-    weight: 16
-  
-  ko:
-    languageCode: ko
-    languageName: Korean
-    title: Lite Writer
-    weight: 17
-  
-  ms:
-    languageCode: ms
-    languageName: Malay
-    title: Lite Writer
-    weight: 18
-
-  nl:
-    languageCode: nl
-    languageName: Dutch
-    title: Lite Writer
-    weight: 19
-
-  pl:
-    languageCode: pl
-    languageName: Polish
-    title: Lite Writer
-    weight: 20
-
-  pt:
-    languageCode: pt
-    languageName: Portuguese
-    title: Lite Writer
-    weight: 21
-
-  ru:
-    languageCode: ru
-    languageName: Russian
-    title: Lite Writer
-    weight: 22
-  
-  th:
-    languageCode: th
-    languageName: Thai
-    title: Lite Writer
-    weight: 23
-  
-  tr:
-    languageCode: tr
-    languageName: Turkish
-    title: Lite Writer
-    weight: 24
-
-  uk:
-    languageCode: tr
-    languageName: Ukrainian
-    title: Lite Writer
-    weight: 24
