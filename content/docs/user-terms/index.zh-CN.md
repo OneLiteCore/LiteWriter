@@ -1,114 +1,69 @@
 ---
 ShowToc: true
-copy_mark: copied
-title: Terms & Conditions
+title: 用户协议
+copy_mark: src
 ---
 
-By downloading or using the app, these terms will
-automatically apply to you – you should make sure therefore
-that you read them carefully before using the app. You’re not
-allowed to copy or modify the app, any part of the app, or
-our trademarks in any way. You’re not allowed to attempt to
-extract the source code of the app, and you also shouldn’t try
-to translate the app into other languages or make derivative
-versions. The app itself, and all the trademarks, copyright,
-database rights, and other intellectual property rights related
-to it, still belong to OneLiteCore.
+# 轻羽写作用户协议
 
-OneLiteCore is committed to ensuring that the app is
-as useful and efficient as possible. For that reason, we
-reserve the right to make changes to the app or to charge for
-its services, at any time and for any reason. We will never
-charge you for the app or its services without making it very
-clear to you exactly what you’re paying for.
+轻羽写作（以下简称“本产品”）是由广州纸龙科技有限公司（以下简称“我们”）开发并运营的。为了给您和广大的用户提供优质的服务，在使用本产品之前请您仔细阅读并理解本协议中的各项条款。通过访问或使用本产品，您同意接受本协议的约束。如果您不同意本协议中的任何条款，请立即停止使用本产品。
 
-The Lite Writer app stores and processes personal data that
-you have provided to us, to provide my
-Service. It’s your responsibility to keep your phone and
-access to the app secure. We therefore recommend that you do
-not jailbreak or root your phone, which is the process of
-removing software restrictions and limitations imposed by the
-official operating system of your device. It could make your
-phone vulnerable to malware/viruses/malicious programs,
-compromise your phone’s security features and it could mean
-that the Lite Writer app won’t work properly or at all.
+## 协议的接受
 
-The app does use third-party services that declare their
-Terms and Conditions.
+1. 您使用本产品即表示您已阅读、理解并同意本协议的所有条款及各项条件。
+2. 如果您是未成年人，您需在监护人的陪同下阅读本协议，并在取得监护人的同意后使用本产品。
 
-Link to Terms and Conditions of third-party service
-providers used by the app
+## 用户账号
 
--  [Google Play Services](https://policies.google.com/terms)
--  [AdMob](https://developers.google.com/admob/terms)
--  [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
--  [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+1. 不注册账号并不影响本产品的功能使用。
+2. 当您注册账号时，您需要提供您的邮箱地址作为唯一账号，详情请参阅我们的《隐私政策》。
+3. 本产品提供将用户数据备份到第三方平台（比如各大网盘）的功能，您需要自行提供对应平台的账号以完成对该功能的配置。
+4. 我们不会收集或者上传您的第三方平台的账号。
 
-You should be aware that there are certain things that
-OneLiteCore will not take responsibility for. Certain
-functions of the app will require the app to have an active
-internet connection. The connection can be Wi-Fi or provided
-by your mobile network provider, but OneLiteCore
-cannot take responsibility for the app not working at full
-functionality if you don’t have access to Wi-Fi, and you don’t
-have any of your data allowance left.
+## 隐私政策
 
-If you’re using the app outside of an area with Wi-Fi, you
-should remember that the terms of the agreement with your
-mobile network provider will still apply. As a result, you may
-be charged by your mobile provider for the cost of data for
-the duration of the connection while accessing the app, or
-other third-party charges. In using the app, you’re accepting
-responsibility for any such charges, including roaming data
-charges if you use the app outside of your home territory
-(i.e. region or country) without turning off data roaming. If
-you are not the bill payer for the device on which you’re
-using the app, please be aware that we assume that you have
-received permission from the bill payer for using the app.
+1. 本产品将严格遵守相关法律法规，保护您的个人隐私信息。详情请参阅我们的《隐私政策》。
 
-Along the same lines, OneLiteCore cannot always take
-responsibility for the way you use the app i.e. You need to
-make sure that your device stays charged – if it runs out of
-battery and you can’t turn it on to avail the Service,
-OneLiteCore cannot accept responsibility.
+## 用户行为规范
 
-With respect to OneLiteCore’s responsibility for your
-use of the app, when you’re using the app, it’s important to
-bear in mind that although we endeavor to ensure that it is
-updated and correct at all times, we do rely on third parties
-to provide information to us so that we can make it available
-to you. OneLiteCore accepts no liability for any
-loss, direct or indirect, you experience as a result of
-relying wholly on this functionality of the app.
+1. 您在使用本产品时应遵守当地的法律法规和规章制度。
+2. 您不得破解本产品。
+3. 您不得使用或传播非正式版的本产品，包括破解版和意外流出的测试版等。
+4. 我们不承担由非正式版的本产品所产生或者涉及的任何责任和问题。
 
-At some point, we may wish to update the app. The app is
-currently available on Android – the requirements for the
-system(and for any additional systems we
-decide to extend the availability of the app to) may change,
-and you’ll need to download the updates if you want to keep
-using the app. OneLiteCore does not promise that it
-will always update the app so that it is relevant to you
-and/or works with the Android version that you have
-installed on your device. However, you promise to always
-accept updates to the application when offered to you, We may
-also wish to stop providing the app, and may terminate use of
-it at any time without giving notice of termination to you.
-Unless we tell you otherwise, upon any termination, (a) the
-rights and licenses granted to you in these terms will end;
-(b) you must stop using the app, and (if needed) delete it
-from your device.
+## 知识产权
 
-## Changes to This Terms and Conditions
+1. 本产品及其相关内容的所有知识产权均归广州纸龙科技有限公司所有，或经相关权利人合法授权。
+2. 您不得在未经授权的情况下复制、修改、分发或公开展示本产品的任何部分。
+3. 本产品作为创作工具，您在其中创作出的任何内容均完全归属于您本人所有，包括内容的版权、著作权等相关权利也完全归您本人所有。
 
-I may update our Terms and Conditions
-from time to time. Thus, you are advised to review this page
-periodically for any changes. I will
-notify you of any changes by posting the new Terms and
-Conditions on this page.
+## 免责声明
 
-These terms and conditions are effective as of 2022-03-30
+1. 本产品在法律允许的范围内提供“按现状”和“按可用”状态的服务，且不提供任何形式的明示或暗示的担保。
+2. 对于因使用或无法使用本产品所造成的任何直接、间接、偶然、特殊及后续的损害，广州纸龙科技有限公司不承担任何责任。
 
-## Contact Us
-If you have any questions or suggestions about my
-Terms and Conditions, do not hesitate to contact me
-at one.lite.core@gmail.com.
+## 协议的修改
+
+1. 广州纸龙科技有限公司有权在必要时修改本协议条款。修改后的协议将在本产品上发布，且自发布之日起生效。
+2. 如果您在协议修改后继续使用本产品，即视为您接受修改后的协议。
+
+## 终止服务
+
+1. 如您违反本协议中的任何条款，广州纸龙科技有限公司有权随时终止或暂停您对本产品的访问和使用。
+2. 广州纸龙科技有限公司保留在任何时候自行决定终止本产品服务的权利。
+
+## 联系我们
+
+为了避免网络中断或者服务器停机导致我们未能向您展示本协议，我们将本协议的文本内置在了本产品中。我们可能会在后续的更新或者政策调整的时候改动本协议，届时请以最新发布的内容为准。
+
+您之后可以通过“主界面侧边栏 -> 设置 -> 其他设置 -> 用户协议”重新查阅本协议。
+
+如果您对本协议有任何疑问，或者在使用本产品中遇到了任何问题或者建议，请通过邮件 [one.lite.core@gmail.com](mailto://one.lite.core@gmail.com) 联系我们。
+
+感谢您的理解，祝生活愉快！
+
+发布日期：2024年6月5日\
+生效日期：2024年6月5日\
+更新日期：2024年6月5日
+
+广州纸龙科技有限公司

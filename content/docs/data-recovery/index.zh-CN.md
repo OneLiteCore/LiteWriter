@@ -15,7 +15,7 @@ title: 如何找回数据
 
 请查看这个视频以了解如何使用回收站功能：
 
-{{< youtube id="WUrHmY4-T30" >}}
+{{< video src="recycle_bin.mp4" >}}
 
 ## 从快照中恢复您的数据
 
@@ -25,7 +25,7 @@ title: 如何找回数据
 
 请查看如下视频以了解如何使用快照功能：
 
-{{< youtube id="QRlzmj-Vp88" >}}
+{{< video src="snapshots.mp4" >}}
 
 ## 从应用内部备份中恢复数据
 
@@ -33,7 +33,7 @@ title: 如何找回数据
 
 请查看如下演示视频以了解如何从应用内部备份中恢复数据：
 
-{{< youtube id="GAOLcbpsCHQ" >}}
+{{< video src="internal_backup.mp4" >}}
 
 ## 从本地存储备份中恢复数据
 
@@ -43,7 +43,7 @@ title: 如何找回数据
 
 请查看如下演示视频以了解如何使用设置存储备份：
 
-{{< youtube id="Y-M5V3OKWM8" >}}
+{{< video src="storage_backup.mp4" >}}
 
 ## 从云备份服务器中恢复数据：
 
@@ -53,7 +53,7 @@ title: 如何找回数据
 
 请检查如下演示视频以了解如何通过云备份服务来备份和恢复你的数据：
 
-{{< youtube id="F2UTxySivO4" >}}
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android 系统自动备份
 
@@ -65,7 +65,7 @@ title: 如何找回数据
 
 你可以查看如下如下的样式视频以了解它是如何运作的：
 
-{{< youtube id="PMrsCCpMebk" >}}
+{{< video src="os_backup.mp4" >}}
 
 请注意你无须每一步都按照视频中的去做，它仅仅是一个演示视频。你需要做的仅仅是在新设备上安装本应用，如果这个机制成功运作的话，在首次进入应用后你将会看到一个展示着旧备份数据的列表对话框，就像是演示视频展示的一样。
 
