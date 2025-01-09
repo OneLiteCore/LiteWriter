@@ -15,7 +15,7 @@ title: 如何找回資料
 
 請檢視這個影片以瞭解如何使用回收站功能：
 
-[How to use the recycle bin of the app](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< youtube id="WUrHmY4-T30" >}}
 
 ## 從快照中恢復您的資料
 
@@ -25,7 +25,7 @@ title: 如何找回資料
 
 請檢視如下影片以瞭解如何使用快照功能：
 
-[Get your data back from snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< youtube id="QRlzmj-Vp88" >}}
 
 ## 從應用內部備份中恢復資料
 
@@ -33,7 +33,7 @@ title: 如何找回資料
 
 請檢視如下演示影片以瞭解如何從應用內部備份中恢復資料：
 
-[How to restore your data from app internal back](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< youtube id="GAOLcbpsCHQ" >}}
 
 ## 從本地儲存備份中恢復資料
 
@@ -43,7 +43,7 @@ title: 如何找回資料
 
 請檢視如下演示影片以瞭解如何使用設定儲存備份：
 
-[How to use storage backup](https://youtu.be/Y-M5V3OKWM8)
+{{< youtube id="Y-M5V3OKWM8" >}}
 
 ## 從雲備份伺服器中恢復資料：
 
@@ -53,7 +53,7 @@ title: 如何找回資料
 
 請檢查如下演示影片以瞭解如何透過雲備份服務來備份和恢復你的資料：
 
-[Lite Writer: How To Backup & Restore Your Data](https://youtube.com/shorts/F2UTxySivO4)
+{{< youtube id="F2UTxySivO4" >}}
 
 ## Android 系統自動備份
 
@@ -65,7 +65,7 @@ title: 如何找回資料
 
 你可以檢視如下如下的樣式影片以瞭解它是如何運作的：
 
-[Retrieve your data from Android OS auto backup](https://youtu.be/PMrsCCpMebk)
+{{< youtube id="PMrsCCpMebk" >}}
 
 請注意你無須每一步都按照影片中的去做，它僅僅是一個演示影片。你需要做的僅僅是在新裝置上安裝本應用，如果這個機制成功運作的話，在首次進入應用後你將會看到一個展示著舊備份資料的列表對話方塊，就像是演示影片展示的一樣。
 

@@ -16,7 +16,7 @@ Files in the recycle bin are kept for 30 days before being automatically deleted
 
 Watch this video to learn how to use the recycle bin:  
 
-[How to Use the Recycle Bin](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< youtube id="WUrHmY4-T30" >}}
 
 ## Restore Your Data from Snapshots
 
@@ -26,7 +26,7 @@ Each time the app saves your chapter, it creates a snapshot. By default, up to 3
 
 Watch this video to learn how to recover your data using snapshots:  
 
-[Recover Your Data from Snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< youtube id="QRlzmj-Vp88" >}}
 
 ## Restore Data from the App Internal Backup
 
@@ -34,7 +34,7 @@ The app automatically backs up all data within its home folder into a ZIP file, 
 
 Watch this video to learn how to retrieve data from the app internal backup:  
 
-[How to Restore Data from Internal Backup](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< youtube id="GAOLcbpsCHQ" >}}
 
 ## Restore Data from Local Storage Backup
 
@@ -44,7 +44,7 @@ The mechanisms mentioned above store data internally, so they're deleted if the 
 
 Watch this video to learn how to retrieve data from local storage backup:  
 
-[How to Use Storage Backup](https://youtu.be/Y-M5V3OKWM8)
+{{< youtube id="Y-M5V3OKWM8" >}}
 
 ## Restore Data from a Cloud Backup Server
 
@@ -54,7 +54,7 @@ Note: The cloud backup feature only works if you set it up in advance. If you di
 
 Watch this video to learn how to back up and restore data using a cloud backup server:  
 
-[How to Backup & Restore Your Data](https://youtube.com/shorts/F2UTxySivO4)
+{{< youtube id="F2UTxySivO4" >}}
 
 ## Android OS Auto Backup
 
@@ -66,7 +66,7 @@ However, this method is unreliable, so don't depend on it if your data is import
 
 Here's a demo on how to check if Android OS auto backup works:  
 
-[Retrieve Data from Android OS Auto Backup](https://youtu.be/PMrsCCpMebk)
+{{< youtube id="PMrsCCpMebk" >}}
 
 You don't need to follow every step in this video. Just install the app on your new phone, if it works, you'll see a dialog with a list of backup files when you first open the app.
 
