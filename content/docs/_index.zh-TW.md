@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 linkTitle: 文件
 ---
 
