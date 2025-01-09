@@ -18,12 +18,14 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Link to the privacy policy of third-party service providers used by the app 
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Unity Ads](https://unity.com/legal/privacy-policy)
+    - If you want do delete your data collected by Unity Ads, you can contact them at [DPO@unity3d.com](mailto:DPO@unity3d.com)
 
 ## Log Data
 
