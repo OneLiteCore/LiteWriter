@@ -23,6 +23,14 @@ copy_mark: src
 
 ## Released versions
 
+### v1.87.0 - 2025-01-20
+
+- Add Edge-To-Edge support
+
+### v1.86.0 - 2025-01-08
+
+- Fix some bugs
+
 ### v1.85.0 - 2024-11-20
 
 - Now you can adjust top tool bar's layout
@@ -77,6 +85,6 @@ copy_mark: src
 
 - Add scrollbar to some UI page
 
-## v1.73.0
+### v1.73.0
 
 - Update help docs
