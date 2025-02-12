@@ -23,6 +23,14 @@ copy_mark: src
 
 ## Released versions
 
+### v1.89.0 - 2025-02-12
+
+- Add the Read-only mode for the editor
+
+### v1.88.0 - 2025-01-22
+
+- Add the Markdown Image Renderer feature
+
 ### v1.87.0 - 2025-01-20
 
 - Add Edge-To-Edge support
