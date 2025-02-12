@@ -23,6 +23,22 @@ weight: 2
 
 ## Released versions
 
+### v1.89.0 - 2025-02-12
+
+- Add the Read-only mode for the editor
+
+### v1.88.0 - 2025-01-22
+
+- Add the Markdown Image Renderer feature
+
+### v1.87.0 - 2025-01-20
+
+- Add Edge-To-Edge support
+
+### v1.86.0 - 2025-01-08
+
+- Fix some bugs
+
 ### v1.85.0 - 2024-11-20
 
 - Now you can adjust top tool bar's layout
@@ -77,6 +93,6 @@ weight: 2
 
 - Add scrollbar to some UI page
 
-## v1.73.0
+### v1.73.0
 
 - Update help docs
