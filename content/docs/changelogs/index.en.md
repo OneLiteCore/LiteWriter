@@ -23,6 +23,14 @@ copy_mark: src
 
 ## Released versions
 
+### v1.91.0 - 2025-03-05
+
+- Fix some details
+
+### v1.90.0 - 2025-02-27
+
+- Add an option to disable date time text of chapter and note items
+
 ### v1.89.0 - 2025-02-12
 
 - Add the Read-only mode for the editor
