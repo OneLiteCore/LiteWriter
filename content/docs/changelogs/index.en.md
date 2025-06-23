@@ -76,31 +76,31 @@ copy_mark: src
 - Add more app themes
 - Add data recovery guide
 
-### v1.79.0
+### v1.79.0 - 2024-09-17
 
 - Seperate day and night editor themes into 2 configuration
 - Now you can sepcific a theme for a book
 
-### v1.78.0
+### v1.78.0 - 2024-09-10
 
 - Add Date Tool
 
-### v1.77.0
+### v1.77.0 - 2024-08-28
 
 - Add FAQs
 
-### v1.76.0
+### v1.76.0 - 2024-08-12
 
 - Optimize searching speed
 
-### v1.75.0
+### v1.75.0 - 2024-07-29
 
 - Add blue light filter
 
-### v1.74.0
+### v1.74.0 - 2024-07-13
 
 - Add scrollbar to some UI page
 
-### v1.73.0
+### v1.73.0 - 2024-05-25
 
 - Update help docs
