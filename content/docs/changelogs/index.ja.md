@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 copy_mark: src
-title: Changelogs
+title: 変更ログ
 weight: 2
 ---
 

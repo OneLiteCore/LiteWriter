@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 copy_mark: src
-title: Changelogs
+title: परिवर्तन लॉग्स
 weight: 2
 ---
 
