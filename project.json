@@ -1,6 +1,5 @@
 {
     "name": "LiteWriter",
     "show_toc": true,
-    "fix_path_case": true,
-    "change_log_dir": "content/docs/changelogs"
+    "fix_path_case": true
 }
