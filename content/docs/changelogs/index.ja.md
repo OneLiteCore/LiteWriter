@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## 開発計画
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- テキストをグローバルに置換する機能を追加
+- エディタのテーマを追加
+- 「書籍のアーカイブ」機能を追加
+- 一部AI機能を追加
+- 複数のクラウドバックアップサーバーを設定可能に
+- 「バックアップ内のファイル検索」機能を追加
+- Googleドライブのフォルダをクラウドバックアップフォルダとして選択可能に
+- JianguoYunクラウドバックアップサーバーのサポートを追加
+- OneDriveクラウドバックアップサーバーのサポートを追加
+- DropBoxクラウドバックアップサーバーのサポートを追加
+- 統計機能を最適化
 
-## Released versions
+## リリース済みのバージョン
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- 一部の細かい修正
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- 章やノートの日時テキストを無効にするオプションを追加
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- エディターの読み取り専用モードを追加
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Markdown画像レンダラー機能を追加
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- エッジツーエッジ対応を追加
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- 一部のバグを修正
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- 上部ツールバーのレイアウトを調整可能に
+- エディターの起動速度を最適化
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- 下部バーのサイズ調整または非表示が可能に
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- エディターテーマを追加
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- エディターのカウント変更エフェクトを追加
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- リストおよびタスクリストツールを追加
+- 共有機能を最適化し、書籍全体をPDFとしてエクスポート可能に
+- 実験的機能：PDFエクスポート時のMarkdownレンダリング
+- 「バックアップファイルのインポート」機能を追加
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- アプリテーマを追加
+- データ復旧ガイドを追加
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- 昼用・夜用のエディターテーマを2つの設定に分割
+- 書籍ごとにテーマを指定可能に
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- 日付ツールを追加
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- FAQを追加
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- 検索速度を最適化
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- ブルーライトフィルターを追加
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- 一部UIページにスクロールバーを追加
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- ヘルプドキュメントを更新

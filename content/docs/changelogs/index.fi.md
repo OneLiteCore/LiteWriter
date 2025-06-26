@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Kehityssuunnitelma
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Lisää ominaisuus korvata teksti globaalisti
+- Lisää lisää editorin teemoja
+- Lisää "Arkistoi kirja" -ominaisuus
+- Lisää joitakin tekoälyominaisuuksia
+- Salli useiden pilvivarmuuskopiointipalvelimien asettaminen
+- Lisää "Etsi tiedostoja varmuuskopioista" -ominaisuus
+- Salli Google Driven kansion valinta pilvivarmuuskopion kansioksi
+- Lisää tuki JianguoYun-pilvivarmuuskopiointipalvelimelle
+- Lisää tuki OneDrive-pilvivarmuuskopiointipalvelimelle
+- Lisää tuki DropBox-pilvivarmuuskopiointipalvelimelle
+- Optimoi tilastotoiminto
 
-## Released versions
+## Julkaistut versiot
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Korjattu joitakin yksityiskohtia
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Lisätty vaihtoehto poistaa luvun ja muistiinpanojen päivämäärä- ja aikateksti käytöstä
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Lisätty kirjoitussuojattu tila editorille
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Lisätty Markdown-kuvien renderöintiominaisuus
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Lisätty tuki Edge-To-Edge-näytöille
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Korjattu joitakin bugeja
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Ylätason työkalupalkin asettelua voi nyt säätää
+- Editorin avautumisnopeutta optimoitu
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Alapalkin kokoa voi nyt säätää tai sen voi piilottaa
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Lisätty lisää editorin teemoja
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Lisätty tehoste editorin laskurin muutoksiin
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Lisätty lista- ja tehtävälistatyökalu
+- Parannettu jakamistoimintoa, nyt voit viedä koko kirjan PDF-muodossa
+- Kokeellinen: Markdown-renderöinti PDF-viennissä
+- Lisätty "Tuo varmuuskopiotiedosto" -toiminto
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Lisätty lisää sovellusteemoja
+- Lisätty ohje tietojen palauttamiseen
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Päivä- ja yötilan editoriteemat erotettu kahdeksi asetukseksi
+- Voit nyt määrittää kirjaan oman teeman
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Lisätty päivämäärätyökalu
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Lisätty usein kysytyt kysymykset (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Hakunopeutta optimoitu
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Lisätty sinivalosuodatin
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Lisätty vierityspalkki joillekin käyttöliittymäsivuille
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Päivitetty ohjeasiakirjat

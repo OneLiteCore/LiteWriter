@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Ontwikkelplan
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Voeg een functie toe om tekst globaal te vervangen
+- Voeg meer editor-thema’s toe
+- Voeg de functie “Boek archiveren” toe
+- Voeg wat AI-functionaliteiten toe
+- Sta toe om meerdere cloud-backupservers in te stellen
+- Voeg de functie “Bestanden zoeken in backups” toe
+- Sta toe om een Google Drive-map als cloud-backupmap te selecteren
+- Voeg ondersteuning toe voor de JianguoYun cloud-backupserver
+- Voeg ondersteuning toe voor de OneDrive cloud-backupserver
+- Voeg ondersteuning toe voor de DropBox cloud-backupserver
+- Optimaliseer de statistiekfunctie
 
-## Released versions
+## Uitgebrachte versies
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Sommige details opgelost
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Optie toegevoegd om datum- en tijdtekst bij hoofdstuk- en notitie-items uit te schakelen
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Alleen-lezen modus toegevoegd voor de editor
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Markdown afbeeldingsrenderer toegevoegd
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Edge-To-Edge ondersteuning toegevoegd
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Enkele bugs opgelost
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Je kunt nu de lay-out van de bovenste werkbalk aanpassen
+- Opstartsnelheid van de editor geoptimaliseerd
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Je kunt nu de grootte van de onderste balk aanpassen of verbergen
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Meer editor-thema’s toegevoegd
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Effect toegevoegd voor tellerwijzigingen in de editor
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Lijst- en takenlijsttool toegevoegd
+- Deel-functie geoptimaliseerd, nu kun je een heel boek exporteren naar PDF
+- Experimenteel: Markdown renderen bij exporteren naar PDF
+- Functie "Importeer back-upbestand" toegevoegd
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Meer app-thema’s toegevoegd
+- Handleiding voor gegevensherstel toegevoegd
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Dag- en nacht-thema’s van de editor gescheiden in twee instellingen
+- Je kunt nu een thema specificeren voor een boek
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Datumtool toegevoegd
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- FAQ toegevoegd
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Zoek snelheid geoptimaliseerd
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Blauwlichtfilter toegevoegd
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Scrollbalk toegevoegd aan sommige UI-pagina’s
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Helpdocumenten bijgewerkt

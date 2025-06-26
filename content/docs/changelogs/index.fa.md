@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## برنامه توسعه
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- افزودن قابلیت جایگزینی متن به صورت سراسری
+- افزودن تم‌های بیشتر برای ویرایشگر
+- افزودن قابلیت «بایگانی کتاب»
+- افزودن برخی امکانات هوش مصنوعی
+- امکان تنظیم چندین سرور پشتیبان‌گیری ابری
+- افزودن قابلیت «جستجوی فایل‌ها در پشتیبان‌ها»
+- امکان انتخاب یک پوشه از Google Drive به عنوان پوشه پشتیبان ابری
+- افزودن پشتیبانی از سرور پشتیبان ابری JianguoYun
+- افزودن پشتیبانی از سرور پشتیبان ابری OneDrive
+- افزودن پشتیبانی از سرور پشتیبان ابری DropBox
+- بهینه‌سازی قابلیت آمارگیری
 
-## Released versions
+## نسخه‌های منتشرشده
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- رفع برخی جزئیات
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- افزودن گزینه‌ای برای غیرفعال کردن نمایش تاریخ و زمان در آیتم‌های فصل و یادداشت
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- افزودن حالت فقط خواندنی برای ویرایشگر
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- افزودن قابلیت رندر تصویر در Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- افزودن پشتیبانی از حالت Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- رفع برخی باگ‌ها
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- اکنون می‌توانید چیدمان نوار ابزار بالا را تنظیم کنید
+- بهینه‌سازی سرعت باز شدن ویرایشگر
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- اکنون می‌توانید اندازه نوار پایینی را تنظیم یا آن را مخفی کنید
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- افزودن تم‌های بیشتر برای ویرایشگر
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- افزودن افکت تغییر شمارش در ویرایشگر
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- افزودن ابزار لیست و لیست وظایف
+- بهینه‌سازی قابلیت اشتراک‌گذاری؛ اکنون می‌توانید یک کتاب کامل را به PDF صادر کنید
+- آزمایشی: رندر کردن Markdown هنگام صدور به PDF
+- افزودن قابلیت "وارد کردن فایل پشتیبان"
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- افزودن تم‌های بیشتر برای اپ
+- افزودن راهنمای بازیابی اطلاعات
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- جدا کردن تم‌های روز و شب ویرایشگر به دو تنظیم جداگانه
+- اکنون می‌توانید برای هر کتاب یک تم مشخص انتخاب کنید
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- افزودن ابزار تاریخ
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- افزودن بخش سوالات متداول (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- بهینه‌سازی سرعت جستجو
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- افزودن فیلتر نور آبی
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- افزودن نوار اسکرول به برخی صفحات رابط کاربری
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- به‌روزرسانی مستندات راهنما

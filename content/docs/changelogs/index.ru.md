@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## План разработки
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Добавить функцию глобальной замены текста
+- Добавить больше тем для редактора
+- Добавить функцию «Архивировать книгу»
+- Добавить некоторые функции ИИ
+- Разрешить настройку нескольких серверов облачного резервного копирования
+- Добавить функцию «Поиск файлов в резервных копиях»
+- Разрешить выбор папки Google Drive в качестве папки облачного резервного копирования
+- Добавить поддержку сервера облачного резервного копирования JianguoYun
+- Добавить поддержку сервера облачного резервного копирования OneDrive
+- Добавить поддержку сервера облачного резервного копирования DropBox
+- Оптимизировать функцию статистики
 
-## Released versions
+## Выпущенные версии
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Исправлены некоторые детали
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Добавлена опция отключения отображения даты и времени для элементов главы и заметок
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Добавлен режим только для чтения для редактора
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Добавлена функция рендеринга изображений в Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Добавлена поддержка Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Исправлены некоторые ошибки
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Теперь вы можете настраивать расположение верхней панели инструментов
+- Оптимизирована скорость запуска редактора
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Теперь можно регулировать размер нижней панели или скрывать её
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Добавлено больше тем для редактора
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Добавлен эффект изменения счётчика в редакторе
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Добавлены инструменты списка и списка задач
+- Оптимизирована функция обмена, теперь можно экспортировать целую книгу в PDF
+- Экспериментально: рендеринг Markdown при экспорте в PDF
+- Добавлена функция «Импорт файла резервной копии»
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Добавлено больше тем приложения
+- Добавлено руководство по восстановлению данных
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Темы редактора для дня и ночи разделены на две настройки
+- Теперь можно задать тему для конкретной книги
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Добавлен инструмент даты
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Добавлен раздел часто задаваемых вопросов (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Оптимизирована скорость поиска
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Добавлен фильтр синего света
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Добавлена полоса прокрутки на некоторые страницы интерфейса
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Обновлена документация помощи

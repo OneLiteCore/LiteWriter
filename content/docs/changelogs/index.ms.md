@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Pelan pembangunan
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Tambah ciri untuk menggantikan teks secara global
+- Tambah lebih banyak tema Editor
+- Tambah ciri "Arkibkan buku"
+- Tambah beberapa ciri AI
+- Benarkan menetapkan pelbagai pelayan sandaran awan
+- Tambah ciri "Cari fail dalam sandaran"
+- Benarkan memilih folder Google Drive sebagai folder sandaran awan
+- Tambah sokongan pelayan sandaran awan JianguoYun
+- Tambah sokongan pelayan sandaran awan OneDrive
+- Tambah sokongan pelayan sandaran awan DropBox
+- Optimumkan ciri statistik
 
-## Released versions
+## Versi yang dikeluarkan
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Memperbaiki beberapa butiran
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Menambah pilihan untuk mematikan teks tarikh dan masa pada item bab dan nota
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Menambah mod baca sahaja untuk editor
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Menambah ciri penjana imej Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Menambah sokongan Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Memperbaiki beberapa pepijat
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Kini anda boleh laraskan susun atur bar alat atas
+- Mengoptimumkan kelajuan pembukaan editor
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Kini anda boleh laraskan saiz bar bawah atau menyembunyikannya
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Menambah lebih banyak tema editor
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Menambah kesan perubahan kiraan editor
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Menambah alat senarai dan senarai tugasan
+- Mengoptimumkan fungsi perkongsian, kini anda boleh eksport keseluruhan buku ke PDF
+- Eksperimen: Menjana markdown ketika mengeksport ke PDF
+- Menambah ciri "Import fail sandaran"
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Menambah lebih banyak tema aplikasi
+- Menambah panduan pemulihan data
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Memisahkan tema editor siang dan malam kepada 2 konfigurasi
+- Kini anda boleh menetapkan tema khusus untuk sesuatu buku
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Menambah Alat Tarikh
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Menambah Soalan Lazim (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Mengoptimumkan kelajuan carian
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Menambah penapis cahaya biru
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Menambah bar skrol pada beberapa halaman UI
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Mengemas kini dokumen bantuan

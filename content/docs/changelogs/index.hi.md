@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## डेव योजना
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- वैश्विक रूप से टेक्स्ट बदलने की सुविधा जोड़ें
+- अधिक संपादक थीम जोड़ें
+- "बुक आर्काइव करें" फीचर जोड़ें
+- कुछ एआई सुविधाएँ जोड़ें
+- कई क्लाउड बैकअप सर्वर सेट करने की अनुमति दें
+- "बैकअप में फाइलें खोजें" फीचर जोड़ें
+- क्लाउड बैकअप फोल्डर के रूप में Google Drive का फोल्डर चुनने की अनुमति दें
+- JianguoYun क्लाउड बैकअप सर्वर का समर्थन जोड़ें
+- OneDrive क्लाउड बैकअप सर्वर का समर्थन जोड़ें
+- DropBox क्लाउड बैकअप सर्वर का समर्थन जोड़ें
+- सांख्यिकी फीचर को बेहतर बनाएं
 
-## Released versions
+## जारी किए गए संस्करण
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- कुछ विवरण ठीक किए गए
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- अध्याय और नोट आइटम के तारीख और समय टेक्स्ट को बंद करने का विकल्प जोड़ा गया
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- एडिटर के लिए रीड-ओनली मोड जोड़ा गया
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- मार्कडाउन इमेज रेंडरर फीचर जोड़ा गया
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- एज-टू-एज समर्थन जोड़ा गया
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- कुछ बग ठीक किए गए
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- अब आप टॉप टूल बार की लेआउट समायोजित कर सकते हैं
+- एडिटर की खुलने की गति बेहतर की गई
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- अब आप बॉटम बार का आकार समायोजित कर सकते हैं या उसे छिपा सकते हैं
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- एडिटर के लिए और थीम जोड़े गए
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- एडिटर में काउंट बदलने का इफेक्ट जोड़ा गया
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- सूची और टास्क सूची टूल जोड़ा गया
+- शेयरिंग फीचर बेहतर किया गया, अब आप पूरी किताब को PDF में एक्सपोर्ट कर सकते हैं
+- प्रायोगिक: PDF में एक्सपोर्ट करते समय मार्कडाउन रेंडर करना
+- "बैकअप फाइल इम्पोर्ट करें" फीचर जोड़ा गया
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- और ऐप थीम जोड़े गए
+- डेटा रिकवरी गाइड जोड़ा गया
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- दिन और रात के एडिटर थीम को दो कॉन्फ़िगरेशन में अलग किया गया
+- अब आप किसी किताब के लिए विशिष्ट थीम सेट कर सकते हैं
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- डेट टूल जोड़ा गया
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- अक्सर पूछे जाने वाले प्रश्न (FAQs) जोड़े गए
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- खोज की गति बेहतर की गई
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- ब्लू लाइट फ़िल्टर जोड़ा गया
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- कुछ UI पेज में स्क्रॉलबार जोड़ा गया
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- मदद दस्तावेज़ अपडेट किए गए

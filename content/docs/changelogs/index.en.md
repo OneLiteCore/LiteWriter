@@ -11,13 +11,12 @@ weight: 2
 - Add more Editor themes
 - Add "Archive book" feature
 - Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
+- Allow to set multiple cloud backup server
+- Add "Search files in backups" feature
+- Allow selecting a folder of Google Drive as the cloud backup folder
+- Add JianguoYun cloud backup server support
+- Add OneDrive cloud backup server support
+- Add DropBox cloud backup server support
 - Optimize statistic feature
 
 ## Released versions

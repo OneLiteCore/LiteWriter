@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Plano ng dev
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Magdagdag ng tampok na palitan ang teksto nang globally
+- Magdagdag ng mas maraming tema para sa editor
+- Magdagdag ng tampok na "I-archive ang libro"
+- Magdagdag ng ilang AI na bagay
+- Pahintulutan ang pag-set ng maraming cloud backup server
+- Magdagdag ng tampok na "Maghanap ng mga file sa mga backup"
+- Pahintulutan ang pagpili ng folder ng Google Drive bilang cloud backup folder
+- Magdagdag ng suporta para sa JianguoYun cloud backup server
+- Magdagdag ng suporta para sa OneDrive cloud backup server
+- Magdagdag ng suporta para sa DropBox cloud backup server
+- I-optimize ang tampok ng istatistika
 
-## Released versions
+## Inilabas na mga bersyon
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Inayos ang ilang detalye
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Nagdagdag ng opsyon para i-disable ang petsa at oras na teksto sa mga chapter at note item
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Nagdagdag ng Read-only mode para sa editor
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Nagdagdag ng Markdown Image Renderer na feature
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Nagdagdag ng suporta para sa Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Inayos ang ilang bug
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Maaari mo nang i-adjust ang layout ng top tool bar
+- In-optimize ang bilis ng pagbubukas ng editor
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Maaari mo nang i-adjust ang laki ng bottom bar o itago ito
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Nagdagdag ng mas maraming tema para sa editor
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Nagdagdag ng effect para sa pagbabago ng count sa editor
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Nagdagdag ng list at task list na tool
+- In-optimize ang feature sa pag-share, maaari ka nang mag-export ng buong libro sa PDF
+- Experimental: Mag-render ng markdown kapag nag-export bilang PDF
+- Nagdagdag ng "Import backup file" na feature
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Nagdagdag ng mas maraming app themes
+- Nagdagdag ng data recovery guide
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Pinaghiwalay ang day at night themes ng editor sa dalawang setting
+- Maaari ka nang pumili ng specific na tema para sa isang libro
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Nagdagdag ng Date Tool
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Nagdagdag ng FAQs
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- In-optimize ang bilis ng paghahanap
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Nagdagdag ng blue light filter
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Nagdagdag ng scrollbar sa ilang UI page
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- In-update ang help docs

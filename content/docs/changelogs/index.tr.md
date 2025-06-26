@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Geliştirme planı
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Metni küresel olarak değiştirme özelliği ekle
+- Daha fazla Düzenleyici teması ekle
+- “Kitabı Arşivle” özelliği ekle
+- Bazı yapay zeka özellikleri ekle
+- Birden fazla bulut yedekleme sunucusu ayarlamaya izin ver
+- “Yedeklerde dosya ara” özelliği ekle
+- Google Drive klasörünü bulut yedekleme klasörü olarak seçmeye izin ver
+- JianguoYun bulut yedekleme sunucusu desteği ekle
+- OneDrive bulut yedekleme sunucusu desteği ekle
+- DropBox bulut yedekleme sunucusu desteği ekle
+- İstatistik özelliğini optimize et
 
-## Released versions
+## Yayınlanan sürümler
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Bazı detaylar düzeltildi
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Bölüm ve not öğelerindeki tarih ve saat metnini devre dışı bırakma seçeneği eklendi
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Düzenleyici için salt okunur mod eklendi
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Markdown Görüntü İşleyici özelliği eklendi
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Kenar-Kenara (Edge-To-Edge) desteği eklendi
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Bazı hatalar düzeltildi
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Artık üst araç çubuğunun düzenini ayarlayabilirsiniz
+- Düzenleyicinin açılış hızı optimize edildi
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Artık alt çubuğun boyutunu ayarlayabilir veya gizleyebilirsiniz
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Daha fazla düzenleyici teması eklendi
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Düzenleyicide sayaç değişikliği efekti eklendi
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Liste ve görev listesi aracı eklendi
+- Paylaşım özelliği optimize edildi, artık tüm kitabı PDF olarak dışa aktarabilirsiniz
+- Deneysel: PDF olarak dışa aktarırken markdown işleme
+- "Yedek dosyası içe aktar" özelliği eklendi
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Daha fazla uygulama teması eklendi
+- Veri kurtarma rehberi eklendi
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Gün ve gece düzenleyici temaları iki ayrı yapılandırmaya ayrıldı
+- Artık bir kitap için özel tema belirleyebilirsiniz
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Tarih aracı eklendi
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Sıkça Sorulan Sorular (SSS) eklendi
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Arama hızı optimize edildi
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Mavi ışık filtresi eklendi
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Bazı kullanıcı arayüzü sayfalarına kaydırma çubuğu eklendi
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Yardım dokümanları güncellendi

@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## خطة التطوير
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- إضافة ميزة استبدال النص بشكل شامل
+- إضافة المزيد من ثيمات المحرر
+- إضافة ميزة "أرشفة الكتاب"
+- إضافة بعض ميزات الذكاء الاصطناعي
+- السماح بتعيين عدة خوادم نسخ احتياطي سحابي
+- إضافة ميزة "البحث في الملفات داخل النسخ الاحتياطية"
+- السماح باختيار مجلد من Google Drive كمجلد النسخ الاحتياطي السحابي
+- إضافة دعم لخادم النسخ الاحتياطي السحابي JianguoYun
+- إضافة دعم لخادم النسخ الاحتياطي السحابي OneDrive
+- إضافة دعم لخادم النسخ الاحتياطي السحابي DropBox
+- تحسين ميزة الإحصائيات
 
-## Released versions
+## الإصدارات الصادرة
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- إصلاح بعض التفاصيل
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- إضافة خيار لتعطيل نص التاريخ والوقت لعناصر الفصول والملاحظات
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- إضافة وضع القراءة فقط للمحرر
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- إضافة ميزة عرض الصور في Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- إضافة دعم من الحافة إلى الحافة (Edge-To-Edge)
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- إصلاح بعض الأخطاء
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- أصبح بإمكانك الآن تعديل تخطيط شريط الأدوات العلوي
+- تحسين سرعة فتح المحرر
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- أصبح بإمكانك الآن تعديل حجم الشريط السفلي أو إخفاؤه
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- إضافة المزيد من سمات المحرر
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- إضافة تأثير تغيير عدد العناصر في المحرر
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- إضافة أداة القوائم وقوائم المهام
+- تحسين ميزة المشاركة، الآن يمكنك تصدير كتاب كامل إلى PDF
+- تجريبي: عرض Markdown عند التصدير إلى PDF
+- إضافة ميزة "استيراد ملف النسخة الاحتياطية"
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- إضافة المزيد من سمات التطبيق
+- إضافة دليل استعادة البيانات
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- فصل سمات المحرر للنهار والليل إلى إعدادين مختلفين
+- أصبح بإمكانك الآن تعيين سمة مخصصة لكل كتاب
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- إضافة أداة التاريخ
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- إضافة قسم الأسئلة الشائعة (FAQs)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- تحسين سرعة البحث
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- إضافة مرشح الضوء الأزرق
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- إضافة شريط تمرير لبعض واجهات المستخدم
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- تحديث مستندات المساعدة

@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Plan de desarrollo
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Añadir una función para reemplazar texto de forma global
+- Añadir más temas para el editor
+- Añadir la función "Archivar libro"
+- Añadir algunas funciones de IA
+- Permitir configurar múltiples servidores de copia de seguridad en la nube
+- Añadir la función "Buscar archivos en las copias de seguridad"
+- Permitir seleccionar una carpeta de Google Drive como carpeta de copia de seguridad en la nube
+- Añadir soporte para servidor de copia de seguridad en la nube JianguoYun
+- Añadir soporte para servidor de copia de seguridad en la nube OneDrive
+- Añadir soporte para servidor de copia de seguridad en la nube DropBox
+- Optimizar la función de estadísticas
 
-## Released versions
+## Versiones publicadas
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Corregidos algunos detalles
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Añadida una opción para desactivar la fecha y hora en los elementos de capítulos y notas
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Añadido el modo de solo lectura para el editor
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Añadida la función de renderizado de imágenes en Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Añadido soporte para Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Corregidos algunos errores
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Ahora puedes ajustar el diseño de la barra de herramientas superior
+- Optimizada la velocidad de apertura del editor
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Ahora puedes ajustar el tamaño de la barra inferior o esconderla
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Añadidos más temas para el editor
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Añadido efecto de cambio de conteo en el editor
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Añadida herramienta de listas y listas de tareas
+- Función de compartir optimizada, ahora puedes exportar un libro completo a PDF
+- Experimental: Renderizar Markdown al exportar como PDF
+- Añadida la función de "Importar archivo de copia de seguridad"
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Añadidos más temas para la app
+- Añadida guía de recuperación de datos
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Separados los temas del editor para día y noche en dos configuraciones
+- Ahora puedes asignar un tema específico a un libro
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Añadida herramienta de fecha
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Añadidas Preguntas Frecuentes (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Optimizada la velocidad de búsqueda
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Añadido filtro de luz azul
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Añadida barra de desplazamiento a algunas páginas de la interfaz
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Documentación de ayuda actualizada

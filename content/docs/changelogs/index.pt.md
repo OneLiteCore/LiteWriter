@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Plano de desenvolvimento
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Adicionar funcionalidade para substituir texto globalmente
+- Adicionar mais temas para o editor
+- Adicionar funcionalidade “Arquivar livro”
+- Adicionar algumas funcionalidades de IA
+- Permitir configurar múltiplos servidores de backup na nuvem
+- Adicionar funcionalidade “Pesquisar arquivos em backups”
+- Permitir selecionar uma pasta do Google Drive como pasta de backup na nuvem
+- Adicionar suporte para servidor de backup na nuvem JianguoYun
+- Adicionar suporte para servidor de backup na nuvem OneDrive
+- Adicionar suporte para servidor de backup na nuvem DropBox
+- Otimizar funcionalidade de estatísticas
 
-## Released versions
+## Versões lançadas
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Corrigidos alguns detalhes
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Adicionada opção para desativar o texto de data e hora nos itens de capítulo e nota
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Adicionado modo somente leitura para o editor
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Adicionada função de renderização de imagens Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Adicionado suporte Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Corrigidos alguns bugs
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Agora você pode ajustar o layout da barra de ferramentas superior
+- Otimizada a velocidade de abertura do editor
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Agora você pode ajustar o tamanho da barra inferior ou ocultá-la
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Adicionados mais temas para o editor
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Adicionado efeito de mudança de contagem no editor
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Adicionadas ferramentas de lista e lista de tarefas
+- Otimizada a função de compartilhamento, agora você pode exportar um livro inteiro para PDF
+- Experimental: renderizar Markdown ao exportar para PDF
+- Adicionada função “Importar arquivo de backup”
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Adicionados mais temas para o app
+- Adicionado guia de recuperação de dados
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Separados os temas de editor para dia e noite em duas configurações
+- Agora você pode definir um tema específico para um livro
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Adicionada ferramenta de data
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Adicionadas Perguntas Frequentes (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Otimizada a velocidade de busca
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Adicionado filtro de luz azul
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Adicionada barra de rolagem em algumas páginas da interface
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Documentação de ajuda atualizada

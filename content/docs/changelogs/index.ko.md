@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## 개발 계획
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- 텍스트를 전역으로 교체하는 기능 추가
+- 더 많은 에디터 테마 추가
+- "책 보관" 기능 추가
+- 일부 AI 기능 추가
+- 여러 클라우드 백업 서버 설정 허용
+- "백업에서 파일 검색" 기능 추가
+- 구글 드라이브 폴더를 클라우드 백업 폴더로 선택할 수 있도록 허용
+- JianguoYun 클라우드 백업 서버 지원 추가
+- OneDrive 클라우드 백업 서버 지원 추가
+- DropBox 클라우드 백업 서버 지원 추가
+- 통계 기능 최적화
 
-## Released versions
+## 출시된 버전
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- 일부 세부 사항 수정
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- 챕터 및 노트 항목의 날짜 및 시간 텍스트를 비활성화하는 옵션 추가
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- 에디터 읽기 전용 모드 추가
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- 마크다운 이미지 렌더러 기능 추가
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- 엣지 투 엣지 지원 추가
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- 일부 버그 수정
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- 상단 도구 막대 레이아웃 조정 가능
+- 에디터 실행 속도 최적화
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- 하단 바 크기 조정 또는 숨기기 가능
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- 에디터 테마 추가
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- 에디터 카운트 변경 효과 추가
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- 목록 및 작업 목록 도구 추가
+- 공유 기능 최적화, 이제 전체 책을 PDF로 내보내기 가능
+- 실험적: PDF 내보내기 시 마크다운 렌더링
+- “백업 파일 가져오기” 기능 추가
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- 앱 테마 추가
+- 데이터 복구 가이드 추가
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- 낮과 밤 에디터 테마를 두 가지 설정으로 분리
+- 특정 책에 대해 테마 지정 가능
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- 날짜 도구 추가
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- FAQ 추가
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- 검색 속도 최적화
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- 블루라이트 필터 추가
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- 일부 UI 페이지에 스크롤바 추가
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- 도움말 문서 업데이트

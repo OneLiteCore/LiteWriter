@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## План розробки
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Додати функцію глобальної заміни тексту
+- Додати більше тем для редактора
+- Додати функцію «Архівувати книгу»
+- Додати деякі функції штучного інтелекту
+- Дозволити налаштовувати кілька серверів хмарного резервного копіювання
+- Додати функцію «Пошук файлів у резервних копіях»
+- Дозволити вибирати папку Google Drive як папку хмарного резервного копіювання
+- Додати підтримку сервера хмарного резервного копіювання JianguoYun
+- Додати підтримку сервера хмарного резервного копіювання OneDrive
+- Додати підтримку сервера хмарного резервного копіювання DropBox
+- Оптимізувати функцію статистики
 
-## Released versions
+## Випущені версії
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Виправлено деякі деталі
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Додано опцію вимкнення тексту дати й часу у розділах та нотатках
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Додано режим лише для читання в редакторі
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Додано функцію відображення зображень Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Додано підтримку Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Виправлено деякі помилки
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Тепер можна налаштовувати розташування верхньої панелі інструментів
+- Оптимізовано швидкість запуску редактора
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Тепер можна змінювати розмір нижньої панелі або ховати її
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Додано більше тем для редактора
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Додано ефект зміни лічильника в редакторі
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Додано інструменти списку та списку завдань
+- Оптимізовано функцію спільного доступу, тепер можна експортувати цілу книгу у PDF
+- Експериментально: відображення markdown під час експорту в PDF
+- Додано функцію «Імпорт файлу резервної копії»
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Додано більше тем для застосунку
+- Додано посібник з відновлення даних
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Теми редактора для дня та ночі розділено на дві конфігурації
+- Тепер можна призначати тему для окремої книги
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Додано інструмент дати
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Додано розділ поширених запитань (FAQ)
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Оптимізовано швидкість пошуку
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Додано фільтр синього світла
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Додано смугу прокрутки на деяких сторінках інтерфейсу
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Оновлено документацію допомоги

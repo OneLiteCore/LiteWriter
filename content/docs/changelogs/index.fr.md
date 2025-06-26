@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Plan de développement
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Ajouter une fonction pour remplacer le texte globalement
+- Ajouter plus de thèmes pour l’éditeur
+- Ajouter la fonction « Archiver un livre »
+- Ajouter quelques fonctionnalités d’IA
+- Permettre de configurer plusieurs serveurs de sauvegarde cloud
+- Ajouter la fonction « Rechercher des fichiers dans les sauvegardes »
+- Permettre de sélectionner un dossier Google Drive comme dossier de sauvegarde cloud
+- Ajouter la prise en charge du serveur de sauvegarde cloud JianguoYun
+- Ajouter la prise en charge du serveur de sauvegarde cloud OneDrive
+- Ajouter la prise en charge du serveur de sauvegarde cloud DropBox
+- Optimiser la fonction de statistiques
 
-## Released versions
+## Versions publiées
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Correction de certains détails
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Ajout d’une option pour désactiver la date et l’heure des chapitres et des notes
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Ajout du mode lecture seule pour l’éditeur
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Ajout de la fonctionnalité de rendu d’images Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Ajout de la prise en charge Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Correction de quelques bugs
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Vous pouvez maintenant ajuster la disposition de la barre d’outils supérieure
+- Optimisation de la vitesse d’ouverture de l’éditeur
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Vous pouvez maintenant ajuster ou masquer la barre inférieure
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Ajout de nouveaux thèmes pour l’éditeur
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Ajout d’un effet de changement de compteur dans l’éditeur
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Ajout d’un outil de liste et de liste de tâches
+- Optimisation de la fonction de partage : vous pouvez maintenant exporter un livre entier en PDF
+- Expérimental : rendu du markdown lors de l’exportation en PDF
+- Ajout de la fonctionnalité "Importer un fichier de sauvegarde"
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Ajout de nouveaux thèmes pour l’application
+- Ajout d’un guide de récupération des données
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Séparation des thèmes jour et nuit de l’éditeur en deux paramètres
+- Vous pouvez maintenant définir un thème spécifique pour un livre
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Ajout de l’outil de date
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Ajout de la section FAQ
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Optimisation de la vitesse de recherche
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Ajout d’un filtre de lumière bleue
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Ajout d’une barre de défilement à certaines pages de l’interface
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Mise à jour des documents d’aide

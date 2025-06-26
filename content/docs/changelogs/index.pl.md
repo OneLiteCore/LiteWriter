@@ -1,26 +1,25 @@
 ---
 ShowToc: true
-copy_mark: copied
+copy_mark: src
 title: Changelogs
 weight: 2
 ---
 
-## Dev plan
+## Plan rozwoju
 
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Improve backup system
-    - Allow to set multiple cloud backup server
-    - Add "Search files in backups" feature
-    - Allow selecting a folder of Google Drive as the cloud backup folder
-    - Add JianguoYun cloud backup server support
-    - Add OneDrive cloud backup server support
-    - Add DropBox cloud backup server support
-- Optimize statistic feature
+- Dodaj funkcję globalnej zamiany tekstu
+- Dodaj więcej motywów edytora
+- Dodaj funkcję „Archiwizuj książkę”
+- Dodaj kilka funkcji AI
+- Pozwól na ustawienie wielu serwerów kopii zapasowej w chmurze
+- Dodaj funkcję „Wyszukaj pliki w kopiach zapasowych”
+- Pozwól na wybranie folderu Google Drive jako folderu kopii zapasowej w chmurze
+- Dodaj wsparcie dla serwera kopii zapasowej JianguoYun
+- Dodaj wsparcie dla serwera kopii zapasowej OneDrive
+- Dodaj wsparcie dla serwera kopii zapasowej DropBox
+- Optymalizuj funkcję statystyk
 
-## Released versions
+## Wydane wersje
 
 ### v1.93.0 - 2025-06-04
 
@@ -32,82 +31,82 @@ weight: 2
 
 ### v1.91.0 - 2025-03-05
 
-- Fix some details
+- Poprawiono kilka szczegółów
 
 ### v1.90.0 - 2025-02-27
 
-- Add an option to disable date time text of chapter and note items
+- Dodano opcję wyłączania tekstu daty i czasu przy elementach rozdziałów i notatek
 
 ### v1.89.0 - 2025-02-12
 
-- Add the Read-only mode for the editor
+- Dodano tryb tylko do odczytu dla edytora
 
 ### v1.88.0 - 2025-01-22
 
-- Add the Markdown Image Renderer feature
+- Dodano funkcję renderowania obrazów Markdown
 
 ### v1.87.0 - 2025-01-20
 
-- Add Edge-To-Edge support
+- Dodano obsługę Edge-To-Edge
 
 ### v1.86.0 - 2025-01-08
 
-- Fix some bugs
+- Naprawiono kilka błędów
 
 ### v1.85.0 - 2024-11-20
 
-- Now you can adjust top tool bar's layout
-- Optimize the opening speed of the editor
+- Teraz możesz dostosować układ górnego paska narzędzi
+- Optymalizacja szybkości uruchamiania edytora
 
 ### v1.84.0 - 2024-11-07
 
-- Now you can adjust bottom bar size or hide it
+- Teraz możesz dostosować rozmiar dolnego paska lub go ukryć
 
 ### v1.83.0 - 2024-10-28
 
-- Add more editor theme
+- Dodano więcej motywów edytora
 
 ### v1.82.0 - 2024-10-21
 
-- Add editor count changing effect
+- Dodano efekt zmiany licznika w edytorze
 
 ### v1.81.0 - 2024-10-13
 
-- Add list and task list tool
-- Optimize sharing feature, now you can export a whole book into PDF
-- Experimental: Render markdown when exporting as PDF
-- Add "Import backup file" feature
+- Dodano narzędzie listy i listy zadań
+- Optymalizacja funkcji udostępniania, teraz możesz wyeksportować całą książkę do PDF
+- Eksperymentalnie: renderowanie markdown podczas eksportu do PDF
+- Dodano funkcję „Importuj plik kopii zapasowej”
 
 ### v1.80.0 - 2024-09-28
 
-- Add more app themes
-- Add data recovery guide
+- Dodano więcej motywów aplikacji
+- Dodano przewodnik odzyskiwania danych
 
 ### v1.79.0 - 2024-09-17
 
-- Seperate day and night editor themes into 2 configuration
-- Now you can sepcific a theme for a book
+- Oddzielono motywy edytora na dzienny i nocny jako dwie konfiguracje
+- Teraz możesz przypisać motyw do konkretnej książki
 
 ### v1.78.0 - 2024-09-10
 
-- Add Date Tool
+- Dodano narzędzie daty
 
 ### v1.77.0 - 2024-08-28
 
-- Add FAQs
+- Dodano FAQ
 
 ### v1.76.0 - 2024-08-12
 
-- Optimize searching speed
+- Optymalizacja szybkości wyszukiwania
 
 ### v1.75.0 - 2024-07-29
 
-- Add blue light filter
+- Dodano filtr światła niebieskiego
 
 ### v1.74.0 - 2024-07-13
 
-- Add scrollbar to some UI page
+- Dodano pasek przewijania do niektórych stron UI
 
 ### v1.73.0 - 2024-05-25
 
-- Update help docs
+- Zaktualizowano dokumentację pomocy
