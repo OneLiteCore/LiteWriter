@@ -1,8 +1,8 @@
 ---
-title: Changelogs
 ShowToc: true
-weight: 2
 copy_mark: src
+title: Changelogs
+weight: 2
 ---
 
 ## Dev plan
@@ -22,6 +22,14 @@ copy_mark: src
 - Add calendar reminders and widgets
 
 ## Released versions
+
+### v1.93.0 - 2025-06-04
+
+- Add new note board widget
+
+### v1.92.0 - 2025-04-25
+
+- Allow customizing Google Drive backup folder
 
 ### v1.91.0 - 2025-03-05
 

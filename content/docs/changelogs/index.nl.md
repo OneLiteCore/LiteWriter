@@ -23,6 +23,14 @@ weight: 2
 
 ## Released versions
 
+### v1.93.0 - 2025-06-04
+
+- Nieuwe notitiebord-widget toevoegen
+
+### v1.92.0 - 2025-04-25
+
+- Sta het aanpassen van de Google Drive-back-upmap toe
+
 ### v1.91.0 - 2025-03-05
 
 - Fix some details

@@ -23,6 +23,14 @@ weight: 2
 
 ## Released versions
 
+### v1.93.0 - 2025-06-04
+
+- Yeni not panosu bileşeni ekle
+
+### v1.92.0 - 2025-04-25
+
+- Google Drive yedekleme klasörünü özelleştirmeye izin ver
+
 ### v1.91.0 - 2025-03-05
 
 - Fix some details

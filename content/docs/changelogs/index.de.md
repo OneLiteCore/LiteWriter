@@ -23,6 +23,14 @@ weight: 2
 
 ## Released versions
 
+### v1.93.0 - 2025-06-04
+
+- Neues Notiztafel-Widget hinzufügen
+
+### v1.92.0 - 2025-04-25
+
+- Anpassen des Google Drive-Backup-Ordners erlauben
+
 ### v1.91.0 - 2025-03-05
 
 - Fix some details

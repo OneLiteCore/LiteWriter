@@ -23,6 +23,14 @@ weight: 2
 
 ## Released versions
 
+### v1.93.0 - 2025-06-04
+
+- Magdagdag ng bagong widget ng note board
+
+### v1.92.0 - 2025-04-25
+
+- Pahintulutan ang pag-customize ng Google Drive backup folder
+
 ### v1.91.0 - 2025-03-05
 
 - Fix some details
