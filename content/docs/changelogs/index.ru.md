@@ -19,7 +19,6 @@ weight: 2
     - Add OneDrive cloud backup server support
     - Add DropBox cloud backup server support
 - Optimize statistic feature
-- Add calendar reminders and widgets
 
 ## Released versions
 
