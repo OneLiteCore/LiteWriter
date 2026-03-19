@@ -138,53 +138,47 @@ languages:
     title: Lite Writer
     weight: 16
   
-  ko:
-    languageCode: ko
-    languageName: Korean
-    title: Lite Writer
-    weight: 17
-  
   ms:
     languageCode: ms
     languageName: Malay
     title: Lite Writer
-    weight: 18
+    weight: 17
 
   nl:
     languageCode: nl
     languageName: Dutch
     title: Lite Writer
-    weight: 19
+    weight: 18
 
   pl:
     languageCode: pl
     languageName: Polish
     title: Lite Writer
-    weight: 20
+    weight: 19
 
   pt:
     languageCode: pt
     languageName: Portuguese
     title: Lite Writer
-    weight: 21
+    weight: 20
 
   ru:
     languageCode: ru
     languageName: Russian
     title: Lite Writer
-    weight: 22
+    weight: 21
   
   th:
     languageCode: th
     languageName: Thai
     title: Lite Writer
-    weight: 23
+    weight: 22
   
   tr:
     languageCode: tr
     languageName: Turkish
     title: Lite Writer
-    weight: 24
+    weight: 23
 
   uk:
     languageCode: tr
