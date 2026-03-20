@@ -5,20 +5,6 @@ title: Ændringslogfiler
 weight: 2
 ---
 
-## Udviklingsplan
-
-- Tilføj en funktion til global tekstudskiftning
-- Tilføj flere editor-temaer
-- Tilføj funktionen "Arkivér bog"
-- Tilføj nogle AI-funktioner
-- Tillad opsætning af flere cloud-backupservere
-- Tilføj funktionen "Søg filer i backups"
-- Tillad valg af en Google Drive-mappe som cloud-backupmappe
-- Tilføj support til JianguoYun cloud-backupserver
-- Tilføj support til OneDrive cloud-backupserver
-- Tilføj support til DropBox cloud-backupserver
-- Optimer statistikfunktionen
-
 ## Udgivne versioner
 
 ### v1.93.0 - 2025-06-04

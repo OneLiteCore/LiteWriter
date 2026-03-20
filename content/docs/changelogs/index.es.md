@@ -5,20 +5,6 @@ title: Registros de cambios
 weight: 2
 ---
 
-## Plan de desarrollo
-
-- Añadir una función para reemplazar texto de forma global
-- Añadir más temas para el editor
-- Añadir la función "Archivar libro"
-- Añadir algunas funciones de IA
-- Permitir configurar múltiples servidores de copia de seguridad en la nube
-- Añadir la función "Buscar archivos en las copias de seguridad"
-- Permitir seleccionar una carpeta de Google Drive como carpeta de copia de seguridad en la nube
-- Añadir soporte para servidor de copia de seguridad en la nube JianguoYun
-- Añadir soporte para servidor de copia de seguridad en la nube OneDrive
-- Añadir soporte para servidor de copia de seguridad en la nube DropBox
-- Optimizar la función de estadísticas
-
 ## Versiones publicadas
 
 ### v1.93.0 - 2025-06-04

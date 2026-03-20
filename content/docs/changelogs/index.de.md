@@ -5,20 +5,6 @@ title: Änderungsprotokolle
 weight: 2
 ---
 
-## Entwicklungsplan
-
-- Füge eine Funktion zum globalen Ersetzen von Text hinzu
-- Füge weitere Editor-Themen hinzu
-- Füge die Funktion „Buch archivieren“ hinzu
-- Füge einige KI-Funktionen hinzu
-- Ermögliche die Einrichtung mehrerer Cloud-Backup-Server
-- Füge die Funktion „Dateien in Backups suchen“ hinzu
-- Erlaube die Auswahl eines Google Drive-Ordners als Cloud-Backup-Ordner
-- Füge Unterstützung für den JianguoYun Cloud-Backup-Server hinzu
-- Füge Unterstützung für den OneDrive Cloud-Backup-Server hinzu
-- Füge Unterstützung für den DropBox Cloud-Backup-Server hinzu
-- Optimiere die Statistikfunktion
-
 ## Veröffentlichte Versionen
 
 ### v1.93.0 - 2025-06-04

@@ -5,20 +5,6 @@ title: Değişiklik günlükleri
 weight: 2
 ---
 
-## Geliştirme planı
-
-- Metni küresel olarak değiştirme özelliği ekle
-- Daha fazla Düzenleyici teması ekle
-- “Kitabı Arşivle” özelliği ekle
-- Bazı yapay zeka özellikleri ekle
-- Birden fazla bulut yedekleme sunucusu ayarlamaya izin ver
-- “Yedeklerde dosya ara” özelliği ekle
-- Google Drive klasörünü bulut yedekleme klasörü olarak seçmeye izin ver
-- JianguoYun bulut yedekleme sunucusu desteği ekle
-- OneDrive bulut yedekleme sunucusu desteği ekle
-- DropBox bulut yedekleme sunucusu desteği ekle
-- İstatistik özelliğini optimize et
-
 ## Yayınlanan sürümler
 
 ### v1.93.0 - 2025-06-04

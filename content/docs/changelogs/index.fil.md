@@ -5,20 +5,6 @@ title: Mga log ng pagbabago
 weight: 2
 ---
 
-## Plano ng dev
-
-- Magdagdag ng tampok na palitan ang teksto nang globally
-- Magdagdag ng mas maraming tema para sa editor
-- Magdagdag ng tampok na "I-archive ang libro"
-- Magdagdag ng ilang AI na bagay
-- Pahintulutan ang pag-set ng maraming cloud backup server
-- Magdagdag ng tampok na "Maghanap ng mga file sa mga backup"
-- Pahintulutan ang pagpili ng folder ng Google Drive bilang cloud backup folder
-- Magdagdag ng suporta para sa JianguoYun cloud backup server
-- Magdagdag ng suporta para sa OneDrive cloud backup server
-- Magdagdag ng suporta para sa DropBox cloud backup server
-- I-optimize ang tampok ng istatistika
-
 ## Inilabas na mga bersyon
 
 ### v1.93.0 - 2025-06-04

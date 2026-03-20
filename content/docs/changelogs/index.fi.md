@@ -5,20 +5,6 @@ title: Muutoslokeja
 weight: 2
 ---
 
-## Kehityssuunnitelma
-
-- Lisää ominaisuus korvata teksti globaalisti
-- Lisää lisää editorin teemoja
-- Lisää "Arkistoi kirja" -ominaisuus
-- Lisää joitakin tekoälyominaisuuksia
-- Salli useiden pilvivarmuuskopiointipalvelimien asettaminen
-- Lisää "Etsi tiedostoja varmuuskopioista" -ominaisuus
-- Salli Google Driven kansion valinta pilvivarmuuskopion kansioksi
-- Lisää tuki JianguoYun-pilvivarmuuskopiointipalvelimelle
-- Lisää tuki OneDrive-pilvivarmuuskopiointipalvelimelle
-- Lisää tuki DropBox-pilvivarmuuskopiointipalvelimelle
-- Optimoi tilastotoiminto
-
 ## Julkaistut versiot
 
 ### v1.93.0 - 2025-06-04

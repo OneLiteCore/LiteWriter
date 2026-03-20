@@ -5,20 +5,6 @@ title: Log perubahan
 weight: 2
 ---
 
-## Rencana pengembangan
-
-- Tambahkan fitur untuk mengganti teks secara global
-- Tambahkan lebih banyak tema Editor
-- Tambahkan fitur "Arsipkan buku"
-- Tambahkan beberapa fitur AI
-- Izinkan pengaturan beberapa server backup cloud
-- Tambahkan fitur "Cari file dalam backup"
-- Izinkan memilih folder Google Drive sebagai folder backup cloud
-- Tambahkan dukungan server backup cloud JianguoYun
-- Tambahkan dukungan server backup cloud OneDrive
-- Tambahkan dukungan server backup cloud DropBox
-- Optimalkan fitur statistik
-
 ## Versi yang dirilis
 
 ### v1.93.0 - 2025-06-04

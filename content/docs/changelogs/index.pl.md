@@ -5,20 +5,6 @@ title: Dzienniki zmian
 weight: 2
 ---
 
-## Plan rozwoju
-
-- Dodaj funkcję globalnej zamiany tekstu
-- Dodaj więcej motywów edytora
-- Dodaj funkcję „Archiwizuj książkę”
-- Dodaj kilka funkcji AI
-- Pozwól na ustawienie wielu serwerów kopii zapasowej w chmurze
-- Dodaj funkcję „Wyszukaj pliki w kopiach zapasowych”
-- Pozwól na wybranie folderu Google Drive jako folderu kopii zapasowej w chmurze
-- Dodaj wsparcie dla serwera kopii zapasowej JianguoYun
-- Dodaj wsparcie dla serwera kopii zapasowej OneDrive
-- Dodaj wsparcie dla serwera kopii zapasowej DropBox
-- Optymalizuj funkcję statystyk
-
 ## Wydane wersje
 
 ### v1.93.0 - 2025-06-04

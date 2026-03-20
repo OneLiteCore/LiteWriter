@@ -5,20 +5,6 @@ title: Changelogs
 weight: 2
 ---
 
-## Dev plan
-
-- Add a feature to replace text globally
-- Add more Editor themes
-- Add "Archive book" feature
-- Add some AI stuff
-- Allow to set multiple cloud backup server
-- Add "Search files in backups" feature
-- Allow selecting a folder of Google Drive as the cloud backup folder
-- Add JianguoYun cloud backup server support
-- Add OneDrive cloud backup server support
-- Add DropBox cloud backup server support
-- Optimize statistic feature
-
 ## Released versions
 
 ### v1.93.0 - 2025-06-04

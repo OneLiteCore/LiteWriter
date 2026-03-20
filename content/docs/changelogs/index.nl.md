@@ -5,20 +5,6 @@ title: Wijzigingslogboeken
 weight: 2
 ---
 
-## Ontwikkelplan
-
-- Voeg een functie toe om tekst globaal te vervangen
-- Voeg meer editor-thema’s toe
-- Voeg de functie “Boek archiveren” toe
-- Voeg wat AI-functionaliteiten toe
-- Sta toe om meerdere cloud-backupservers in te stellen
-- Voeg de functie “Bestanden zoeken in backups” toe
-- Sta toe om een Google Drive-map als cloud-backupmap te selecteren
-- Voeg ondersteuning toe voor de JianguoYun cloud-backupserver
-- Voeg ondersteuning toe voor de OneDrive cloud-backupserver
-- Voeg ondersteuning toe voor de DropBox cloud-backupserver
-- Optimaliseer de statistiekfunctie
-
 ## Uitgebrachte versies
 
 ### v1.93.0 - 2025-06-04

@@ -5,20 +5,6 @@ title: Log perubahan
 weight: 2
 ---
 
-## Pelan pembangunan
-
-- Tambah ciri untuk menggantikan teks secara global
-- Tambah lebih banyak tema Editor
-- Tambah ciri "Arkibkan buku"
-- Tambah beberapa ciri AI
-- Benarkan menetapkan pelbagai pelayan sandaran awan
-- Tambah ciri "Cari fail dalam sandaran"
-- Benarkan memilih folder Google Drive sebagai folder sandaran awan
-- Tambah sokongan pelayan sandaran awan JianguoYun
-- Tambah sokongan pelayan sandaran awan OneDrive
-- Tambah sokongan pelayan sandaran awan DropBox
-- Optimumkan ciri statistik
-
 ## Versi yang dikeluarkan
 
 ### v1.93.0 - 2025-06-04

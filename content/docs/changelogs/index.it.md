@@ -5,20 +5,6 @@ title: Registri delle modifiche
 weight: 2
 ---
 
-## Piano di sviluppo
-
-- Aggiungi una funzione per sostituire il testo globalmente
-- Aggiungi più temi per l’editor
-- Aggiungi la funzione “Archivia libro”
-- Aggiungi alcune funzionalità di intelligenza artificiale
-- Permetti di impostare più server di backup cloud
-- Aggiungi la funzione “Cerca file nei backup”
-- Permetti di selezionare una cartella di Google Drive come cartella di backup cloud
-- Aggiungi supporto per il server di backup cloud JianguoYun
-- Aggiungi supporto per il server di backup cloud OneDrive
-- Aggiungi supporto per il server di backup cloud DropBox
-- Ottimizza la funzione statistiche
-
 ## Versioni rilasciate
 
 ### v1.93.0 - 2025-06-04

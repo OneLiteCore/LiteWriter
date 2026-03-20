@@ -5,20 +5,6 @@ title: Journaux des modifications
 weight: 2
 ---
 
-## Plan de développement
-
-- Ajouter une fonction pour remplacer le texte globalement
-- Ajouter plus de thèmes pour l’éditeur
-- Ajouter la fonction « Archiver un livre »
-- Ajouter quelques fonctionnalités d’IA
-- Permettre de configurer plusieurs serveurs de sauvegarde cloud
-- Ajouter la fonction « Rechercher des fichiers dans les sauvegardes »
-- Permettre de sélectionner un dossier Google Drive comme dossier de sauvegarde cloud
-- Ajouter la prise en charge du serveur de sauvegarde cloud JianguoYun
-- Ajouter la prise en charge du serveur de sauvegarde cloud OneDrive
-- Ajouter la prise en charge du serveur de sauvegarde cloud DropBox
-- Optimiser la fonction de statistiques
-
 ## Versions publiées
 
 ### v1.93.0 - 2025-06-04

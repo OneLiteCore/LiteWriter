@@ -5,20 +5,6 @@ title: Registros de alterações
 weight: 2
 ---
 
-## Plano de desenvolvimento
-
-- Adicionar funcionalidade para substituir texto globalmente
-- Adicionar mais temas para o editor
-- Adicionar funcionalidade “Arquivar livro”
-- Adicionar algumas funcionalidades de IA
-- Permitir configurar múltiplos servidores de backup na nuvem
-- Adicionar funcionalidade “Pesquisar arquivos em backups”
-- Permitir selecionar uma pasta do Google Drive como pasta de backup na nuvem
-- Adicionar suporte para servidor de backup na nuvem JianguoYun
-- Adicionar suporte para servidor de backup na nuvem OneDrive
-- Adicionar suporte para servidor de backup na nuvem DropBox
-- Otimizar funcionalidade de estatísticas
-
 ## Versões lançadas
 
 ### v1.93.0 - 2025-06-04
