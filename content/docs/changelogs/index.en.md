@@ -5,8 +5,6 @@ title: Changelogs
 weight: 2
 ---
 
-## Released versions
-
 ### v1.93.0 - 2025-06-04
 
 - Add new note board widget

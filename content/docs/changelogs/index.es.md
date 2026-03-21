@@ -5,8 +5,6 @@ title: Registros de cambios
 weight: 2
 ---
 
-## Versiones publicadas
-
 ### v1.93.0 - 2025-06-04
 
 - Agregar nuevo widget de tablero de notas

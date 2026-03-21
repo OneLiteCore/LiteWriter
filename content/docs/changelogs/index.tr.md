@@ -5,8 +5,6 @@ title: Değişiklik günlükleri
 weight: 2
 ---
 
-## Yayınlanan sürümler
-
 ### v1.93.0 - 2025-06-04
 
 - Yeni not panosu bileşeni ekle

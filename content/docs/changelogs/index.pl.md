@@ -5,8 +5,6 @@ title: Dzienniki zmian
 weight: 2
 ---
 
-## Wydane wersje
-
 ### v1.93.0 - 2025-06-04
 
 - Dodaj nowy widżet tablicy notatek

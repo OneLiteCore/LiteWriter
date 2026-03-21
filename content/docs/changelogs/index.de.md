@@ -5,8 +5,6 @@ title: Änderungsprotokolle
 weight: 2
 ---
 
-## Veröffentlichte Versionen
-
 ### v1.93.0 - 2025-06-04
 
 - Neues Notiztafel-Widget hinzufügen

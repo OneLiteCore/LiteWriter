@@ -5,8 +5,6 @@ title: Ændringslogfiler
 weight: 2
 ---
 
-## Udgivne versioner
-
 ### v1.93.0 - 2025-06-04
 
 - Tilføj ny notattavle-widget

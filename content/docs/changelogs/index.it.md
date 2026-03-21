@@ -5,8 +5,6 @@ title: Registri delle modifiche
 weight: 2
 ---
 
-## Versioni rilasciate
-
 ### v1.93.0 - 2025-06-04
 
 - Aggiungi nuovo widget della bacheca

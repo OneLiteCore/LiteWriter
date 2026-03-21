@@ -5,8 +5,6 @@ title: Muutoslokeja
 weight: 2
 ---
 
-## Julkaistut versiot
-
 ### v1.93.0 - 2025-06-04
 
 - Lisää uusi muistitauluwidget

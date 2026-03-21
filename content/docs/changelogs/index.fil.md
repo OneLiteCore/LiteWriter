@@ -5,8 +5,6 @@ title: Mga log ng pagbabago
 weight: 2
 ---
 
-## Inilabas na mga bersyon
-
 ### v1.93.0 - 2025-06-04
 
 - Magdagdag ng bagong widget ng note board

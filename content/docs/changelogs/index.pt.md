@@ -5,8 +5,6 @@ title: Registros de alterações
 weight: 2
 ---
 
-## Versões lançadas
-
 ### v1.93.0 - 2025-06-04
 
 - Adicionar novo widget de quadro de notas

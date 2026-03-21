@@ -5,8 +5,6 @@ title: Wijzigingslogboeken
 weight: 2
 ---
 
-## Uitgebrachte versies
-
 ### v1.93.0 - 2025-06-04
 
 - Nieuwe notitiebord-widget toevoegen

@@ -5,8 +5,6 @@ title: Log perubahan
 weight: 2
 ---
 
-## Versi yang dikeluarkan
-
 ### v1.93.0 - 2025-06-04
 
 - Tambah widget papan nota baharu

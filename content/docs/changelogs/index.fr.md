@@ -5,8 +5,6 @@ title: Journaux des modifications
 weight: 2
 ---
 
-## Versions publiées
-
 ### v1.93.0 - 2025-06-04
 
 - Ajouter un nouveau widget de tableau de notes
