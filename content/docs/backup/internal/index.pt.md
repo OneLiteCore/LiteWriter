@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Serviço de backup interno
 ---
 
 O aplicativo oferece um mecanismo de backup interno que compacta periodicamente os dados dos seus capítulos em um arquivo .zip.

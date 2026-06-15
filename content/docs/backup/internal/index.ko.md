@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: 내부 백업 서비스
 ---
 
 앱은 장 데이터를 주기적으로 .zip 파일로 압축하는 내부 백업 기능을 제공합니다.

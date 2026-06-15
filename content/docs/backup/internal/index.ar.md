@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: خدمة النسخ الاحتياطي الداخلية
 ---
 
 يوفّر التطبيق آلية نسخ احتياطي داخلية تقوم بضغط بيانات فصولك بشكل دوري في ملف ‎.zip‎.

@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Dahili yedekleme hizmeti
 ---
 
 Uygulama, bölüm verilerinizi düzenli olarak bir .zip dosyasına sıkıştıran dahili bir yedekleme mekanizması sunar.

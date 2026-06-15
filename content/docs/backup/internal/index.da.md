@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Intern backuptjeneste
 ---
 
 Appen har en intern sikkerhedskopieringsmekanisme, som med jævne mellemrum komprimerer dine kapiteldata til en .zip-fil.

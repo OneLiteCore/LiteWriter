@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Sisainen varmuuskopiointipalvelu
 ---
 
 Sovellus tarjoaa sisäisen varmuuskopiointimekanismin, joka pakkaa lukujesi tiedot säännöllisesti .zip-tiedostoksi.

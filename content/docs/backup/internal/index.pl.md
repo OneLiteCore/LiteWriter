@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Usługa wewnętrznej kopii zapasowej
 ---
 
 Aplikacja oferuje wewnętrzny mechanizm kopii zapasowej, który okresowo kompresuje dane Twoich rozdziałów do pliku .zip.

@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Interne back-upservice
 ---
 
 De app biedt een intern back-upmechanisme dat je hoofdstukgegevens periodiek comprimeert naar een .zip-bestand.

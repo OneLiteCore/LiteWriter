@@ -2,7 +2,15 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Google Drive backup service
+title: Google Drive 백업 서비스
 ---
 
-To be updated
+Google Drive는 Google에서 제공하는 클라우드 저장 서비스로, 익숙하고 쉽게 접근할 수 있는 곳에 백업을 보관할 수 있는 편리한 방법입니다. 백업 파일은 사용자의 Google 계정 안에 그대로 저장되므로, 데이터는 항상 사용자의 통제 아래에 있습니다.
+
+또한 이것은 클라우드 백업 서비스이기 때문에 예상치 못한 일이 생겼을 때도 도움이 됩니다. 기기를 잃어버리거나, 기기가 손상되거나, 로컬 데이터가 삭제되더라도 Google Drive에 저장된 백업에서 데이터를 다시 복원할 수 있습니다.
+
+# 로그인 방법
+
+Google Drive 백업을 사용하려면 기기가 **GMS**(**Google Mobile Services**)를 지원해야 하며, 먼저 해당 기기에서 Google 계정에 로그인되어 있어야 합니다.
+
+그 후 앱을 열면 기기에 이미 사용 가능한 Google 계정으로 클라우드 백업 서비스에 로그인할 수 있습니다.

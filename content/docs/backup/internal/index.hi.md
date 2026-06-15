@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: आंतरिक बैकअप सेवा
 ---
 
 ऐप एक आंतरिक बैकअप व्यवस्था प्रदान करता है, जो समय-समय पर आपके अध्यायों के डेटा को .zip फ़ाइल में संपीड़ित करती है।

@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Serbisyo ng internal backup
 ---
 
 May internal backup mechanism ang app na pana-panahong kino-compress ang data ng iyong mga kabanata sa isang .zip file.

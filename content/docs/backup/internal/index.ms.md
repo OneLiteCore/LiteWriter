@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Perkhidmatan sandaran dalaman
 ---
 
 Aplikasi ini menyediakan mekanisme sandaran dalaman yang secara berkala memampatkan data bab anda ke dalam fail .zip.

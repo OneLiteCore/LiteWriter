@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: 内部バックアップサービス
 ---
 
 このアプリには、章データを定期的に .zip ファイルへ圧縮する内部バックアップ機能があります。

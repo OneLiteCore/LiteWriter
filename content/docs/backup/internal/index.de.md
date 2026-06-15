@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: Interner Backup-Dienst
 ---
 
 Die App bietet einen internen Sicherungsmechanismus, der deine Kapiteldaten regelmäßig in eine .zip-Datei komprimiert.

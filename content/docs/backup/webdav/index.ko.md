@@ -2,7 +2,16 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: WebDav backup service
+title: WebDAV 백업 서비스
 ---
 
-To be updated
+WebDAV는 널리 사용되는 파일 접근 프로토콜이며, 클라우드 백업을 위한 유연한 선택지가 될 수 있습니다. 일부 클라우드 저장소 제공업체가 제공하는 WebDAV 서비스를 사용할 수도 있고, 백업 파일이 저장되는 위치를 완전히 직접 통제하고 싶다면 직접 WebDAV 서버를 구축할 수도 있습니다.
+
+데이터 소유권과 개인정보 보호를 매우 중요하게 생각하는 사용자에게 WebDAV는 특히 매력적인 선택이 될 수 있습니다. 직접 서버를 운영하면 처음부터 끝까지 백업 데이터를 완전히 스스로 통제할 수 있습니다.
+
+# 무료 WebDAV 서버 제공업체
+
+- JianGuoYun: https://www.jianguoyun.com/
+    - 무료입니다
+    - 업로드나 다운로드에는 트래픽 제한이 있습니다
+    - 그래도 무료입니다!

@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: บริการสำรองข้อมูลภายใน
 ---
 
 แอปมีระบบสำรองข้อมูลภายในที่บีบอัดข้อมูลบทของคุณเป็นไฟล์ .zip เป็นระยะ

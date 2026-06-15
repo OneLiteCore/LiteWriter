@@ -2,7 +2,7 @@
 ShowToc: true
 copy_mark: copied
 date: 2026-06-14
-title: Internal backup service
+title: 內部備份服務
 ---
 
 應用程式提供一種內部備份機制，會定期將你的章節資料壓縮成一個 .zip 檔案。
