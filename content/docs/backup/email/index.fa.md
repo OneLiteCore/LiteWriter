@@ -17,8 +17,8 @@ title: سرویس پشتیبان‌گیری ایمیلی
 
 # اسناد راهنما برای ارائه‌دهندگان رایج ایمیل
 
-- سند راهنمای Gmail: https://support.google.com/mail/answer/185833
-- سند راهنمای QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [سند راهنمای Gmail](https://support.google.com/mail/answer/185833)
+- [سند راهنمای QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # آشنایی با پارامترهای ورود
 

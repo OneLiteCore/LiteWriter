@@ -17,8 +17,8 @@ Daarom moet je meestal in de instellingen van je e-mailaccount een app-wachtwoor
 
 # Hulpdocumenten voor veelgebruikte e-mailproviders
 
-- Hulpdocument van Gmail: https://support.google.com/mail/answer/185833
-- Hulpdocument van QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Hulpdocument van Gmail](https://support.google.com/mail/answer/185833)
+- [Hulpdocument van QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # De inloggegevens begrijpen
 

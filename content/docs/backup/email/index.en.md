@@ -17,8 +17,8 @@ Because of this, you will usually need to create a third-party app password or c
 
 # Help documents for common email providers
 
-- Gmail help document: https://support.google.com/mail/answer/185833
-- QQ Mail help document: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail help document](https://support.google.com/mail/answer/185833)
+- [QQ Mail help document](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Understanding the login parameters
 

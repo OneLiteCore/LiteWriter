@@ -17,8 +17,8 @@ title: 郵件備份服務
 
 # 常見郵件服務提供商的幫助文件
 
-- Gmail 幫助文件：https://support.google.com/mail/answer/185833
-- QQ 郵箱幫助文件：https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail 幫助文件](https://support.google.com/mail/answer/185833)
+- [QQ 郵箱幫助文件](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # 登入參數說明
 

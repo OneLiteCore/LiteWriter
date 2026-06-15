@@ -17,8 +17,8 @@ title: ईमेल बैकअप सेवा
 
 # सामान्य ईमेल प्रदाताओं के सहायता दस्तावेज़
 
-- Gmail सहायता दस्तावेज़: https://support.google.com/mail/answer/185833
-- QQ Mail सहायता दस्तावेज़: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail सहायता दस्तावेज़](https://support.google.com/mail/answer/185833)
+- [QQ Mail सहायता दस्तावेज़](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # लॉगिन पैरामीटर को समझना
 

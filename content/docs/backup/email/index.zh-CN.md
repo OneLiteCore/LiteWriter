@@ -17,8 +17,8 @@ title: 邮件备份服务
 
 # 常见邮件服务提供商的帮助文档
 
-- Gmail 帮助文档：https://support.google.com/mail/answer/185833
-- QQ 邮箱帮助文档：https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail 帮助文档](https://support.google.com/mail/answer/185833)
+- [QQ 邮箱帮助文档](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # 登录参数说明
 

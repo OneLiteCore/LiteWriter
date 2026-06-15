@@ -17,8 +17,8 @@ Bu nedenle genellikle e-posta hesabı ayarlarınızda bir üçüncü taraf uygul
 
 # Yaygın e-posta sağlayıcıları için yardım belgeleri
 
-- Gmail yardım belgesi: https://support.google.com/mail/answer/185833
-- QQ Mail yardım belgesi: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail yardım belgesi](https://support.google.com/mail/answer/185833)
+- [QQ Mail yardım belgesi](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Giriş parametrelerini anlama
 

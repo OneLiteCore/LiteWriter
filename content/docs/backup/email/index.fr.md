@@ -17,8 +17,8 @@ Pour cette raison, vous devrez généralement créer un mot de passe d'applicati
 
 # Documents d'aide pour les fournisseurs de messagerie courants
 
-- Document d'aide Gmail : https://support.google.com/mail/answer/185833
-- Document d'aide QQ Mail : https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Document d'aide Gmail](https://support.google.com/mail/answer/185833)
+- [Document d'aide QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Comprendre les paramètres de connexion
 

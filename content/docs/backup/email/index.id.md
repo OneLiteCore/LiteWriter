@@ -17,8 +17,8 @@ Karena itu, biasanya Anda perlu membuat kata sandi aplikasi pihak ketiga atau ka
 
 # Dokumen bantuan untuk penyedia email umum
 
-- Dokumen bantuan Gmail: https://support.google.com/mail/answer/185833
-- Dokumen bantuan QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Dokumen bantuan Gmail](https://support.google.com/mail/answer/185833)
+- [Dokumen bantuan QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Memahami parameter login
 

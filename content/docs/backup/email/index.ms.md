@@ -17,8 +17,8 @@ Oleh sebab itu, anda biasanya perlu mencipta kata laluan aplikasi pihak ketiga a
 
 # Dokumen bantuan untuk penyedia e-mel yang biasa digunakan
 
-- Dokumen bantuan Gmail: https://support.google.com/mail/answer/185833
-- Dokumen bantuan QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Dokumen bantuan Gmail](https://support.google.com/mail/answer/185833)
+- [Dokumen bantuan QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Memahami parameter log masuk
 

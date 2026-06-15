@@ -17,8 +17,8 @@ Por isso, normalmente você precisará criar uma senha de aplicativo de terceiro
 
 # Documentos de ajuda para provedores de e-mail comuns
 
-- Documento de ajuda do Gmail: https://support.google.com/mail/answer/185833
-- Documento de ajuda do QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Documento de ajuda do Gmail](https://support.google.com/mail/answer/185833)
+- [Documento de ajuda do QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Entendendo os parâmetros de login
 

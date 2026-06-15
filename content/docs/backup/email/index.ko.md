@@ -17,8 +17,8 @@ title: 이메일 백업 서비스
 
 # 주요 이메일 서비스 제공업체의 도움말 문서
 
-- Gmail 도움말 문서: https://support.google.com/mail/answer/185833
-- QQ Mail 도움말 문서: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail 도움말 문서](https://support.google.com/mail/answer/185833)
+- [QQ Mail 도움말 문서](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # 로그인 매개변수 이해하기
 

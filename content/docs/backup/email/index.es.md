@@ -17,8 +17,8 @@ Por eso, normalmente tendrás que crear una contraseña de aplicación de tercer
 
 # Documentos de ayuda de proveedores de correo comunes
 
-- Documento de ayuda de Gmail: https://support.google.com/mail/answer/185833
-- Documento de ayuda de QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Documento de ayuda de Gmail](https://support.google.com/mail/answer/185833)
+- [Documento de ayuda de QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Cómo entender los parámetros de inicio de sesión
 

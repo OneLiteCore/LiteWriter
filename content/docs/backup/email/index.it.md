@@ -17,8 +17,8 @@ Per questo motivo, di solito dovrai creare una password per app di terze parti o
 
 # Documenti di aiuto per i provider email più comuni
 
-- Documento di aiuto di Gmail: https://support.google.com/mail/answer/185833
-- Documento di aiuto di QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Documento di aiuto di Gmail](https://support.google.com/mail/answer/185833)
+- [Documento di aiuto di QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Capire i parametri di accesso
 

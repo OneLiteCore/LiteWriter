@@ -17,8 +17,8 @@ title: メールバックアップサービス
 
 # 主なメールサービス提供会社のヘルプドキュメント
 
-- Gmail のヘルプドキュメント: https://support.google.com/mail/answer/185833
-- QQ Mail のヘルプドキュメント: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail のヘルプドキュメント](https://support.google.com/mail/answer/185833)
+- [QQ Mail のヘルプドキュメント](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # ログインパラメータの説明
 

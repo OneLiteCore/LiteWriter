@@ -17,8 +17,8 @@ Dlatego zwykle musisz utworzyć w ustawieniach konta e-mail hasło aplikacji fir
 
 # Dokumenty pomocy dla popularnych dostawców poczty e-mail
 
-- Dokument pomocy Gmail: https://support.google.com/mail/answer/185833
-- Dokument pomocy QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Dokument pomocy Gmail](https://support.google.com/mail/answer/185833)
+- [Dokument pomocy QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Zrozumienie parametrów logowania
 

@@ -17,8 +17,8 @@ Derfor skal du som regel oprette en tredjeparts app-adgangskode eller en klients
 
 # Hjælpedokumenter for almindelige e-mailudbydere
 
-- Gmail-hjælpedokument: https://support.google.com/mail/answer/185833
-- QQ Mail-hjælpedokument: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmail-hjælpedokument](https://support.google.com/mail/answer/185833)
+- [QQ Mail-hjælpedokument](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Forstå loginparametrene
 

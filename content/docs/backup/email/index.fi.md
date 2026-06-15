@@ -17,8 +17,8 @@ Siksi sinun täytyy yleensä luoda kolmannen osapuolen sovellussalasana tai asia
 
 # Ohjeasiakirjat yleisille sähköpostipalveluntarjoajille
 
-- Gmailin ohjeasiakirja: https://support.google.com/mail/answer/185833
-- QQ Mailin ohjeasiakirja: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [Gmailin ohjeasiakirja](https://support.google.com/mail/answer/185833)
+- [QQ Mailin ohjeasiakirja](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # Kirjautumisparametrien ymmärtäminen
 

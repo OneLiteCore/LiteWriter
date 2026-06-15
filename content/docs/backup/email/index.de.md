@@ -17,7 +17,7 @@ Deshalb musst du in den Einstellungen deines E-Mail-Kontos normalerweise ein App
 
 # Hilfedokumente für gängige E-Mail-Anbieter
 
-- Gmail-Hilfedokument: https://support.google.com/mail/answer/185833
+- [Gmail-Hilfedokument](https://support.google.com/mail/answer/185833)
 - QQ-Mail-Hilfedokument: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
 
 # Die Anmeldeparameter verstehen

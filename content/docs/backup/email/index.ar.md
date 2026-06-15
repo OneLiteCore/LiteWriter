@@ -17,8 +17,8 @@ title: خدمة النسخ الاحتياطي عبر البريد الإلكتر
 
 # مستندات المساعدة لمزودي البريد الإلكتروني الشائعين
 
-- مستند مساعدة Gmail: https://support.google.com/mail/answer/185833
-- مستند مساعدة QQ Mail: https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode
+- [مستند مساعدة Gmail](https://support.google.com/mail/answer/185833)
+- [مستند مساعدة QQ Mail](https://wx.mail.qq.com/list/readtemplate?name=app_intro.html#/agreement/authorizationCode)
 
 # فهم معلمات تسجيل الدخول
 
