@@ -24,8 +24,6 @@ Daarom moet je meestal in de instellingen van je e-mailaccount een app-wachtwoor
 
 - **IMAP-serveradres**: De server die wordt gebruikt om e-mails te ontvangen en te lezen.
 - **IMAP-poort**: De netwerkpoort die door IMAP wordt gebruikt. De standaard IMAP-poort is meestal **993**.
-- **SMTP-serveradres**: De server die wordt gebruikt om e-mails te verzenden.
-- **SMTP-poort**: De netwerkpoort die door SMTP wordt gebruikt. De standaard SMTP-poort is meestal **465** of **587**.
-- **STARTTLS**: Een beveiligingsfunctie die een gewone verbinding omzet naar een versleutelde TLS-verbinding nadat de verbinding is gestart. Als de SMTP-poort is ingesteld op **587**, zal de app standaard **STARTTLS** inschakelen en vereisen.
+- **E-mailmap**: De app maakt in je mailbox een speciale map met de naam **Backup** voor back-upmails, zodat je Postvak IN overzichtelijk blijft.
 - **E-mailadres**: Het e-mailaccount dat de back-upmail verstuurt en deze ook ontvangt.
 - **App-wachtwoord van derden**: Een wachtwoord dat door je e-mailprovider wordt gegenereerd voor externe apps. In de meeste gevallen kun je hier niet je gewone e-mailwachtwoord gebruiken, omdat providers om veiligheidsredenen directe aanmelding met een wachtwoord voor apps van derden meestal blokkeren.

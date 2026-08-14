@@ -24,8 +24,6 @@ Pour cette raison, vous devrez généralement créer un mot de passe d'applicati
 
 - **Adresse du serveur IMAP** : Le serveur utilisé pour recevoir et lire les e-mails.
 - **Port IMAP** : Le port réseau utilisé par IMAP. Le port IMAP par défaut est généralement **993**.
-- **Adresse du serveur SMTP** : Le serveur utilisé pour envoyer les e-mails.
-- **Port SMTP** : Le port réseau utilisé par SMTP. Le port SMTP par défaut est généralement **465** ou **587**.
-- **STARTTLS** : Une fonction de sécurité qui fait passer une connexion simple à une connexion TLS chiffrée après le démarrage de la connexion. Si le port SMTP est défini sur **587**, l'application activera et exigera **STARTTLS** par défaut.
+- **Dossier e-mail** : L'application crée dans votre boîte aux lettres un dossier dédié nommé **Backup** pour les e-mails de sauvegarde, afin de ne pas encombrer votre boîte de réception.
 - **Adresse e-mail** : Le compte e-mail qui envoie l'e-mail de sauvegarde et qui le reçoit également.
 - **Mot de passe d'application tiers** : Un mot de passe généré par votre fournisseur de messagerie pour les applications externes. Dans la plupart des cas, vous ne pouvez pas utiliser ici votre mot de passe e-mail habituel, car les fournisseurs bloquent généralement la connexion directe par mot de passe pour les applications tierces pour des raisons de sécurité.

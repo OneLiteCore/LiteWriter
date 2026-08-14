@@ -24,8 +24,6 @@ Deshalb musst du in den Einstellungen deines E-Mail-Kontos normalerweise ein App
 
 - **IMAP-Serveradresse**: Der Server, der zum Empfangen und Lesen von E-Mails verwendet wird.
 - **IMAP-Port**: Der Netzwerkport, der von IMAP verwendet wird. Der Standardport für IMAP ist normalerweise **993**.
-- **SMTP-Serveradresse**: Der Server, der zum Senden von E-Mails verwendet wird.
-- **SMTP-Port**: Der Netzwerkport, der von SMTP verwendet wird. Der Standardport für SMTP ist normalerweise **465** oder **587**.
-- **STARTTLS**: Eine Sicherheitsfunktion, die eine unverschlüsselte Verbindung nach dem Verbindungsaufbau auf eine verschlüsselte TLS-Verbindung umstellt. Wenn der SMTP-Port auf **587** gesetzt ist, aktiviert die App **STARTTLS** standardmäßig und verlangt dessen Verwendung.
+- **E-Mail-Ordner**: Die App erstellt in deinem Postfach einen eigenen Ordner namens **Backup** für Backup-E-Mails, damit dein Posteingang übersichtlich bleibt.
 - **E-Mail-Adresse**: Das E-Mail-Konto, das die Backup-E-Mail sendet und sie auch empfängt.
 - **App-Passwort eines Drittanbieters**: Ein Passwort, das dein E-Mail-Anbieter für externe Apps erstellt. In den meisten Fällen kannst du hier nicht dein normales E-Mail-Passwort verwenden, weil Anbieter aus Sicherheitsgründen die direkte Passwortanmeldung für Drittanbieter-Apps normalerweise blockieren.

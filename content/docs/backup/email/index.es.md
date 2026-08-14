@@ -24,8 +24,6 @@ Por eso, normalmente tendrás que crear una contraseña de aplicación de tercer
 
 - **Dirección del servidor IMAP**: El servidor que se usa para recibir y leer correos electrónicos.
 - **Puerto IMAP**: El puerto de red que usa IMAP. El puerto IMAP predeterminado suele ser **993**.
-- **Dirección del servidor SMTP**: El servidor que se usa para enviar correos electrónicos.
-- **Puerto SMTP**: El puerto de red que usa SMTP. El puerto SMTP predeterminado suele ser **465** o **587**.
-- **STARTTLS**: Una función de seguridad que actualiza una conexión simple a una conexión TLS cifrada después de que la conexión comienza. Si el puerto SMTP se establece en **587**, la aplicación habilitará y exigirá **STARTTLS** de forma predeterminada.
+- **Carpeta de correo**: La aplicación crea en tu buzón una carpeta dedicada llamada **Backup** para los correos de copia de seguridad, de modo que tu bandeja de entrada no se desordene.
 - **Dirección de correo electrónico**: La cuenta de correo que envía el correo de copia de seguridad y también lo recibe.
 - **Contraseña de aplicación de terceros**: Una contraseña generada por tu proveedor de correo para aplicaciones externas. En la mayoría de los casos, no puedes usar aquí la contraseña normal de tu correo, porque los proveedores suelen bloquear el inicio de sesión directo con contraseña para aplicaciones de terceros por razones de seguridad.

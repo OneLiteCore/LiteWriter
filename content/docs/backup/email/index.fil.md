@@ -24,8 +24,6 @@ Dahil dito, karaniwan mong kailangang gumawa ng third-party app password o clien
 
 - **IMAP server address**: Ang server na ginagamit upang tumanggap at magbasa ng mga email.
 - **IMAP port**: Ang network port na ginagamit ng IMAP. Ang default na IMAP port ay karaniwang **993**.
-- **SMTP server address**: Ang server na ginagamit upang magpadala ng mga email.
-- **SMTP port**: Ang network port na ginagamit ng SMTP. Ang default na SMTP port ay karaniwang **465** o **587**.
-- **STARTTLS**: Isang security feature na nag-a-upgrade ng plain na koneksyon tungo sa naka-encrypt na TLS connection pagkatapos magsimula ang koneksyon. Kung ang SMTP port ay nakatakda sa **587**, io-on at ioobliga ng app ang paggamit ng **STARTTLS** bilang default.
+- **Email folder**: Gumagawa ang app ng dedikadong folder na may pangalang **Backup** sa iyong mailbox para sa mga backup email, upang hindi magulo ang iyong inbox.
 - **Email address**: Ang email account na nagpapadala ng backup email at siya ring tumatanggap nito.
 - **Third-party app password**: Isang password na ginagawa ng iyong email provider para sa mga external app. Sa karamihan ng sitwasyon, hindi mo maaaring gamitin dito ang normal mong email password, dahil karaniwang hinaharang ng mga provider ang direktang password sign-in para sa mga third-party app dahil sa mga kadahilanang panseguridad.

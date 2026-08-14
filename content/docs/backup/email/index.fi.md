@@ -24,8 +24,6 @@ Siksi sinun täytyy yleensä luoda kolmannen osapuolen sovellussalasana tai asia
 
 - **IMAP-palvelimen osoite**: Palvelin, jota käytetään sähköpostien vastaanottamiseen ja lukemiseen.
 - **IMAP-portti**: IMAPin käyttämä verkkoportti. IMAPin oletusportti on yleensä **993**.
-- **SMTP-palvelimen osoite**: Palvelin, jota käytetään sähköpostien lähettämiseen.
-- **SMTP-portti**: SMTP:n käyttämä verkkoportti. SMTP:n oletusportti on yleensä **465** tai **587**.
-- **STARTTLS**: Tietoturvaominaisuus, joka päivittää tavallisen yhteyden salatuksi TLS-yhteydeksi yhteyden alkamisen jälkeen. Jos SMTP-portiksi on asetettu **587**, sovellus ottaa **STARTTLS**-toiminnon käyttöön ja vaatii sen oletuksena.
+- **Sähköpostikansio**: Sovellus luo postilaatikkoosi erillisen kansion nimeltä **Backup** varmuuskopiosähköposteille, jotta saapuneet-kansiosi ei sekoitu.
 - **Sähköpostiosoite**: Sähköpostitili, joka lähettää varmuuskopiosähköpostin ja myös vastaanottaa sen.
 - **Kolmannen osapuolen sovellussalasana**: Sähköpostipalveluntarjoajasi ulkoisille sovelluksille luoma salasana. Useimmissa tapauksissa et voi käyttää tässä tavallista sähköpostisalasanaasi, koska palveluntarjoajat yleensä estävät suoran salasanakirjautumisen kolmansien osapuolten sovelluksille tietoturvasyistä.

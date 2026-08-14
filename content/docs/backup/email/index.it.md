@@ -24,8 +24,6 @@ Per questo motivo, di solito dovrai creare una password per app di terze parti o
 
 - **Indirizzo del server IMAP**: Il server usato per ricevere e leggere le email.
 - **Porta IMAP**: La porta di rete usata da IMAP. La porta IMAP predefinita è di solito **993**.
-- **Indirizzo del server SMTP**: Il server usato per inviare le email.
-- **Porta SMTP**: La porta di rete usata da SMTP. La porta SMTP predefinita è di solito **465** o **587**.
-- **STARTTLS**: Una funzione di sicurezza che aggiorna una connessione semplice a una connessione TLS crittografata dopo l'avvio della connessione. Se la porta SMTP è impostata su **587**, l'app abiliterà e richiederà **STARTTLS** per impostazione predefinita.
+- **Cartella email**: L'app crea nella casella di posta una cartella dedicata chiamata **Backup** per le email di backup, così la posta in arrivo non si confonde.
 - **Indirizzo email**: L'account email che invia l'email di backup e la riceve anche.
 - **Password per app di terze parti**: Una password generata dal tuo provider email per le app esterne. Nella maggior parte dei casi, qui non puoi usare la normale password della tua email, perché i provider di solito bloccano l'accesso diretto con password per le app di terze parti per motivi di sicurezza.

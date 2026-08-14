@@ -24,8 +24,6 @@ Derfor skal du som regel oprette en tredjeparts app-adgangskode eller en klients
 
 - **IMAP-serveradresse**: Serveren, der bruges til at modtage og læse e-mails.
 - **IMAP-port**: Netværksporten, der bruges af IMAP. Standardporten for IMAP er normalt **993**.
-- **SMTP-serveradresse**: Serveren, der bruges til at sende e-mails.
-- **SMTP-port**: Netværksporten, der bruges af SMTP. Standardporten for SMTP er normalt **465** eller **587**.
-- **STARTTLS**: En sikkerhedsfunktion, der opgraderer en almindelig forbindelse til en krypteret TLS-forbindelse, efter at forbindelsen er startet. Hvis SMTP-porten er sat til **587**, vil appen aktivere og kræve **STARTTLS** som standard.
+- **E-mailmappe**: Appen opretter en særlig mappe med navnet **Backup** i din postkasse til backupmails, så din indbakke ikke bliver rodet.
 - **E-mailadresse**: Den e-mailkonto, der sender backupmailen og også modtager den.
 - **Tredjeparts app-adgangskode**: En adgangskode, som din e-mailudbyder opretter til eksterne apps. I de fleste tilfælde kan du ikke bruge din normale e-mailadgangskode her, fordi udbydere normalt blokerer direkte login med adgangskode fra tredjepartsapps af sikkerhedsmæssige årsager.

@@ -24,8 +24,6 @@ Bu nedenle genellikle e-posta hesabı ayarlarınızda bir üçüncü taraf uygul
 
 - **IMAP sunucu adresi**: E-postaları almak ve okumak için kullanılan sunucudur.
 - **IMAP portu**: IMAP tarafından kullanılan ağ portudur. Varsayılan IMAP portu genellikle **993**'tür.
-- **SMTP sunucu adresi**: E-postaları göndermek için kullanılan sunucudur.
-- **SMTP portu**: SMTP tarafından kullanılan ağ portudur. Varsayılan SMTP portu genellikle **465** veya **587**'dir.
-- **STARTTLS**: Bağlantı başladıktan sonra düz bir bağlantıyı şifrelenmiş bir TLS bağlantısına yükselten bir güvenlik özelliğidir. SMTP portu **587** olarak ayarlanmışsa uygulama varsayılan olarak **STARTTLS**'i etkinleştirir ve zorunlu kılar.
+- **E-posta klasörü**: Uygulama, yedekleme e-postaları için posta kutunuzda **Backup** adlı özel bir klasör oluşturur; böylece gelen kutunuz dağılmaz.
 - **E-posta adresi**: Yedekleme e-postasını gönderen ve aynı zamanda alan e-posta hesabıdır.
 - **Üçüncü taraf uygulama parolası**: E-posta sağlayıcınızın harici uygulamalar için oluşturduğu paroladır. Çoğu durumda burada normal e-posta parolanızı kullanamazsınız, çünkü sağlayıcılar güvenlik nedeniyle üçüncü taraf uygulamalar için doğrudan parola ile oturum açmayı genellikle engeller.

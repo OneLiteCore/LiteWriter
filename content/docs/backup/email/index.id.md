@@ -24,8 +24,6 @@ Karena itu, biasanya Anda perlu membuat kata sandi aplikasi pihak ketiga atau ka
 
 - **Alamat server IMAP**: Server yang digunakan untuk menerima dan membaca email.
 - **Port IMAP**: Port jaringan yang digunakan oleh IMAP. Port IMAP default biasanya adalah **993**.
-- **Alamat server SMTP**: Server yang digunakan untuk mengirim email.
-- **Port SMTP**: Port jaringan yang digunakan oleh SMTP. Port SMTP default biasanya adalah **465** atau **587**.
-- **STARTTLS**: Fitur keamanan yang meningkatkan koneksi biasa menjadi koneksi TLS terenkripsi setelah koneksi dimulai. Jika port SMTP diatur ke **587**, aplikasi akan mengaktifkan dan mewajibkan **STARTTLS** secara default.
+- **Folder email**: Aplikasi membuat folder khusus bernama **Backup** di kotak surat Anda untuk email cadangan, agar kotak masuk Anda tetap rapi.
 - **Alamat email**: Akun email yang mengirim email cadangan dan juga menerimanya.
 - **Kata sandi aplikasi pihak ketiga**: Kata sandi yang dibuat oleh penyedia email Anda untuk aplikasi eksternal. Dalam kebanyakan kasus, Anda tidak dapat menggunakan kata sandi email biasa Anda di sini, karena penyedia biasanya memblokir login kata sandi langsung untuk aplikasi pihak ketiga demi alasan keamanan.

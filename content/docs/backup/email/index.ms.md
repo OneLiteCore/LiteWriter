@@ -24,8 +24,6 @@ Oleh sebab itu, anda biasanya perlu mencipta kata laluan aplikasi pihak ketiga a
 
 - **Alamat pelayan IMAP**: Pelayan yang digunakan untuk menerima dan membaca e-mel.
 - **Port IMAP**: Port rangkaian yang digunakan oleh IMAP. Port IMAP lalai biasanya ialah **993**.
-- **Alamat pelayan SMTP**: Pelayan yang digunakan untuk menghantar e-mel.
-- **Port SMTP**: Port rangkaian yang digunakan oleh SMTP. Port SMTP lalai biasanya ialah **465** atau **587**.
-- **STARTTLS**: Ciri keselamatan yang menaik taraf sambungan biasa kepada sambungan TLS yang disulitkan selepas sambungan dimulakan. Jika port SMTP ditetapkan kepada **587**, aplikasi akan mengaktifkan dan mewajibkan **STARTTLS** secara lalai.
+- **Folder e-mel**: Aplikasi mencipta folder khas bernama **Backup** dalam peti mel anda untuk e-mel sandaran, supaya peti masuk anda tidak bersepah.
 - **Alamat e-mel**: Akaun e-mel yang menghantar e-mel sandaran dan juga menerimanya.
 - **Kata laluan aplikasi pihak ketiga**: Kata laluan yang dijana oleh penyedia e-mel anda untuk aplikasi luaran. Dalam kebanyakan keadaan, anda tidak boleh menggunakan kata laluan e-mel biasa anda di sini, kerana penyedia biasanya menyekat log masuk terus menggunakan kata laluan untuk aplikasi pihak ketiga atas sebab keselamatan.

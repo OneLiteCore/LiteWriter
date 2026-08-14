@@ -24,8 +24,6 @@ Dlatego zwykle musisz utworzyć w ustawieniach konta e-mail hasło aplikacji fir
 
 - **Adres serwera IMAP**: Serwer używany do odbierania i odczytywania wiadomości e-mail.
 - **Port IMAP**: Port sieciowy używany przez IMAP. Domyślny port IMAP to zwykle **993**.
-- **Adres serwera SMTP**: Serwer używany do wysyłania wiadomości e-mail.
-- **Port SMTP**: Port sieciowy używany przez SMTP. Domyślny port SMTP to zwykle **465** lub **587**.
-- **STARTTLS**: Funkcja bezpieczeństwa, która po rozpoczęciu połączenia podnosi zwykłe połączenie do szyfrowanego połączenia TLS. Jeśli port SMTP jest ustawiony na **587**, aplikacja domyślnie włączy i będzie wymagać **STARTTLS**.
+- **Folder e-mail**: Aplikacja tworzy w skrzynce pocztowej dedykowany folder o nazwie **Backup** na wiadomości z kopią zapasową, aby skrzynka odbiorcza nie była zaśmiecana.
 - **Adres e-mail**: Konto e-mail, które wysyła wiadomość z kopią zapasową i jednocześnie ją odbiera.
 - **Hasło aplikacji firm trzecich**: Hasło generowane przez dostawcę poczty dla zewnętrznych aplikacji. W większości przypadków nie możesz użyć tutaj zwykłego hasła do swojej poczty, ponieważ dostawcy zwykle blokują bezpośrednie logowanie hasłem w aplikacjach firm trzecich ze względów bezpieczeństwa.
