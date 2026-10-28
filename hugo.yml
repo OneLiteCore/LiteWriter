@@ -185,3 +185,8 @@ languages:
     languageName: Ukrainian
     title: Lite Writer
     weight: 24
+
+params:
+  search:
+    flexsearch:
+      js: js/flexsearch.bundle.min.js
