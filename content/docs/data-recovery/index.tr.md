@@ -15,7 +15,7 @@ Geri dönüşüm kutusundaki dosyalar 30 gün boyunca saklanır ve bu sürenin s
 
 Geri dönüşüm kutusunu nasıl kullanacağınızı öğrenmek için bu videoyu izleyin:  
 
-[Geri Dönüşüm Kutusunu Kullanma](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Anlık Görüntülerden Verilerinizi Geri Yükleyin
 
@@ -25,7 +25,7 @@ Her seferinde uygulama bölümünüzü kaydettiğinde, bir anlık görüntü olu
 
 Anlık görüntüleri kullanarak verilerinizi nasıl kurtaracağınızı öğrenmek için bu videoyu izleyin:  
 
-[Anlık Görüntülerden Verilerinizi Geri Yükleme](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Uygulama İç Yedeklemesinden Verileri Geri Yükleyin
 
@@ -33,7 +33,7 @@ Uygulama, ana klasöründeki tüm verileri otomatik olarak ZIP dosyasına yedekl
 
 Uygulama iç yedeklemesinden verileri nasıl geri yükleyeceğinizi öğrenmek için bu videoyu izleyin:  
 
-[İç Yedekten Verileri Geri Yükleme](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Yerel Depolama Yedeklemesinden Verileri Geri Yükleyin
 
@@ -43,7 +43,7 @@ Yukarıda bahsedilen mekanizmalar verileri uygulama içinde sakladığından, uy
 
 Yerel depolama yedeklemesinden verileri nasıl geri yükleyeceğinizi öğrenmek için bu videoyu izleyin:  
 
-[Yerel Depolama Yedekleme Kullanımı](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Bulut Yedekleme Sunucusundan Verileri Geri Yükleyin
 
@@ -53,7 +53,7 @@ Not: Bulut yedekleme özelliği yalnızca önceden ayarlandıysa çalışır. E�
 
 Bulut yedekleme sunucusunu kullanarak verilerinizi nasıl yedekleyip geri yükleyeceğinizi öğrenmek için bu videoyu izleyin:  
 
-[Bulut Yedekleme Sunucusu ile Verilerinizi Yedekleme ve Geri Yükleme](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS Otomatik Yedekleme
 
@@ -65,7 +65,7 @@ Ancak bu yöntem güvenilir değildir, bu yüzden verileriniz sizin için öneml
 
 Android OS otomatik yedeklemenin çalışıp çalışmadığını kontrol etmek için bu demoyu izleyin:  
 
-[Android OS Otomatik Yedeklemeden Verileri Geri Yükleme](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Bu videodaki her adımı izlemeniz gerekmez. Sadece yeni telefonunuza uygulamayı yükleyin, eğer işe yararsa, uygulamayı ilk açtığınızda bir yedek dosya listesi içeren bir iletişim kutusu göreceksiniz.
 

@@ -15,7 +15,7 @@ Ang mga file sa recycle bin ay itinatago ng 30 araw bago awtomatikong mabura, ka
 
 Panoorin ang video na ito para matutunan kung paano gamitin ang recycle bin:  
 
-[Paano Gamitin ang Recycle Bin](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Ibalik ang Iyong Datos mula sa Snapshots
 
@@ -25,7 +25,7 @@ Tuwing nagsa-save ang app ng iyong kabanata, ito ay lumilikha ng snapshot. Bilan
 
 Panoorin ang video na ito para matutunan kung paano mabawi ang iyong datos gamit ang snapshots:  
 
-[Mabawi ang Iyong Datos mula sa Snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Ibalik ang Datos mula sa Internal Backup ng App
 
@@ -33,7 +33,7 @@ Awtomatikong ginagawa ng app ang backup ng lahat ng datos sa loob ng home folder
 
 Panoorin ang video na ito para matutunan kung paano mabawi ang datos mula sa internal backup ng app:  
 
-[Paano Ibalik ang Datos mula sa Internal Backup](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Ibalik ang Datos mula sa Local Storage Backup
 
@@ -43,7 +43,7 @@ Ang mga mekanismong nabanggit ay nag-iimbak ng datos sa loob ng app, kaya kapag 
 
 Panoorin ang video na ito para matutunan kung paano mabawi ang datos mula sa local storage backup:  
 
-[Paano Gamitin ang Storage Backup](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Ibalik ang Datos mula sa Cloud Backup Server
 
@@ -53,7 +53,7 @@ Paalala: Ang cloud backup feature ay gumagana lamang kung na-set up mo ito nang 
 
 Panoorin ang video na ito para matutunan kung paano i-backup at ibalik ang datos gamit ang cloud backup server:  
 
-[Paano I-backup at Ibalik ang Iyong Datos](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS Auto Backup
 
@@ -65,7 +65,7 @@ Gayunpaman, ang pamamaraang ito ay hindi maaasahan, kaya huwag umasa rito kung m
 
 Narito ang isang demo kung paano suriin kung gumagana ang Android OS auto backup:  
 
-[Mabawi ang Datos mula sa Android OS Auto Backup](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Hindi mo kailangang sundin ang bawat hakbang sa video na ito. I-install lamang ang app sa iyong bagong telepono, at kung gumagana ito, makikita mo ang isang dialog na naglalaman ng listahan ng mga backup na file kapag binuksan mo ang app sa unang pagkakataon.
 

@@ -15,7 +15,7 @@ Dateien im Papierkorb werden 30 Tage lang aufbewahrt, bevor sie automatisch gel�
 
 Sehen Sie sich dieses Video an, um zu lernen, wie Sie den Papierkorb verwenden:  
 
-[So verwenden Sie den Papierkorb](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Stellen Sie Ihre Daten aus Snapshots wieder her
 
@@ -25,7 +25,7 @@ Jedes Mal, wenn die App Ihr Kapitel speichert, wird ein Snapshot erstellt. Stand
 
 Sehen Sie sich dieses Video an, um zu erfahren, wie Sie Ihre Daten mit Snapshots wiederherstellen:  
 
-[Stellen Sie Ihre Daten aus Snapshots wieder her](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Stellen Sie Daten aus der internen Sicherung der App wieder her
 
@@ -33,7 +33,7 @@ Die App sichert automatisch alle Daten im Hauptordner der App in einer ZIP-Datei
 
 Sehen Sie sich dieses Video an, um zu lernen, wie Sie Daten aus der internen Sicherung der App wiederherstellen:  
 
-[So stellen Sie Daten aus der internen Sicherung wieder her](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Stellen Sie Daten aus der lokalen Speicher-Backup wieder her
 
@@ -43,7 +43,7 @@ Die oben erwähnten Mechanismen speichern Daten intern, sodass sie gelöscht wer
 
 Sehen Sie sich dieses Video an, um zu erfahren, wie Sie Daten aus der lokalen Speicher-Backup wiederherstellen:  
 
-[So verwenden Sie die Speicher-Backup](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Stellen Sie Daten von einem Cloud-Backup-Server wieder her
 
@@ -53,7 +53,7 @@ Hinweis: Die Cloud-Backup-Funktion funktioniert nur, wenn Sie sie im Voraus eing
 
 Sehen Sie sich dieses Video an, um zu lernen, wie Sie Daten mit einem Cloud-Backup-Server sichern und wiederherstellen:  
 
-[So sichern und stellen Sie Ihre Daten wieder her](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS automatische Sicherung
 
@@ -65,7 +65,7 @@ Diese Methode ist jedoch unzuverlässig, daher sollten Sie sich nicht darauf ver
 
 Hier ist eine Demo, wie Sie überprüfen können, ob die automatische Sicherung des Android OS funktioniert:  
 
-[Stellen Sie Daten aus der automatischen Sicherung des Android OS wieder her](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Sie müssen nicht jeden Schritt in diesem Video befolgen. Installieren Sie einfach die App auf Ihrem neuen Telefon; wenn es funktioniert, sehen Sie beim ersten Öffnen der App ein Dialogfeld mit einer Liste von Sicherungsdateien.
 

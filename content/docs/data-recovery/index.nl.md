@@ -15,7 +15,7 @@ Bestanden in de prullenbak worden 30 dagen bewaard voordat ze automatisch worden
 
 Bekijk deze video om te leren hoe je de prullenbak kunt gebruiken:  
 
-[Hoe de prullenbak te gebruiken](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Herstel je gegevens uit snapshots
 
@@ -25,7 +25,7 @@ Elke keer dat de app je hoofdstuk opslaat, maakt deze een snapshot. Standaard wo
 
 Bekijk deze video om te leren hoe je gegevens kunt herstellen met snapshots:  
 
-[Herstel je gegevens uit snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Herstel gegevens uit de interne back-up van de app
 
@@ -33,7 +33,7 @@ De app maakt automatisch een back-up van alle gegevens in de hoofdmap in een ZIP
 
 Bekijk deze video om te leren hoe je gegevens kunt herstellen uit de interne back-up van de app:  
 
-[Hoe gegevens herstellen uit interne back-up](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Herstel gegevens uit lokale opslagback-up
 
@@ -43,7 +43,7 @@ De hierboven genoemde mechanismen slaan gegevens intern op, dus worden ze verwij
 
 Bekijk deze video om te leren hoe je gegevens kunt herstellen uit lokale opslagback-up:  
 
-[Hoe opslagback-up te gebruiken](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Herstel gegevens van een cloud back-up server
 
@@ -53,7 +53,7 @@ Opmerking: De cloud back-up functie werkt alleen als je deze van tevoren hebt in
 
 Bekijk deze video om te leren hoe je gegevens kunt back-uppen en herstellen met een cloud back-up server:  
 
-[Hoe je gegevens kunt back-uppen en herstellen](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Automatische back-up van Android OS
 
@@ -65,7 +65,7 @@ Deze methode is echter onbetrouwbaar, dus vertrouw er niet op als je gegevens be
 
 Hier is een demo over hoe je kunt controleren of de automatische back-up van Android OS werkt:  
 
-[Herstel gegevens uit automatische back-up van Android OS](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Je hoeft niet elke stap in deze video te volgen. Installeer de app gewoon op je nieuwe telefoon en als het werkt, zie je een dialoogvenster met een lijst van back-upbestanden wanneer je de app voor de eerste keer opent.
 

@@ -15,7 +15,7 @@ Les fichiers dans la corbeille sont conservés pendant 30 jours avant d'être au
 
 Regardez cette vidéo pour apprendre à utiliser la corbeille :  
 
-[Comment utiliser la corbeille](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Restaurer vos données depuis les snapshots
 
@@ -25,7 +25,7 @@ Chaque fois que l'application enregistre votre chapitre, elle crée un snapshot.
 
 Regardez cette vidéo pour apprendre à récupérer vos données avec les snapshots :  
 
-[Récupérer vos données depuis les snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Restaurer des données depuis la sauvegarde interne de l'application
 
@@ -33,7 +33,7 @@ L'application sauvegarde automatiquement toutes les données de son dossier prin
 
 Regardez cette vidéo pour apprendre à récupérer les données depuis la sauvegarde interne de l'application :  
 
-[Comment restaurer des données depuis la sauvegarde interne](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Restaurer des données depuis la sauvegarde locale
 
@@ -43,7 +43,7 @@ Les mécanismes mentionnés précédemment stockent les données en interne, don
 
 Regardez cette vidéo pour apprendre à récupérer des données depuis la sauvegarde locale :  
 
-[Comment utiliser la sauvegarde locale](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Restaurer des données depuis un serveur de sauvegarde cloud
 
@@ -53,7 +53,7 @@ Remarque : La fonction de sauvegarde cloud ne fonctionne que si vous l'avez conf
 
 Regardez cette vidéo pour apprendre à sauvegarder et restaurer vos données avec un serveur de sauvegarde cloud :  
 
-[Comment sauvegarder et restaurer vos données](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Sauvegarde automatique du système Android
 
@@ -65,7 +65,7 @@ Cependant, cette méthode n'est pas fiable, donc n'y comptez pas si vos données
 
 Voici une démo pour vérifier si la sauvegarde automatique Android fonctionne :  
 
-[Récupérer des données depuis la sauvegarde automatique Android](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Vous n'avez pas besoin de suivre toutes les étapes de cette vidéo. Il vous suffit d'installer l'application sur votre nouveau téléphone, et si cela fonctionne, vous verrez une boîte de dialogue avec une liste de fichiers de sauvegarde lorsque vous ouvrirez l'application pour la première fois.
 

@@ -15,7 +15,7 @@ Tiedostoja säilytetään roskakorissa 30 päivän ajan, jonka jälkeen ne poist
 
 Katso tämä video oppiaksesi käyttämään roskakoria:  
 
-[Kuinka käyttää roskakoria](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Palauta tiedot hetkistä
 
@@ -25,7 +25,7 @@ Joka kerta kun sovellus tallentaa lukusi, se luo hetkikuvan. Oletuksena jokaises
 
 Katso tämä video oppiaksesi palauttamaan tietosi hetkikuvien avulla:  
 
-[Palauta tietosi hetkikuvista](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Palauta tiedot sovelluksen sisäisestä varmuuskopiosta
 
@@ -33,7 +33,7 @@ Sovellus varmuuskopioi automaattisesti kaikki tiedot kotikansiostaan ZIP-tiedost
 
 Katso tämä video oppiaksesi palauttamaan tietoja sovelluksen sisäisestä varmuuskopiosta:  
 
-[Kuinka palauttaa tiedot sisäisestä varmuuskopiosta](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Palauta tiedot paikallisesta tallennusvarmuuskopiosta
 
@@ -43,7 +43,7 @@ Yllä mainitut mekanismit tallentavat tiedot sisäisesti, joten ne poistetaan, j
 
 Katso tämä video oppiaksesi palauttamaan tietoja paikallisesta tallennusvarmuuskopiosta:  
 
-[Kuinka käyttää tallennusvarmuuskopiota](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Palauta tiedot pilvivarmuuskopiopalvelimelta
 
@@ -53,7 +53,7 @@ Huomaa: Pilvivarmuuskopiointi toimii vain, jos olet asettanut sen etukäteen. Jo
 
 Katso tämä video oppiaksesi varmuuskopioimaan ja palauttamaan tietoja pilvivarmuuskopiopalvelimella:  
 
-[Kuinka varmuuskopioida ja palauttaa tietoja](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android-käyttöjärjestelmän automaattinen varmuuskopiointi
 
@@ -65,7 +65,7 @@ Tämä menetelmä ei kuitenkaan ole luotettava, joten älä luota siihen, jos ti
 
 Tässä on esittelyvideo siitä, miten voit tarkistaa, toimiiko Android-käyttöjärjestelmän automaattinen varmuuskopiointi:  
 
-[Palauta tiedot Android-käyttöjärjestelmän automaattisesta varmuuskopiosta](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Sinun ei tarvitse seurata jokaista vaihetta tässä videossa. Asenna vain sovellus uuteen puhelimeesi, ja jos kaikki toimii, näet valintaikkunan, jossa on luettelo varmuuskopiotiedostoista, kun avaat sovelluksen ensimmäistä kertaa.
 

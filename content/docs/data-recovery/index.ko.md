@@ -15,7 +15,7 @@ copy_mark: src
 
 이 비디오를 보면서 휴지통 사용 방법을 알아보세요:  
 
-[휴지통 사용 방법](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## 스냅샷에서 데이터 복구하기
 
@@ -25,7 +25,7 @@ copy_mark: src
 
 이 비디오를 보면서 스냅샷을 사용하여 데이터를 복구하는 방법을 알아보세요:  
 
-[스냅샷에서 데이터 복구하기](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## 앱 내부 백업에서 데이터 복구하기
 
@@ -33,7 +33,7 @@ copy_mark: src
 
 이 비디오를 보면서 앱 내부 백업에서 데이터를 복구하는 방법을 알아보세요:  
 
-[앱 내부 백업에서 데이터 복구 방법](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## 로컬 스토리지 백업에서 데이터 복구하기
 
@@ -43,7 +43,7 @@ copy_mark: src
 
 이 비디오를 보면서 로컬 스토리지 백업에서 데이터를 복구하는 방법을 알아보세요:  
 
-[로컬 스토리지 백업 사용 방법](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## 클라우드 백업 서버에서 데이터 복구하기
 
@@ -53,7 +53,7 @@ copy_mark: src
 
 이 비디오를 보면서 클라우드 백업 서버를 사용해 데이터를 백업 및 복구하는 방법을 알아보세요:  
 
-[데이터 백업 및 복구 방법](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS 자동 백업
 
@@ -65,7 +65,7 @@ Google 계정에 로그인하고 Google 설정에서 자동 백업을 활성화�
 
 Android OS 자동 백업이 작동하는지 확인하는 방법에 대한 데모를 확인하세요:  
 
-[Android OS 자동 백업에서 데이터 복구하기](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 이 비디오의 모든 단계를 따를 필요는 없습니다. 새 휴대전화에 앱을 설치하면, 작동하는 경우 앱을 처음 열 때 백업 파일 목록이 포함된 대화 상자가 표시됩니다.
 

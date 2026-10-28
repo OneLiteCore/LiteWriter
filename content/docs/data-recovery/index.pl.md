@@ -15,7 +15,7 @@ Pliki w koszu są przechowywane przez 30 dni, zanim zostaną automatycznie usuni
 
 Obejrzyj ten film, aby dowiedzieć się, jak korzystać z kosza:  
 
-[Jak korzystać z kosza](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Odzyskaj swoje dane ze zrzutów
 
@@ -25,7 +25,7 @@ Za każdym razem, gdy aplikacja zapisuje rozdział, tworzy zrzut. Domyślnie dla
 
 Obejrzyj ten film, aby dowiedzieć się, jak odzyskać dane za pomocą zrzutów:  
 
-[Odzyskaj dane ze zrzutów](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Odzyskaj dane z wewnętrznej kopii zapasowej aplikacji
 
@@ -33,7 +33,7 @@ Aplikacja automatycznie tworzy kopię zapasową wszystkich danych w głównym fo
 
 Obejrzyj ten film, aby dowiedzieć się, jak odzyskać dane z wewnętrznej kopii zapasowej aplikacji:  
 
-[Jak odzyskać dane z wewnętrznej kopii zapasowej](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Odzyskaj dane z lokalnej kopii zapasowej
 
@@ -43,7 +43,7 @@ Wcześniej wymienione mechanizmy przechowują dane wewnętrznie, więc są one u
 
 Obejrzyj ten film, aby dowiedzieć się, jak odzyskać dane z lokalnej kopii zapasowej:  
 
-[Jak korzystać z kopii zapasowej](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Odzyskaj dane z serwera kopii zapasowej w chmurze
 
@@ -53,7 +53,7 @@ Uwaga: Funkcja kopii zapasowej w chmurze działa tylko wtedy, gdy została wcze�
 
 Obejrzyj ten film, aby dowiedzieć się, jak wykonać kopię zapasową i przywrócić dane z serwera kopii zapasowej w chmurze:  
 
-[Jak wykonać kopię zapasową i przywrócić dane](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Automatyczna kopia zapasowa systemu Android OS
 
@@ -65,7 +65,7 @@ Jednak ta metoda jest zawodna, więc nie polegaj na niej, jeśli dane są dla Ci
 
 Oto demo, jak sprawdzić, czy automatyczna kopia zapasowa systemu Android OS działa:  
 
-[Odzyskaj dane z automatycznej kopii zapasowej systemu Android OS](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Nie musisz wykonywać wszystkich kroków z tego filmu. Wystarczy, że zainstalujesz aplikację na nowym telefonie, a jeśli wszystko działa poprawnie, zobaczysz okno dialogowe z listą plików kopii zapasowej przy pierwszym uruchomieniu aplikacji.
 

@@ -15,7 +15,7 @@ Os arquivos na lixeira são mantidos por 30 dias antes de serem automaticamente 
 
 Assista a este vídeo para aprender a usar a lixeira:  
 
-[Como Usar a Lixeira](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Restaurar seus dados a partir de snapshots
 
@@ -25,7 +25,7 @@ Cada vez que o aplicativo salva seu capítulo, ele cria um snapshot. Por padrão
 
 Assista a este vídeo para aprender a recuperar seus dados usando snapshots:  
 
-[Recuperar seus dados a partir de snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Restaurar dados do backup interno do aplicativo
 
@@ -33,7 +33,7 @@ O aplicativo faz automaticamente backup de todos os dados dentro da sua pasta pr
 
 Assista a este vídeo para aprender a recuperar dados do backup interno do aplicativo:  
 
-[Como Restaurar Dados do Backup Interno](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Restaurar dados do backup de armazenamento local
 
@@ -43,7 +43,7 @@ Os mecanismos mencionados acima armazenam dados internamente, então são exclu�
 
 Assista a este vídeo para aprender a recuperar dados do backup de armazenamento local:  
 
-[Como Usar o Backup de Armazenamento](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Restaurar dados de um servidor de backup na nuvem
 
@@ -53,7 +53,7 @@ Nota: O recurso de backup na nuvem só funciona se você configurá-lo com antec
 
 Assista a este vídeo para aprender a fazer backup e restaurar dados usando um servidor de backup na nuvem:  
 
-[Como Fazer Backup e Restaurar Seus Dados](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Backup automático do Android OS
 
@@ -65,7 +65,7 @@ No entanto, esse método é pouco confiável, então não confie nele se seus da
 
 Aqui está uma demonstração de como verificar se o backup automático do Android OS funciona:  
 
-[Recuperar Dados do Backup Automático do Android OS](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Você não precisa seguir todos os passos deste vídeo. Basta instalar o aplicativo no seu novo telefone; se funcionar, você verá uma caixa de diálogo com uma lista de arquivos de backup ao abrir o aplicativo pela primeira vez.
 

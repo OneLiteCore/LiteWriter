@@ -15,7 +15,7 @@ copy_mark: src
 
 このビデオを見て、ごみ箱の使い方を学んでください:  
 
-[ごみ箱の使い方](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## スナップショットからデータを復元する
 
@@ -25,7 +25,7 @@ copy_mark: src
 
 このビデオを見て、スナップショットを使用してデータを復元する方法を学んでください:  
 
-[スナップショットからデータを復元する](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## アプリ内部バックアップからデータを復元する
 
@@ -33,7 +33,7 @@ copy_mark: src
 
 このビデオを見て、アプリ内部バックアップからデータを取得する方法を学んでください:  
 
-[内部バックアップからデータを復元する方法](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## ローカルストレージバックアップからデータを復元する
 
@@ -43,7 +43,7 @@ copy_mark: src
 
 このビデオを見て、ローカルストレージバックアップからデータを取得する方法を学んでください:  
 
-[ストレージバックアップの使い方](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## クラウドバックアップサーバーからデータを復元する
 
@@ -53,7 +53,7 @@ copy_mark: src
 
 このビデオを見て、クラウドバックアップサーバーを使用してデータをバックアップおよび復元する方法を学んでください:  
 
-[データのバックアップと復元方法](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS自動バックアップ
 
@@ -65,7 +65,7 @@ Googleアカウントにログインし、Google設定で自動バックアッ�
 
 Android OSの自動バックアップが機能するかどうかを確認するためのデモをご覧ください:  
 
-[Android OS自動バックアップからデータを取得する](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 このビデオのすべてのステップに従う必要はありません。新しい電話にアプリをインストールすると、機能している場合、アプリを初めて開いたときにバックアップファイルのリストを含むダイアログが表示されます。
 

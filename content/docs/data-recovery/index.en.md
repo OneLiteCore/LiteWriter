@@ -15,7 +15,7 @@ Files in the recycle bin are kept for 30 days before being automatically deleted
 
 Watch this video to learn how to use the recycle bin:  
 
-{{< youtube id="WUrHmY4-T30" >}}
+{{< video src="recycle_bin.mp4" >}}
 
 ## Restore Your Data from Snapshots
 
@@ -25,7 +25,7 @@ Each time the app saves your chapter, it creates a snapshot. By default, up to 3
 
 Watch this video to learn how to recover your data using snapshots:  
 
-{{< youtube id="QRlzmj-Vp88" >}}
+{{< video src="snapshots.mp4" >}}
 
 ## Restore Data from the App Internal Backup
 
@@ -33,7 +33,7 @@ The app automatically backs up all data within its home folder into a ZIP file, 
 
 Watch this video to learn how to retrieve data from the app internal backup:  
 
-{{< youtube id="GAOLcbpsCHQ" >}}
+{{< video src="internal_backup.mp4" >}}
 
 ## Restore Data from Local Storage Backup
 
@@ -43,7 +43,7 @@ The mechanisms mentioned above store data internally, so they're deleted if the 
 
 Watch this video to learn how to retrieve data from local storage backup:  
 
-{{< youtube id="Y-M5V3OKWM8" >}}
+{{< video src="storage_backup.mp4" >}}
 
 ## Restore Data from a Cloud Backup Server
 
@@ -53,7 +53,7 @@ Note: The cloud backup feature only works if you set it up in advance. If you di
 
 Watch this video to learn how to back up and restore data using a cloud backup server:  
 
-{{< youtube id="F2UTxySivO4" >}}
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS Auto Backup
 
@@ -65,7 +65,7 @@ However, this method is unreliable, so don't depend on it if your data is import
 
 Here's a demo on how to check if Android OS auto backup works:  
 
-{{< youtube id="PMrsCCpMebk" >}}
+{{< video src="os_backup.mp4" >}}
 
 You don't need to follow every step in this video. Just install the app on your new phone, if it works, you'll see a dialog with a list of backup files when you first open the app.
 

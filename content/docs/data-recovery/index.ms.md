@@ -15,7 +15,7 @@ Fail dalam tong kitar semula akan disimpan selama 30 hari sebelum dipadamkan sec
 
 Tonton video ini untuk belajar cara menggunakan tong kitar semula:  
 
-[Cara Menggunakan Tong Kitar Semula](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Pulihkan Data Anda daripada Snapshot
 
@@ -25,7 +25,7 @@ Setiap kali aplikasi menyimpan bab anda, ia mencipta snapshot. Secara lalai, seh
 
 Tonton video ini untuk belajar cara memulihkan data menggunakan snapshot:  
 
-[Pulihkan Data Anda daripada Snapshot](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Pulihkan Data daripada Sandaran Dalaman Aplikasi
 
@@ -33,7 +33,7 @@ Aplikasi ini secara automatik membuat sandaran semua data dalam folder utama ke 
 
 Tonton video ini untuk belajar cara mendapatkan semula data daripada sandaran dalaman aplikasi:  
 
-[Cara Memulihkan Data daripada Sandaran Dalaman](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Pulihkan Data daripada Sandaran Storan Tempatan
 
@@ -43,7 +43,7 @@ Mekanisme yang disebutkan di atas menyimpan data secara dalaman, jadi ia akan di
 
 Tonton video ini untuk belajar cara mendapatkan semula data daripada sandaran storan tempatan:  
 
-[Cara Menggunakan Sandaran Storan](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Pulihkan Data daripada Pelayan Sandaran Awan
 
@@ -53,7 +53,7 @@ Catatan: Ciri sandaran awan hanya berfungsi jika anda telah menetapkannya lebih 
 
 Tonton video ini untuk belajar cara membuat sandaran dan memulihkan data menggunakan pelayan sandaran awan:  
 
-[Cara Membuat Sandaran & Memulihkan Data Anda](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Sandaran Automatik Android OS
 
@@ -65,7 +65,7 @@ Walau bagaimanapun, kaedah ini tidak boleh dipercayai, jadi jangan bergantung pa
 
 Berikut adalah demo tentang cara memeriksa sama ada sandaran automatik Android OS berfungsi:  
 
-[Pulihkan Data daripada Sandaran Automatik Android OS](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Anda tidak perlu mengikuti setiap langkah dalam video ini. Cukup pasang aplikasi pada telefon baharu anda, jika ia berfungsi, anda akan melihat dialog dengan senarai fail sandaran apabila anda membuka aplikasi untuk kali pertama.
 

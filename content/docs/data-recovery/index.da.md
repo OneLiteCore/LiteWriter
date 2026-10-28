@@ -15,7 +15,7 @@ Filer i papirkurven opbevares i 30 dage, før de slettes automatisk, så lagerpl
 
 Se denne video for at lære, hvordan du bruger papirkurven:  
 
-[Sådan bruger du papirkurven](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Gendan dine data fra snapshots
 
@@ -25,7 +25,7 @@ Hver gang appen gemmer dit kapitel, opretter den et snapshot. Som standard gemme
 
 Se denne video for at lære, hvordan du gendanner dine data ved hjælp af snapshots:  
 
-[Gendan dine data fra snapshots](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Gendan data fra appens interne backup
 
@@ -33,7 +33,7 @@ Appen opretter automatisk en backup af alle data i sin hovedmappe i en ZIP-fil, 
 
 Se denne video for at lære, hvordan du gendanner data fra appens interne backup:  
 
-[Hvordan gendanner man data fra intern backup](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Gendan data fra lokal lagerbackup
 
@@ -43,7 +43,7 @@ De ovennævnte mekanismer gemmer data internt, så de slettes, hvis appen afinst
 
 Se denne video for at lære, hvordan du gendanner data fra lokal lagerbackup:  
 
-[Sådan bruger du lagerbackup](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Gendan data fra en sky-backupserver
 
@@ -53,7 +53,7 @@ Bemærk: Sky-backupfunktionen fungerer kun, hvis du har opsat den på forhånd. 
 
 Se denne video for at lære, hvordan du laver backup og gendanner data ved hjælp af en sky-backupserver:  
 
-[Sådan laver man backup og gendanner data](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android OS automatisk backup
 
@@ -65,7 +65,7 @@ Denne metode er dog upålidelig, så stol ikke på den, hvis dine data er vigtig
 
 Her er en demo af, hvordan du kan tjekke, om Android OS automatisk backup virker:  
 
-[Gendan data fra Android OS automatisk backup](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Du behøver ikke følge hvert trin i denne video. Bare installer appen på din nye telefon; hvis det virker, vil du se en dialog med en liste over backupfiler, når du åbner appen første gang.
 

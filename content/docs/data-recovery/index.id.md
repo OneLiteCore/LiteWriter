@@ -15,7 +15,7 @@ File di tempat sampah disimpan selama 30 hari sebelum dihapus secara otomatis, j
 
 Tonton video ini untuk mempelajari cara menggunakan tempat sampah:  
 
-[Cara Menggunakan Tempat Sampah](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Pulihkan Data Anda dari Snapshot
 
@@ -25,7 +25,7 @@ Setiap kali aplikasi menyimpan bab Anda, aplikasi membuat snapshot. Secara defau
 
 Tonton video ini untuk mempelajari cara memulihkan data Anda menggunakan snapshot:  
 
-[Pulihkan Data Anda dari Snapshot](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Pulihkan Data dari Cadangan Internal Aplikasi
 
@@ -33,7 +33,7 @@ Aplikasi secara otomatis mencadangkan semua data di dalam folder utama ke dalam 
 
 Tonton video ini untuk mempelajari cara mengambil data dari cadangan internal aplikasi:  
 
-[Cara Memulihkan Data dari Cadangan Internal](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Pulihkan Data dari Cadangan Penyimpanan Lokal
 
@@ -43,7 +43,7 @@ Mekanisme yang disebutkan di atas menyimpan data secara internal, jadi mereka di
 
 Tonton video ini untuk mempelajari cara mengambil data dari cadangan penyimpanan lokal:  
 
-[Cara Menggunakan Cadangan Penyimpanan](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Pulihkan Data dari Server Cadangan Cloud
 
@@ -53,7 +53,7 @@ Catatan: Fitur cadangan cloud hanya berfungsi jika Anda telah mengaturnya sebelu
 
 Tonton video ini untuk mempelajari cara mencadangkan dan memulihkan data menggunakan server cadangan cloud:  
 
-[Cara Mencadangkan & Memulihkan Data Anda](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Cadangan Otomatis OS Android
 
@@ -65,7 +65,7 @@ Namun, metode ini tidak dapat diandalkan, jadi jangan bergantung padanya jika da
 
 Berikut adalah demo tentang cara memeriksa apakah cadangan otomatis OS Android berfungsi:  
 
-[Ambil Data dari Cadangan Otomatis OS Android](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Anda tidak perlu mengikuti setiap langkah dalam video ini. Cukup instal aplikasi di ponsel baru Anda, jika berfungsi, Anda akan melihat dialog dengan daftar file cadangan saat pertama kali membuka aplikasi.
 

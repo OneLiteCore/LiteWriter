@@ -15,7 +15,7 @@ title: 如何找回資料
 
 請檢視這個影片以瞭解如何使用回收站功能：
 
-{{< youtube id="WUrHmY4-T30" >}}
+{{< video src="recycle_bin.mp4" >}}
 
 ## 從快照中恢復您的資料
 
@@ -25,7 +25,7 @@ title: 如何找回資料
 
 請檢視如下影片以瞭解如何使用快照功能：
 
-{{< youtube id="QRlzmj-Vp88" >}}
+{{< video src="snapshots.mp4" >}}
 
 ## 從應用內部備份中恢復資料
 
@@ -33,7 +33,7 @@ title: 如何找回資料
 
 請檢視如下演示影片以瞭解如何從應用內部備份中恢復資料：
 
-{{< youtube id="GAOLcbpsCHQ" >}}
+{{< video src="internal_backup.mp4" >}}
 
 ## 從本地儲存備份中恢復資料
 
@@ -43,7 +43,7 @@ title: 如何找回資料
 
 請檢視如下演示影片以瞭解如何使用設定儲存備份：
 
-{{< youtube id="Y-M5V3OKWM8" >}}
+{{< video src="storage_backup.mp4" >}}
 
 ## 從雲備份伺服器中恢復資料：
 
@@ -53,7 +53,7 @@ title: 如何找回資料
 
 請檢查如下演示影片以瞭解如何透過雲備份服務來備份和恢復你的資料：
 
-{{< youtube id="F2UTxySivO4" >}}
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Android 系統自動備份
 
@@ -65,7 +65,7 @@ title: 如何找回資料
 
 你可以檢視如下如下的樣式影片以瞭解它是如何運作的：
 
-{{< youtube id="PMrsCCpMebk" >}}
+{{< video src="os_backup.mp4" >}}
 
 請注意你無須每一步都按照影片中的去做，它僅僅是一個演示影片。你需要做的僅僅是在新裝置上安裝本應用，如果這個機制成功運作的話，在首次進入應用後你將會看到一個展示著舊備份資料的列表對話方塊，就像是演示影片展示的一樣。
 

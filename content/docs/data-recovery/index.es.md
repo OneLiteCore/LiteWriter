@@ -15,7 +15,7 @@ Los archivos en la papelera de reciclaje se mantienen durante 30 días antes de 
 
 Vea este video para aprender cómo usar la papelera de reciclaje:  
 
-[Cómo usar la papelera de reciclaje](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Restaurar sus datos desde las instantáneas
 
@@ -25,7 +25,7 @@ Cada vez que la aplicación guarda su capítulo, se crea una instantánea. De fo
 
 Vea este video para aprender cómo recuperar sus datos utilizando instantáneas:  
 
-[Recupere sus datos desde instantáneas](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Restaurar datos desde la copia de seguridad interna de la aplicación
 
@@ -33,7 +33,7 @@ La aplicación respalda automáticamente todos los datos dentro de su carpeta pr
 
 Vea este video para aprender cómo recuperar datos desde la copia de seguridad interna de la aplicación:  
 
-[Cómo restaurar datos desde la copia de seguridad interna](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Restaurar datos desde la copia de seguridad de almacenamiento local
 
@@ -43,7 +43,7 @@ Los mecanismos mencionados anteriormente almacenan datos internamente, por lo qu
 
 Vea este video para aprender cómo recuperar datos desde la copia de seguridad de almacenamiento local:  
 
-[Cómo usar la copia de seguridad de almacenamiento](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Restaurar datos desde un servidor de copia de seguridad en la nube
 
@@ -53,7 +53,7 @@ Nota: La función de copia de seguridad en la nube solo funciona si la configur�
 
 Vea este video para aprender cómo hacer una copia de seguridad y restaurar sus datos usando un servidor de copia de seguridad en la nube:  
 
-[Cómo hacer una copia de seguridad y restaurar sus datos](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Copia de seguridad automática del sistema operativo Android
 
@@ -65,7 +65,7 @@ Sin embargo, este método no es confiable, por lo que no debe depender de él si
 
 Aquí hay una demostración de cómo verificar si la copia de seguridad automática del sistema operativo Android funciona:  
 
-[Recupere sus datos desde la copia de seguridad automática del sistema operativo Android](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 No necesita seguir todos los pasos en este video. Simplemente instale la aplicación en su nuevo teléfono; si funciona, verá un cuadro de diálogo con una lista de archivos de respaldo cuando abra la aplicación por primera vez.
 

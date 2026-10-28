@@ -1,0 +1,20 @@
+{{- /*
+Shortcode to embed a local video file.
+
+@param {string} src The video file name, resolved under `static/video/`.
+
+@example {{< video src="recycle_bin.mp4" >}}
+*/ -}}
+
+{{- $src := .Get "src" -}}
+{{- if not $src -}}
+  {{- errorf "The %q shortcode requires a 'src' parameter." .Name -}}
+{{- end -}}
+
+{{- $url := printf "video/%s" $src -}}
+
+<div class="hextra-video">
+  <video controls preload="metadata" width="100%" src="{{ $url | relURL | safeURL }}">
+    {{- (T "videoNotSupported") | default "Your browser does not support the video tag." -}}
+  </video>
+</div>

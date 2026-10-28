@@ -15,7 +15,7 @@ I file nel cestino vengono conservati per 30 giorni prima di essere eliminati au
 
 Guarda questo video per imparare come usare il cestino:  
 
-[Come usare il Cestino](https://youtube.com/shorts/WUrHmY4-T30?feature=share)
+{{< video src="recycle_bin.mp4" >}}
 
 ## Ripristina i tuoi dati dalle Snapshot
 
@@ -25,7 +25,7 @@ Ogni volta che l'app salva il tuo capitolo, crea una snapshot. Per impostazione 
 
 Guarda questo video per imparare come recuperare i tuoi dati utilizzando le snapshot:  
 
-[Recupera i tuoi dati dalle Snapshot](https://youtu.be/QRlzmj-Vp88)
+{{< video src="snapshots.mp4" >}}
 
 ## Ripristina i dati dal Backup Interno dell'App
 
@@ -33,7 +33,7 @@ L'app esegue automaticamente il backup di tutti i dati all'interno della cartell
 
 Guarda questo video per imparare come recuperare i dati dal backup interno dell'app:  
 
-[Come ripristinare i dati dal Backup Interno](https://youtube.com/shorts/GAOLcbpsCHQ?feature=share)
+{{< video src="internal_backup.mp4" >}}
 
 ## Ripristina i dati dal Backup su Memoria Locale
 
@@ -43,7 +43,7 @@ I meccanismi menzionati sopra memorizzano i dati internamente, quindi vengono el
 
 Guarda questo video per imparare come recuperare i dati dal backup su memoria locale:  
 
-[Come usare il Backup su Memoria Locale](https://youtu.be/Y-M5V3OKWM8)
+{{< video src="storage_backup.mp4" >}}
 
 ## Ripristina i dati da un Server di Backup Cloud
 
@@ -53,7 +53,7 @@ Nota: La funzione di backup cloud funziona solo se l'hai configurata in anticipo
 
 Guarda questo video per imparare come eseguire il backup e ripristinare i dati utilizzando un server di backup cloud:  
 
-[Come eseguire il Backup & Ripristinare i tuoi Dati](https://youtube.com/shorts/F2UTxySivO4)
+{{< video src="backup_n_restore.mp4" >}}
 
 ## Backup Automatico del Sistema Operativo Android
 
@@ -65,7 +65,7 @@ Tuttavia, questo metodo non è affidabile, quindi non dipendere da esso se i tuo
 
 Ecco una demo su come verificare se il backup automatico del sistema operativo Android funziona:  
 
-[Recupera i dati dal Backup Automatico del Sistema Operativo Android](https://youtu.be/PMrsCCpMebk)
+{{< video src="os_backup.mp4" >}}
 
 Non devi seguire ogni passaggio in questo video. Basta installare l'app sul tuo nuovo telefono, se funziona, vedrai una finestra di dialogo con un elenco di file di backup quando apri l'app per la prima volta.
 
