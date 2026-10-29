@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Termos e Condições
+title: Acordo do usuário (Google Play)
 ---
 
 By downloading or using the app, these terms will

@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Vilkår og betingelser
+title: Brugeraftale (Google Play)
 ---
 
 By downloading or using the app, these terms will

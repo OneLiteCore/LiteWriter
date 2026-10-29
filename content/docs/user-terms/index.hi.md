@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: नियम और शर्तें
+title: उपयोगकर्ता समझौता (Google Play)
 ---
 
 By downloading or using the app, these terms will

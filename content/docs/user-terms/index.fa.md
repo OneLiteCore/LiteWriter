@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: شرایط و ضوابط
+title: توافقنامه کاربر (Google Play)
 ---
 
 By downloading or using the app, these terms will

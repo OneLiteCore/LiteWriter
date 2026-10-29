@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Şartlar ve Koşullar
+title: Kullanıcı Sözleşmesi (Google Play)
 ---
 
 By downloading or using the app, these terms will

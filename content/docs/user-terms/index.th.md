@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: ข้อกำหนดและเงื่อนไข
+title: ข้อตกลงผู้ใช้ (Google Play)
 ---
 
 By downloading or using the app, these terms will

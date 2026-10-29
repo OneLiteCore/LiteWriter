@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: الشروط والأحكام
+title: اتفاقية المستخدم (Google Play)
 ---
 
 By downloading or using the app, these terms will
