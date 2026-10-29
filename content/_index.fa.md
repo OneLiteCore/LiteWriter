@@ -5,16 +5,16 @@ copy_mark: copied
 
 ![Img](/img/app_graphic.jpg)
 
-# Lite Writer: Writing/Note/Memo
+# Lite Writer: نوشتن/یادداشت/یادداشت کوتاه
 
-👋 Hello there, welcome to the official site of the Lite Writer app! On this site we will provide you intro, guidences and documents of the app, to let you know what kind of features it has and how they work.
+👋 سلام، به وب‌سایت رسمی اپلیکیشن Lite Writer خوش آمدید! در این سایت، معرفی، راهنما و مستندات اپلیکیشن را در اختیار شما قرار می‌دهیم تا بدانید چه قابلیت‌هایی دارد و چگونه کار می‌کنند.
 
 <div class="hx-mt-6"></div>
 <div class="hx-mb-7">
-{{< hextra/hero-button text="Get Started" link="docs/data-syncing" margin-top="20px">}}
+{{< hextra/hero-button text="شروع کنید" link="docs/faqs" margin-top="20px">}}
 </div>
 
-If you haven't downloaded the app yet, hit the buttons below to go to the app store that you like to download the app. Do remember that if you like it we truly hope that you can give us 5⭐ on store, it is very important to us and encourage us to keep working and improving this app, many thanks in advance🤣!
+اگر هنوز اپلیکیشن را دانلود نکرده‌اید، روی دکمه‌های زیر بزنید تا به فروشگاه اپلیکیشنی که دوست دارید بروید و اپلیکیشن را دانلود کنید. فراموش نکنید که اگر از آن خوشتان آمد، واقعاً امیدواریم که به ما ۵⭐ در فروشگاه بدهید؛ این برای ما بسیار مهم است و به ما انگیزه می‌دهد تا به کار روی این اپلیکیشن و بهبود آن ادامه دهیم. پیشاپیش بسیار سپاسگزاریم🤣!
 
 {{< cards >}}
   {{< card title="Google Play" link="https://play.google.com/store/apps/details?id=core.writer">}}

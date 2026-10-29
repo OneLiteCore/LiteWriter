@@ -5,16 +5,16 @@ copy_mark: copied
 
 ![Img](/img/app_graphic.jpg)
 
-# Lite Writer: Writing/Note/Memo
+# Lite Writer: 執筆/ノート/メモ
 
-👋 Hello there, welcome to the official site of the Lite Writer app! On this site we will provide you intro, guidences and documents of the app, to let you know what kind of features it has and how they work.
+👋 こんにちは。Lite Writer アプリの公式サイトへようこそ！このサイトでは、アプリの紹介、ガイド、ドキュメントを提供し、どのような機能があり、どのように動作するのかをご案内します。
 
 <div class="hx-mt-6"></div>
 <div class="hx-mb-7">
-{{< hextra/hero-button text="Get Started" link="docs/data-syncing" margin-top="20px">}}
+{{< hextra/hero-button text="はじめる" link="docs/faqs" margin-top="20px">}}
 </div>
 
-If you haven't downloaded the app yet, hit the buttons below to go to the app store that you like to download the app. Do remember that if you like it we truly hope that you can give us 5⭐ on store, it is very important to us and encourage us to keep working and improving this app, many thanks in advance🤣!
+まだアプリをダウンロードしていない場合は、下のボタンをタップしてお好みのアプリストアに移動し、アプリをダウンロードしてください。気に入っていただけたなら、ストアで 5⭐ の評価をいただけると大変ありがたく思います。それは私たちにとって非常に重要であり、このアプリの開発と改善を続ける励みになります。あらかじめ感謝申し上げます🤣！
 
 {{< cards >}}
   {{< card title="Google Play" link="https://play.google.com/store/apps/details?id=core.writer">}}

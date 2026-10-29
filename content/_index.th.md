@@ -5,16 +5,16 @@ copy_mark: copied
 
 ![Img](/img/app_graphic.jpg)
 
-# Lite Writer: Writing/Note/Memo
+# Lite Writer: การเขียน/บันทึก/บันทึกช่วยจำ
 
-👋 Hello there, welcome to the official site of the Lite Writer app! On this site we will provide you intro, guidences and documents of the app, to let you know what kind of features it has and how they work.
+👋 สวัสดี ยินดีต้อนรับสู่เว็บไซต์อย่างเป็นทางการของแอป Lite Writer! บนเว็บไซต์นี้ เราจะให้ข้อมูลแนะนำ คู่มือ และเอกสารของแอป เพื่อให้คุณทราบว่าแอปมีฟีเจอร์อะไรบ้างและทำงานอย่างไร
 
 <div class="hx-mt-6"></div>
 <div class="hx-mb-7">
-{{< hextra/hero-button text="Get Started" link="docs/data-syncing" margin-top="20px">}}
+{{< hextra/hero-button text="เริ่มต้นใช้งาน" link="docs/faqs" margin-top="20px">}}
 </div>
 
-If you haven't downloaded the app yet, hit the buttons below to go to the app store that you like to download the app. Do remember that if you like it we truly hope that you can give us 5⭐ on store, it is very important to us and encourage us to keep working and improving this app, many thanks in advance🤣!
+หากคุณยังไม่ได้ดาวน์โหลดแอป ให้กดปุ่มด้านล่างเพื่อไปยังแอปสโตร์ที่คุณต้องการและดาวน์โหลดแอป อย่าลืมว่าหากคุณชอบแอปนี้ เราหวังเป็นอย่างยิ่งว่าคุณจะให้ 5⭐ แก่เราบนสโตร์ ซึ่งสำคัญมากสำหรับเราและเป็นกำลังใจให้เราพัฒนาและปรับปรุงแอปนี้ต่อไป ขอบคุณล่วงหน้าเป็นอย่างยิ่ง🤣!
 
 {{< cards >}}
   {{< card title="Google Play" link="https://play.google.com/store/apps/details?id=core.writer">}}

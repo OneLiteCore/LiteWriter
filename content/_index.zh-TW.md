@@ -11,7 +11,7 @@ copy_mark: src
 
 <div class="hx-mt-6"></div>
 <div class="hx-mb-7">
-{{< hextra/hero-button text="立即開始" link="docs/data-syncing" margin-top="20px">}}
+{{< hextra/hero-button text="立即開始" link="docs/faqs" margin-top="20px">}}
 </div>
 
 如果你還未下載我們的應用，可以點選下方的按鈕以跳轉到你喜歡的應用市場去下載。如果您喜歡我們的應用的話還望能在商店頁面夠給我們 5⭐ 好評，這對我們後續的開發和發展至關重要，感謝理解🤣！

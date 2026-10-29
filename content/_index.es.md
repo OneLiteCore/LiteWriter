@@ -5,16 +5,16 @@ copy_mark: copied
 
 ![Img](/img/app_graphic.jpg)
 
-# Lite Writer: Writing/Note/Memo
+# Lite Writer: Escritura/Notas/Memo
 
-👋 Hello there, welcome to the official site of the Lite Writer app! On this site we will provide you intro, guidences and documents of the app, to let you know what kind of features it has and how they work.
+👋 ¡Hola! Te damos la bienvenida al sitio oficial de la aplicación Lite Writer. En este sitio te ofreceremos una introducción, guías y documentos de la aplicación para que sepas qué funciones tiene y cómo funcionan.
 
 <div class="hx-mt-6"></div>
 <div class="hx-mb-7">
-{{< hextra/hero-button text="Get Started" link="docs/data-syncing" margin-top="20px">}}
+{{< hextra/hero-button text="Comenzar" link="docs/faqs" margin-top="20px">}}
 </div>
 
-If you haven't downloaded the app yet, hit the buttons below to go to the app store that you like to download the app. Do remember that if you like it we truly hope that you can give us 5⭐ on store, it is very important to us and encourage us to keep working and improving this app, many thanks in advance🤣!
+Si aún no has descargado la aplicación, pulsa los botones de abajo para ir a la tienda de aplicaciones que prefieras y descargarla. Recuerda que, si te gusta, esperamos de verdad que nos des 5⭐ en la tienda; es muy importante para nosotros y nos anima a seguir trabajando y mejorando esta aplicación. ¡Muchas gracias de antemano🤣!
 
 {{< cards >}}
   {{< card title="Google Play" link="https://play.google.com/store/apps/details?id=core.writer">}}
