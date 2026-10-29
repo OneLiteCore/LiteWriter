@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Terms & Conditions
+title: 이용약관
 ---
 
 By downloading or using the app, these terms will

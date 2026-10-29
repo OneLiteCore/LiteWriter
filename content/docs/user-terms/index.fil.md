@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Terms & Conditions
+title: Mga Tuntunin at Kundisyon
 ---
 
 By downloading or using the app, these terms will

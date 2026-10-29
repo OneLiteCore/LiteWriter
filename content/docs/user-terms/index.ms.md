@@ -1,7 +1,7 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Terms & Conditions
+title: Terma dan Syarat
 ---
 
 By downloading or using the app, these terms will
