@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Наразі лише материкова китайська версія застосунку підтримує WeChat Pay; версія з Google Play — ні. Ці дві версії незалежні одна від одної, тобто ви не можете активувати материкову китайську версію застосунку через Google Play, і навпаки.
 
-You can download the China Mainland version of the app in the following app stores:
+Ви можете завантажити материкову китайську версію застосунку в наведених нижче магазинах застосунків:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Активація
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Один код активації може активувати 3 копії Pro-версії застосунку; коли ви активуєте 4-ту копію, найстарішу буде деактивовано.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Код активації призначено лише для особистого використання. Він анонімний і не підлягає скиданню, тобто якщо ви розголосите код, ним зможе скористатися кожен, хто його отримає, тому зберігайте його в безпечному місці.
 
-# Forget Your Activation Code?
+# Забули свій код активації?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Сервіси -> Транзакції -> Знайдіть запис про покупку -> **Номер замовлення продавця**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Ви можете довго натиснути й скопіювати **номер замовлення продавця**, а потім перейти в застосунок, щоб повторно активувати Pro-версію застосунку.
 
-# Refund Policy
+# Політика повернення коштів
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Ви можете повернути кошти за покупку протягом 48 годин з моменту її здійснення.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Ми пропонуємо багато способів БЕЗКОШТОВНО активувати тимчасову Pro-версію застосунку, тож якщо ви не впевнені, чи вартий застосунок для вас, спробуйте його перед покупкою.
 
-# Contact us
+# Зв'яжіться з нами
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Якщо у вас виникли запитання з цього приводу, будь ласка, зв'яжіться з нами за адресою [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

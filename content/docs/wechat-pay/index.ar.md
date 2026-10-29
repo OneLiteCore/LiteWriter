@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+حاليًا، تدعم نسخة البر الرئيسي للصين من التطبيق الدفع عبر WeChat فقط، بينما لا تدعمه نسخة Google Play. النسختان مستقلتان عن بعضهما البعض، مما يعني أنه لا يمكنك تفعيل نسخة البر الرئيسي للصين من التطبيق عبر Google Play، والعكس صحيح.
 
-You can download the China Mainland version of the app in the following app stores:
+يمكنك تنزيل نسخة البر الرئيسي للصين من التطبيق من متاجر التطبيقات التالية:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# التفعيل
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+يمكن لرمز التفعيل الواحد تفعيل 3 نسخ من النسخة الاحترافية للتطبيق، وعند تفعيل النسخة الرابعة، سيتم إلغاء تفعيل النسخة الأقدم.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+رمز التفعيل مخصص للاستخدام الشخصي فقط. وهو مجهول الهوية وغير قابل لإعادة التعيين، مما يعني أنه إذا سرّبت الرمز، فسيتمكن كل من يحصل عليه من استخدامه، لذا يرجى الاحتفاظ به في مكان آمن.
 
-# Forget Your Activation Code?
+# نسيت رمز التفعيل الخاص بك؟
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> الخدمات -> المعاملات -> ابحث عن سجل الشراء -> **رقم طلب التاجر**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+يمكنك الضغط مطولًا ونسخ **رقم طلب التاجر** ثم الانتقال إلى التطبيق لإعادة تفعيل النسخة الاحترافية من التطبيق.
 
-# Refund Policy
+# سياسة الاسترداد
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+يُسمح لك باسترداد قيمة مشترياتك خلال 48 ساعة من إتمام عملية الشراء.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+نوفر العديد من الطرق لتفعيل نسخة احترافية مؤقتة من التطبيق مجانًا، فإذا لم تكن متأكدًا مما إذا كان التطبيق يستحق الشراء، فجرّبه قبل إجراء عملية الشراء.
 
-# Contact us
+# تواصل معنا
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+إذا كانت لديك أي أسئلة حول هذا الأمر، فيرجى التواصل معنا عبر [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

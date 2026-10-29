@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Tällä hetkellä vain sovelluksen Manner-Kiinan versio tukee WeChat Pay -maksua; Google Play -versio sen sijaan ei tue sitä. Nämä kaksi versiota ovat toisistaan riippumattomia, mikä tarkoittaa, että et voi aktivoida sovelluksen Manner-Kiinan versiota Google Playn kautta, ja päinvastoin.
 
-You can download the China Mainland version of the app in the following app stores:
+Voit ladata sovelluksen Manner-Kiinan version seuraavista sovelluskaupoista:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Aktivointi
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Yksi aktivointikoodi voi aktivoida 3 kopiota sovelluksen Pro-versiosta; kun aktivoit 4. kopion, vanhin kopio poistetaan käytöstä.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Aktivointikoodi on tarkoitettu vain henkilökohtaiseen käyttöön. Se on anonyymi eikä sitä voi nollata, mikä tarkoittaa, että jos vuodat koodin, kuka tahansa koodin saanut voi käyttää sitä, joten säilytä se turvallisessa paikassa.
 
-# Forget Your Activation Code?
+# Unohditko aktivointikoodisi?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Palvelut -> Tapahtumat -> Etsi ostotietue -> **Kauppiaan tilausnumero**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Voit painaa pitkään ja kopioida **kauppiaan tilausnumeron** ja siirtyä sitten sovellukseen aktivoidaksesi sovelluksen Pro-version uudelleen.
 
-# Refund Policy
+# Palautuskäytäntö
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Voit palauttaa ostoksesi 48 tunnin kuluessa ostoksen tekemisestä.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Tarjoamme monia tapoja aktivoida sovelluksen väliaikainen Pro-versio ILMAISEKSI, joten jos et ole varma, onko sovellus hintansa arvoinen sinulle, kokeile sitä ennen ostoksen tekemistä.
 
-# Contact us
+# Ota yhteyttä
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Jos sinulla on kysyttävää tästä, ota meihin yhteyttä osoitteessa [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

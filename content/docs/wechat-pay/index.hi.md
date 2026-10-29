@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+वर्तमान में केवल ऐप का मुख्यभूमि चीन संस्करण ही WeChat Pay का समर्थन करता है; Google Play संस्करण इसका समर्थन नहीं करता। ये दोनों संस्करण एक-दूसरे से स्वतंत्र हैं, जिसका अर्थ है कि आप ऐप के मुख्यभूमि चीन संस्करण को Google Play के माध्यम से सक्रिय नहीं कर सकते, और इसका उल्टा भी सत्य है।
 
-You can download the China Mainland version of the app in the following app stores:
+आप ऐप के मुख्यभूमि चीन संस्करण को निम्नलिखित ऐप स्टोर से डाउनलोड कर सकते हैं:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# सक्रियण
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+एक सक्रियण कोड ऐप के प्रो संस्करण की 3 प्रतियों को सक्रिय कर सकता है; जब आप चौथी प्रति सक्रिय करते हैं, तो सबसे पुरानी प्रति निष्क्रिय हो जाएगी।
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+सक्रियण कोड केवल व्यक्तिगत उपयोग के लिए है। यह गुमनाम और पुनः सेट न किए जाने योग्य है, जिसका अर्थ है कि यदि आप कोड लीक कर देते हैं, तो कोड प्राप्त करने वाला हर व्यक्ति इसका उपयोग कर सकता है; इसलिए कृपया इसे सुरक्षित स्थान पर रखें।
 
-# Forget Your Activation Code?
+# अपना सक्रियण कोड भूल गए?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> सेवाएँ -> लेन-देन -> खरीद रिकॉर्ड खोजें -> **व्यापारी ऑर्डर नं.**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+आप **व्यापारी ऑर्डर नं.** को देर तक दबाकर कॉपी कर सकते हैं और फिर ऐप के प्रो संस्करण को पुनः सक्रिय करने के लिए ऐप में जा सकते हैं।
 
-# Refund Policy
+# धनवापसी नीति
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+खरीदारी किए जाने के 48 घंटों के भीतर आपको अपनी खरीदारी की धनवापसी करने की अनुमति है।
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+हम ऐप के अस्थायी प्रो संस्करण को मुफ़्त में सक्रिय करने के कई तरीके प्रदान करते हैं, इसलिए यदि आप सुनिश्चित नहीं हैं कि ऐप आपके लिए इसके लायक है या नहीं, तो खरीदारी करने से पहले इसे आज़माएँ।
 
-# Contact us
+# हमसे संपर्क करें
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+यदि इस बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com) पर संपर्क करें।

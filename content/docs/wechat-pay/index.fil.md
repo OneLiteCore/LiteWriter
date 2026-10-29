@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Sa kasalukuyan, tanging ang bersyon ng app para sa Mainland China ang sumusuporta sa WeChat Payment; ang bersyon naman sa Google Play ay hindi. Magkahiwalay ang dalawang bersyon, ibig sabihin, hindi mo maa-activate ang bersyon ng app para sa Mainland China sa pamamagitan ng Google Play, at gayundin naman ang kabaligtaran.
 
-You can download the China Mainland version of the app in the following app stores:
+Maaari mong i-download ang bersyon ng app para sa Mainland China sa mga sumusunod na app store:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Pag-activate
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Maaaring i-activate ng isang activation code ang 3 kopya ng Pro Edition ng app; kapag ina-activate mo ang ika-4 na kopya, made-deactivate ang pinakaluma.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Ang activation code ay para sa personal na gamit lamang. Ito ay anonymous at hindi ma-reset, ibig sabihin, kapag na-leak mo ang code, lahat ng makakuha ng code ay magagamit ito, kaya't itago ito sa ligtas na lugar.
 
-# Forget Your Activation Code?
+# Nakalimutan ang Iyong Activation Code?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Serbisyo -> Mga Transaksyon -> Hanapin ang tala ng pagbili -> **Merchant Order No**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Maaari mong i-long press at kopyahin ang **Merchant Order No** at pagkatapos ay bumalik sa app upang muling i-activate ang iyong Pro Edition ng app.
 
-# Refund Policy
+# Patakaran sa Refund
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Pinapayagan kang i-refund ang iyong pagbili sa loob ng 48 oras mula nang magawa ang pagbili.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Nagbibigay kami ng maraming paraan upang i-activate ang isang pansamantalang Pro Edition ng app nang LIBRE, kaya kung hindi ka sigurado kung sulit ang app para sa iyo, subukan muna ito bago bumili.
 
-# Contact us
+# Makipag-ugnayan sa amin
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Kung mayroon kang anumang tanong tungkol dito, mangyaring makipag-ugnayan sa amin sa [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

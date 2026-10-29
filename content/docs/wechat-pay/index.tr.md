@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Şu anda uygulamanın yalnızca Anakara Çin sürümü WeChat Pay'i destekler; Google Play sürümü ise desteklemez. İki sürüm birbirinden bağımsızdır; yani uygulamanın Anakara Çin sürümünü Google Play üzerinden etkinleştiremezsiniz ve bunun tersi de geçerlidir.
 
-You can download the China Mainland version of the app in the following app stores:
+Uygulamanın Anakara Çin sürümünü aşağıdaki uygulama mağazalarından indirebilirsiniz:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Etkinleştirme
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Bir etkinleştirme kodu, uygulamanın Pro Sürümü'nün 3 kopyasını etkinleştirebilir; 4. kopyayı etkinleştirdiğinizde en eski olan devre dışı bırakılır.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Etkinleştirme kodu yalnızca kişisel kullanım içindir. Anonimdir ve sıfırlanamaz; yani kodu sızdırırsanız, kodu elde eden herkes onu kullanabilir, bu yüzden lütfen güvenli bir yerde saklayın.
 
-# Forget Your Activation Code?
+# Etkinleştirme Kodunuzu mu Unuttunuz?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Hizmetler -> İşlemler -> Satın alma kaydını bulun -> **Satıcı Sipariş No**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+**Satıcı Sipariş No**'yu uzun basıp kopyalayabilir, ardından uygulamanın Pro Sürümü'nü yeniden etkinleştirmek için uygulamaya gidebilirsiniz.
 
-# Refund Policy
+# İade Politikası
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Satın alma işlemi yapıldıktan sonraki 48 saat içinde satın alımınızı iade etme hakkına sahipsiniz.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Uygulamanın geçici bir Pro Sürümü'nü ÜCRETSİZ olarak etkinleştirmenin birçok yolunu sunuyoruz; bu nedenle uygulamanın sizin için buna değip değmeyeceğinden emin değilseniz, satın almadan önce deneyin.
 
-# Contact us
+# Bize ulaşın
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Bu konuda herhangi bir sorunuz varsa lütfen [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com) adresinden bizimle iletişime geçin.

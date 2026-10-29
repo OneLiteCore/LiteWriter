@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Momenteel ondersteunt alleen de vasteland-China-versie van de app WeChat Pay; de Google Play-versie doet dat echter niet. De twee versies zijn onafhankelijk van elkaar, wat betekent dat je de vasteland-China-versie van de app niet via Google Play kunt activeren, en omgekeerd.
 
-You can download the China Mainland version of the app in the following app stores:
+Je kunt de vasteland-China-versie van de app downloaden in de volgende appstores:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Activering
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Eén activeringscode kan 3 exemplaren van de Pro-editie van de app activeren; wanneer je het 4e exemplaar activeert, wordt het oudste gedeactiveerd.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+De activeringscode is uitsluitend voor persoonlijk gebruik. Hij is anoniem en kan niet worden gereset, wat betekent dat als je de code lekt, iedereen die de code verkrijgt hem kan gebruiken. Bewaar hem daarom op een veilige plek.
 
-# Forget Your Activation Code?
+# Activeringscode vergeten?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Service -> Transacties -> Zoek het aankooprecord -> **Handelaar-bestelnummer**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Je kunt het **handelaar-bestelnummer** lang ingedrukt houden en kopiëren en vervolgens naar de app gaan om je Pro-editie van de app opnieuw te activeren.
 
-# Refund Policy
+# Terugbetalingsbeleid
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Je mag je aankoop binnen 48 uur na het doen van de aankoop terugbetalen.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+We bieden veel manieren om tijdelijk een Pro-editie van de app GRATIS te activeren, dus als je niet zeker weet of de app het voor jou waard is, probeer hem dan voordat je een aankoop doet.
 
-# Contact us
+# Neem contact met ons op
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Als je hier vragen over hebt, neem dan contact met ons op via [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

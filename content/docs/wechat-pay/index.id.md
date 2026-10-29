@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Saat ini hanya versi Tiongkok Daratan dari aplikasi yang mendukung WeChat Pay; versi Google Play tidak mendukungnya. Kedua versi ini saling independen, artinya Anda tidak dapat mengaktifkan versi Tiongkok Daratan dari aplikasi melalui Google Play, dan sebaliknya.
 
-You can download the China Mainland version of the app in the following app stores:
+Anda dapat mengunduh versi Tiongkok Daratan dari aplikasi di toko aplikasi berikut:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Aktivasi
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Satu kode aktivasi dapat mengaktifkan 3 salinan Edisi Pro aplikasi; ketika Anda mengaktifkan salinan ke-4, salinan yang paling lama akan dinonaktifkan.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Kode aktivasi hanya untuk penggunaan pribadi. Kode ini anonim dan tidak dapat diatur ulang, artinya jika Anda membocorkan kode tersebut, siapa pun yang mendapatkan kode tersebut dapat menggunakannya, jadi simpanlah di tempat yang aman.
 
-# Forget Your Activation Code?
+# Lupa Kode Aktivasi Anda?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Layanan -> Transaksi -> Temukan catatan pembelian -> **No. Pesanan Merchant**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Anda dapat menekan lama dan menyalin **No. Pesanan Merchant**, lalu buka aplikasi untuk mengaktifkan kembali Edisi Pro aplikasi Anda.
 
-# Refund Policy
+# Kebijakan Pengembalian Dana
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Anda diperbolehkan mengembalikan dana pembelian dalam waktu 48 jam sejak pembelian dilakukan.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Kami menyediakan banyak cara untuk mengaktifkan Edisi Pro sementara dari aplikasi secara GRATIS, jadi jika Anda tidak yakin apakah aplikasi ini sepadan untuk Anda, cobalah sebelum melakukan pembelian.
 
-# Contact us
+# Hubungi kami
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Jika Anda memiliki pertanyaan tentang hal ini, silakan hubungi kami di [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

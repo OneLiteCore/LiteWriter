@@ -24,7 +24,7 @@ The activation code is for personal use only. It is anonymous and non-resettable
 
 WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+You can long click and copy the **Merchant Order No** then go to the app to re-activate your Pro Edition of the app.
 
 # Refund Policy
 

@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+در حال حاضر فقط نسخه سرزمین اصلی چین برنامه از پرداخت WeChat پشتیبانی می‌کند، اما نسخه Google Play پشتیبانی نمی‌کند. این دو نسخه مستقل از یکدیگر هستند، یعنی نمی‌توانید نسخه سرزمین اصلی چین برنامه را از طریق Google Play فعال کنید و برعکس.
 
-You can download the China Mainland version of the app in the following app stores:
+می‌توانید نسخه سرزمین اصلی چین برنامه را از فروشگاه‌های برنامه زیر دانلود کنید:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# فعال‌سازی
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+یک کد فعال‌سازی می‌تواند ۳ نسخه از نسخه حرفه‌ای برنامه را فعال کند؛ وقتی نسخه چهارم را فعال می‌کنید، قدیمی‌ترین نسخه غیرفعال می‌شود.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+کد فعال‌سازی فقط برای استفاده شخصی است. این کد ناشناس و غیرقابل بازنشانی است، یعنی اگر کد را فاش کنید، هرکسی که کد را به دست آورد می‌تواند از آن استفاده کند؛ بنابراین لطفاً آن را در جای امنی نگه دارید.
 
-# Forget Your Activation Code?
+# کد فعال‌سازی خود را فراموش کرده‌اید؟
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> خدمات -> تراکنش‌ها -> یافتن سابقه خرید -> **شماره سفارش فروشنده**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+می‌توانید **شماره سفارش فروشنده** را طولانی لمس کرده و کپی کنید، سپس به برنامه بروید و نسخه حرفه‌ای برنامه خود را دوباره فعال کنید.
 
-# Refund Policy
+# سیاست بازپرداخت
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+شما مجاز هستید خرید خود را ظرف ۴۸ ساعت پس از انجام خرید بازپرداخت کنید.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+ما راه‌های زیادی برای فعال‌سازی رایگان نسخه حرفه‌ای موقت برنامه ارائه می‌دهیم؛ بنابراین اگر مطمئن نیستید که برنامه برای شما ارزش خرید دارد، پیش از خرید آن را امتحان کنید.
 
-# Contact us
+# تماس با ما
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+اگر درباره این موضوع سؤالی دارید، لطفاً با ما در [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com) تماس بگیرید.

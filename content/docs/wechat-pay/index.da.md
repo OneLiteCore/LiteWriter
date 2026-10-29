@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+I øjeblikket er det kun appens Fastlands-Kina-version, der understøtter WeChat Pay; Google Play-versionen gør det derimod ikke. De to versioner er uafhængige af hinanden, hvilket betyder, at du ikke kan aktivere Fastlands-Kina-versionen af appen via Google Play, og omvendt.
 
-You can download the China Mainland version of the app in the following app stores:
+Du kan downloade Fastlands-Kina-versionen af appen i følgende appbutikker:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Aktivering
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Én aktiveringskode kan aktivere 3 kopier af appens Pro-version, og når du aktiverer den 4. kopi, deaktiveres den ældste.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+Aktiveringskoden er kun til personlig brug. Den er anonym og kan ikke nulstilles, hvilket betyder, at hvis du lækker koden, kan alle, der får koden, bruge den, så opbevar den et sikkert sted.
 
-# Forget Your Activation Code?
+# Glemt din aktiveringskode?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Service -> Transaktioner -> Find købsoversigten -> **Forhandlerordrenummer**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Du kan holde nede og kopiere **forhandlerordrenummeret** og derefter gå til appen for at genaktivere appens Pro-version.
 
-# Refund Policy
+# Refusionspolitik
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Du har mulighed for at refundere dit køb inden for 48 timer efter, at købet er foretaget.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Vi tilbyder mange måder at aktivere en midlertidig Pro-version af appen GRATIS, så hvis du er i tvivl om, hvorvidt appen er pengene værd for dig, kan du prøve den, før du køber.
 
-# Contact us
+# Kontakt os
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Hvis du har spørgsmål til dette, er du velkommen til at kontakte os på [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

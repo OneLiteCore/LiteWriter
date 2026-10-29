@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+ปัจจุบันมีเพียงเวอร์ชันจีนแผ่นดินใหญ่ของแอปเท่านั้นที่รองรับการชำระเงินด้วย WeChat ส่วนเวอร์ชัน Google Play ไม่รองรับ ทั้งสองเวอร์ชันเป็นอิสระต่อกัน หมายความว่าคุณไม่สามารถเปิดใช้งานเวอร์ชันจีนแผ่นดินใหญ่ของแอปผ่าน Google Play ได้ และในทางกลับกัน
 
-You can download the China Mainland version of the app in the following app stores:
+คุณสามารถดาวน์โหลดเวอร์ชันจีนแผ่นดินใหญ่ของแอปได้จากแอปสโตร์ต่อไปนี้:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# การเปิดใช้งาน
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+รหัสเปิดใช้งานหนึ่งรหัสสามารถเปิดใช้งานแอปรุ่น Pro ได้ 3 ชุด และเมื่อคุณเปิดใช้งานชุดที่ 4 ชุดที่เก่าที่สุดจะถูกปิดใช้งาน
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+รหัสเปิดใช้งานมีไว้สำหรับใช้ส่วนตัวเท่านั้น เป็นรหัสที่ไม่ระบุตัวตนและไม่สามารถรีเซ็ตได้ หมายความว่าหากคุณทำรหัสรั่วไหล ใครก็ตามที่ได้รหัสไปก็สามารถใช้ได้ ดังนั้นโปรดเก็บไว้ในที่ปลอดภัย
 
-# Forget Your Activation Code?
+# ลืมรหัสเปิดใช้งานของคุณ?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> บริการ -> ธุรกรรม -> ค้นหาบันทึกการซื้อ -> **หมายเลขคำสั่งซื้อของผู้ขาย**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+คุณสามารถกดค้างและคัดลอก **หมายเลขคำสั่งซื้อของผู้ขาย** แล้วไปที่แอปเพื่อเปิดใช้งานแอปรุ่น Pro ของคุณอีกครั้ง
 
-# Refund Policy
+# นโยบายการคืนเงิน
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+คุณสามารถขอคืนเงินสำหรับการซื้อได้ภายใน 48 ชั่วโมงนับจากการซื้อสำเร็จ
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+เรามีหลายวิธีในการเปิดใช้งานแอปรุ่น Pro ชั่วคราวได้ฟรี ดังนั้นหากคุณไม่แน่ใจว่าแอปคุ้มค่าสำหรับคุณหรือไม่ ลองใช้ก่อนตัดสินใจซื้อ
 
-# Contact us
+# ติดต่อเรา
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+หากคุณมีคำถามใด ๆ เกี่ยวกับเรื่องนี้ โปรดติดต่อเราที่ [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

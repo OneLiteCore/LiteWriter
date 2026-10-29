@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+Actualmente, solo la versión de China continental de la aplicación admite WeChat Pay; la versión de Google Play no lo admite. Las dos versiones son independientes, lo que significa que no puedes activar la versión de China continental de la aplicación mediante Google Play, y viceversa.
 
-You can download the China Mainland version of the app in the following app stores:
+Puedes descargar la versión de China continental de la aplicación en las siguientes tiendas de aplicaciones:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# Activación
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+Un código de activación puede activar 3 copias de la Edición Pro de la aplicación; cuando activas la 4.ª copia, la más antigua se desactiva.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+El código de activación es solo para uso personal. Es anónimo y no se puede restablecer, lo que significa que, si filtras el código, cualquiera que lo obtenga podrá usarlo, así que guárdalo en un lugar seguro.
 
-# Forget Your Activation Code?
+# ¿Olvidaste tu código de activación?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> Servicios -> Transacciones -> Encuentra el registro de compra -> **Número de pedido del comerciante**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+Puedes mantener pulsado y copiar el **número de pedido del comerciante** y luego ir a la aplicación para reactivar tu Edición Pro de la aplicación.
 
-# Refund Policy
+# Política de reembolso
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+Tienes derecho a reembolsar tu compra dentro de las 48 horas posteriores a la realización de la compra.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+Ofrecemos muchas formas de activar una Edición Pro temporal de la aplicación GRATIS, así que si no estás seguro de si la aplicación te merece la pena, pruébala antes de realizar una compra.
 
-# Contact us
+# Contáctanos
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+Si tienes alguna pregunta al respecto, contáctanos en [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)

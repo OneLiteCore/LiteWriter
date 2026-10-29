@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+現在、アプリの中国本土版のみが WeChat Pay に対応しており、Google Play 版は対応していません。2つのバージョンは互いに独立しているため、Google Play を通じてアプリの中国本土版を有効化することはできず、その逆も同様です。
 
-You can download the China Mainland version of the app in the following app stores:
+中国本土版のアプリは、以下のアプリストアからダウンロードできます。
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# 有効化
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+1つの有効化コードでアプリの Pro 版を3つまで有効化でき、4つ目を有効化すると最も古いものが無効化されます。
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+有効化コードは個人利用に限ります。匿名かつ再設定不可のため、コードを漏らしてしまうと、それを入手した誰でも使用できてしまいます。安全な場所に保管してください。
 
-# Forget Your Activation Code?
+# 有効化コードを忘れた場合
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> サービス -> 取引 -> 購入履歴を探す -> **マーチャント注文番号**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+**マーチャント注文番号**を長押ししてコピーし、アプリに戻って Pro 版を再度有効化できます。
 
-# Refund Policy
+# 返金ポリシー
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+購入後48時間以内であれば返金できます。
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+アプリの一時的な Pro 版を無料で有効化する方法を多数用意しています。購入する価値があるか迷っている場合は、購入前にお試しください。
 
-# Contact us
+# お問い合わせ
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+ご不明な点がございましたら、[one.lite.core@gmail.com](mailto:one.lite.core@gmail.com) までご連絡ください。

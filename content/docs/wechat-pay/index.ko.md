@@ -5,33 +5,33 @@ date: 2025-01-06
 title: Wechat Pay
 ---
 
-Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.
+현재 중국 본토 버전의 앱만 WeChat Pay를 지원하며, Google Play 버전은 지원하지 않습니다. 두 버전은 서로 독립적이므로 Google Play를 통해 중국 본토 버전 앱을 활성화할 수 없으며, 그 반대도 마찬가지입니다.
 
-You can download the China Mainland version of the app in the following app stores:
+다음 앱 스토어에서 중국 본토 버전의 앱을 다운로드할 수 있습니다:
 
 {{< cards >}}
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
 
-# Activation
+# 활성화
 
-One activation code can activate 3 copies of the Pro Edition of the app, when you are activating the 4th copies, the oldest one will be deactivated.
+하나의 활성화 코드로 앱의 Pro 에디션 3개를 활성화할 수 있으며, 4번째를 활성화하면 가장 오래된 것이 비활성화됩니다.
 
-The activation code is for personal use only. It is anonymous and non-resettable, which means if you leak the code then everyone get the code can use it, so please keep it in a safe place.
+활성화 코드는 개인 용도로만 사용할 수 있습니다. 익명이며 재설정할 수 없으므로 코드를 유출하면 코드를 입수한 누구나 사용할 수 있습니다. 따라서 안전한 곳에 보관하세요.
 
-# Forget Your Activation Code?
+# 활성화 코드를 잊으셨나요?
 
-WeChat -> Service -> Transactions -> Find the purchase record -> **Merchant Order No**
+WeChat -> 서비스 -> 거래 -> 구매 기록 찾기 -> **판매자 주문 번호**
 
-You can long click and copy the **Merchan Order No** then go to the app to re-activate your Pro Edition of the app.
+**판매자 주문 번호**를 길게 눌러 복사한 다음 앱으로 이동하여 앱의 Pro 에디션을 다시 활성화할 수 있습니다.
 
-# Refund Policy
+# 환불 정책
 
-You are allowed to refund your purchase within the 48 hours since the purchase has been made.
+구매 후 48시간 이내에 구매를 환불할 수 있습니다.
 
-We provide many ways to activate a temporary Pro Edition of the app for FREE, so if you are not sure whether the app worths it to you, try it before making a purchase.
+앱의 임시 Pro 에디션을 무료로 활성화할 수 있는 여러 방법을 제공하므로, 앱이 그만한 가치가 있는지 확신이 없다면 구매하기 전에 사용해 보세요.
 
-# Contact us
+# 문의하기
 
-If you have any questions about it, please contact us at [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)
+이와 관련해 궁금한 점이 있으면 [one.lite.core@gmail.com](mailto:one.lite.core@gmail.com)으로 문의해 주세요.
