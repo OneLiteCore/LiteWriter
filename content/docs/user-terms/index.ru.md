@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Условия использования
+title: Пользовательское соглашение (Google Play)
 ---
 
 By downloading or using the app, these terms will

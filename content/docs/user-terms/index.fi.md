@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Käyttöehdot
+title: Käyttäjäsopimus (Google Play)
 ---
 
 By downloading or using the app, these terms will

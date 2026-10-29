@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Algemene voorwaarden
+title: Gebruikersovereenkomst (Google Play)
 ---
 
 By downloading or using the app, these terms will

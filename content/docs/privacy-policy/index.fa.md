@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: سیاست حفظ حریم خصوصی
+title: سیاست حفظ حریم خصوصی (Google Play)
 ---
 
 OneLiteCore built the Lite Writer app as a Free app. This SERVICE is provided by OneLiteCore at no cost and is intended for use as is.

@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Mga Tuntunin at Kundisyon
+title: Kasunduan ng User (Google Play)
 ---
 
 By downloading or using the app, these terms will

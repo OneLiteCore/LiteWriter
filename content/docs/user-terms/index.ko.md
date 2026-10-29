@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: 이용약관
+title: 사용자 약관 (Google Play)
 ---
 
 By downloading or using the app, these terms will

@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: 用戶條款
+title: 用戶協議 (Google Play)
 ---
 
 By downloading or using the app, these terms will

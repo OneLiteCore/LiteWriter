@@ -1,9 +1,9 @@
-baseURL: https://onelitecore.github.io/LiteWriter/
+baseURL: https://writer.kamidragon.com/
 title: Lite Writer
 
-languageCode: en-us
+languageCode: zh-CN
 
-defaultContentLanguage: en
+defaultContentLanguage: zh-CN
 defaultContentLanguageInSubdir: true
 
 module:

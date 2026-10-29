@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy Policy (Google Play)
 ShowToc: true
 ---
 

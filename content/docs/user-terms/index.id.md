@@ -1,6 +1,6 @@
 ---
 ShowToc: true
-title: Syarat dan Ketentuan
+title: Perjanjian Pengguna (Google Play)
 ---
 
 By downloading or using the app, these terms will
