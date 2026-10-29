@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: よくある質問
 weight: 3
 ---
 
-This document is still under construction
+このドキュメントはまだ作成中です
 
-## How to recover data
+## データを復元する方法
 
-Please refer to this post:
+こちらの記事をご参照ください：
 
-[How to recover data](../how-to-recover-data)
+[データを復元する方法](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## アプリ内の「本」とは何を意味しますか？
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+技術的には、アプリのホームフォルダの直下にあるサブディレクトリにすぎません。そして、本のフォルダ内に「cover.jpg」と「intro.txt」という名前のファイルがある場合（これらの名前は設定で変更できます）、メインページや本の詳細ページなど一部のページに表示されます。
 
-## Why are the imported books merged into one folder?
+## インポートした本が1つのフォルダにまとめられるのはなぜですか？
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+「フォルダをインポート」機能は、その名前の通り、フォルダをアプリのホームフォルダにインポートします。
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+紛らわしいのは、システムの選択画面でフォルダを選択すると、その中身の項目も一覧表示されるため、「アプリは私が見えているものをそのままインポートするはずだ」と思ってしまうかもしれない点です。ただし、「フォルダをインポート」は「アプリに単一のフォルダをインポートする」ことを意味し、「選択したフォルダ自体は無視して、その中の項目だけをインポートする」ことを意味しない点を覚えておいてください。
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+複数のディレクトリを複数の本としてインポートしたい場合は、複数回インポートする必要があります。
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+分かれたディレクトリをアプリ内で分かれた本としてインポートしたい場合は、そのフォルダをインポートした後、アプリのメインページにある「ファイル」タブを使って、インポートしたフォルダからすべてのサブディレクトリをアプリのホームフォルダへ移動してください。

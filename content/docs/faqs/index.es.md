@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Preguntas frecuentes
 weight: 3
 ---
 
-This document is still under construction
+Este documento aún está en construcción
 
-## How to recover data
+## Cómo recuperar datos
 
-Please refer to this post:
+Consulta esta publicación:
 
-[How to recover data](../how-to-recover-data)
+[Cómo recuperar datos](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## ¿Qué significan los "libros" en la aplicación?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Técnicamente, son simplemente subdirectorios directos dentro de la carpeta principal de la aplicación. Y si hay archivos llamados "cover.jpg" e "intro.txt" (estos nombres se pueden cambiar en los ajustes) dentro de la carpeta del libro, se mostrarán en algunas páginas como la página principal y la página de detalles del libro.
 
-## Why are the imported books merged into one folder?
+## ¿Por qué los libros importados se combinan en una sola carpeta?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+La función "importar carpeta", como su nombre indica, importa una carpeta a la carpeta principal de la aplicación.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Lo que puede confundir es que, al seleccionar una carpeta con el selector del sistema, también se muestran sus elementos, lo que podría hacerte pensar que "la aplicación debería importar lo que veo". Pero recuerda que "importar carpeta" significa "importar una sola carpeta a la aplicación", no "ignorar la carpeta seleccionada e importar solo los elementos que contiene".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Si quieres importar varios directorios como varios libros, tienes que importar varias veces.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Si realmente quieres importar directorios separados como libros separados en la aplicación, simplemente importa su carpeta y luego mueve todos los subdirectorios fuera de la carpeta importada a la carpeta principal de la aplicación usando la pestaña "Archivo" en la página principal de la aplicación.

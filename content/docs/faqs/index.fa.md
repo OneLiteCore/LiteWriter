@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: پرسش‌های متداول
 weight: 3
 ---
 
-This document is still under construction
+این سند هنوز در دست ساخت است
 
-## How to recover data
+## نحوه بازیابی داده‌ها
 
-Please refer to this post:
+لطفاً به این پست مراجعه کنید:
 
-[How to recover data](../how-to-recover-data)
+[نحوه بازیابی داده‌ها](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## «کتاب‌ها» در برنامه به چه معنا هستند؟
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+از نظر فنی، آن‌ها صرفاً زیرپوشه‌های مستقیم زیر پوشه اصلی برنامه هستند. و اگر فایل‌هایی با نام‌های "cover.jpg" و "intro.txt" (این نام‌ها را می‌توان در تنظیمات تغییر داد) در زیر پوشه کتاب وجود داشته باشند، در برخی صفحه‌ها مانند صفحه اصلی و صفحه جزئیات کتاب نمایش داده می‌شوند.
 
-## Why are the imported books merged into one folder?
+## چرا کتاب‌های واردشده در یک پوشه ادغام می‌شوند؟
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+ویژگی «وارد کردن پوشه»، همان‌طور که از نامش پیداست، یک پوشه را به پوشه اصلی برنامه وارد می‌کند.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+آنچه گمراه‌کننده است این است که وقتی با انتخاب‌گر سیستم پوشه‌ای را انتخاب می‌کنید، محتویات آن نیز فهرست می‌شود و ممکن است فکر کنید «برنامه باید همان چیزی را که می‌بینم وارد کند». اما لطفاً به یاد داشته باشید که «وارد کردن پوشه» به معنای «وارد کردن یک پوشه واحد به برنامه» است، نه «نادیده گرفتن خود پوشه انتخاب‌شده و وارد کردن تنها محتویات درون آن».
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+اگر می‌خواهید چند پوشه را به‌صورت چند کتاب وارد کنید، باید چندین بار وارد کنید.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+اگر واقعاً می‌خواهید پوشه‌های جداگانه را به‌صورت کتاب‌های جداگانه در برنامه وارد کنید، کافی است پوشه آن‌ها را وارد کرده و سپس همه زیرپوشه‌ها را از پوشه واردشده به پوشه اصلی برنامه منتقل کنید، با استفاده از برگه «فایل» در صفحه اصلی برنامه.

@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: คำถามที่พบบ่อย
 weight: 3
 ---
 
-This document is still under construction
+เอกสารนี้ยังอยู่ระหว่างการจัดทำ
 
-## How to recover data
+## วิธีกู้คืนข้อมูล
 
-Please refer to this post:
+โปรดดูโพสต์นี้:
 
-[How to recover data](../how-to-recover-data)
+[วิธีกู้คืนข้อมูล](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## "หนังสือ" ในแอปหมายถึงอะไร?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+ในทางเทคนิคแล้ว พวกมันเป็นเพียงโฟลเดอร์ย่อยโดยตรงภายใต้โฟลเดอร์หลักของแอป และหากมีไฟล์ชื่อ "cover.jpg" และ "intro.txt" (ชื่อเหล่านี้สามารถเปลี่ยนได้ในการตั้งค่า) อยู่ในโฟลเดอร์หนังสือ ก็จะแสดงบนบางหน้า เช่น หน้าหลักและหน้ารายละเอียดหนังสือ
 
-## Why are the imported books merged into one folder?
+## ทำไมหนังสือที่นำเข้าจึงถูกรวมเป็นโฟลเดอร์เดียว?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+ฟีเจอร์ "นำเข้าโฟลเดอร์" ตามชื่อของมัน จะนำเข้าโฟลเดอร์หนึ่งไปยังโฟลเดอร์หลักของแอป
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+สิ่งที่ทำให้เข้าใจผิดคือ เมื่อคุณเลือกโฟลเดอร์ด้วยตัวเลือกของระบบ มันจะแสดงรายการสิ่งต่าง ๆ ภายในโฟลเดอร์นั้นด้วย ซึ่งอาจทำให้คุณคิดว่า "แอปควรนำเข้าสิ่งที่ฉันเห็นเข้าไปในแอป" แต่โปรดจำไว้ว่า "นำเข้าโฟลเดอร์" หมายถึง "การนำเข้าโฟลเดอร์เดียวเข้าไปในแอป" ไม่ใช่ "ละเลยตัวโฟลเดอร์ที่เลือกเองแล้วนำเข้าเฉพาะสิ่งต่าง ๆ ภายในโฟลเดอร์นั้น"
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+หากคุณต้องการนำเข้าหลายไดเรกทอรีเป็นหนังสือหลายเล่ม คุณต้องนำเข้าหลายครั้ง
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+หากคุณต้องการนำเข้าไดเรกทอรีที่แยกกันเป็นหนังสือแยกกันในแอปจริง ๆ ก็แค่นำเข้าโฟลเดอร์ของมัน จากนั้นย้ายโฟลเดอร์ย่อยทั้งหมดออกจากโฟลเดอร์ที่นำเข้าไปยังโฟลเดอร์หลักของแอป โดยใช้แท็บ "ไฟล์" บนหน้าหลักของแอป

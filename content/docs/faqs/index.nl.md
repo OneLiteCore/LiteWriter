@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Veelgestelde vragen
 weight: 3
 ---
 
-This document is still under construction
+Dit document is nog in ontwikkeling
 
-## How to recover data
+## Gegevens herstellen
 
-Please refer to this post:
+Zie dit bericht:
 
-[How to recover data](../how-to-recover-data)
+[Gegevens herstellen](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Wat betekenen "boeken" in de app?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Technisch gezien zijn het gewoon directe submappen onder de thuismap van de app. En als er bestanden met de naam "cover.jpg" en "intro.txt" (deze namen kunnen in de instellingen worden gewijzigd) in de boekenmap staan, worden ze op sommige pagina's weergegeven, zoals de hoofdpagina en de boekdetailpagina.
 
-## Why are the imported books merged into one folder?
+## Waarom worden de geïmporteerde boeken samengevoegd in één map?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+De functie "map importeren" importeert, zoals de naam al zegt, een map naar de thuismap van de app.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Wat misleidend is, is dat wanneer je een map selecteert met de systeemkiezer, de inhoud ervan ook wordt weergegeven, waardoor je zou kunnen denken dat "de app moet importeren wat ik zie". Maar onthoud alsjeblieft dat "map importeren" betekent "één map in de app importeren", en niet "de geselecteerde map zelf negeren en alleen de items erin importeren".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Als je meerdere mappen als meerdere boeken wilt importeren, moet je meerdere keren importeren.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Als je echt afzonderlijke mappen als afzonderlijke boeken in de app wilt importeren, importeer dan gewoon hun map en verplaats vervolgens alle submappen uit de geïmporteerde map naar de thuismap van de app met behulp van het tabblad "Bestand" op de hoofdpagina van de app.

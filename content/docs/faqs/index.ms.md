@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Soalan Lazim
 weight: 3
 ---
 
-This document is still under construction
+Dokumen ini masih dalam pembinaan
 
-## How to recover data
+## Cara memulihkan data
 
-Please refer to this post:
+Sila rujuk catatan ini:
 
-[How to recover data](../how-to-recover-data)
+[Cara memulihkan data](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Apakah maksud "buku" dalam aplikasi?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Secara teknikalnya, ia hanyalah subdirektori terus di bawah folder utama aplikasi. Dan jika terdapat fail bernama "cover.jpg" dan "intro.txt" (nama-nama ini boleh ditukar dalam tetapan) di bawah folder buku, ia akan dipaparkan pada sesetengah halaman seperti halaman utama dan halaman butiran buku.
 
-## Why are the imported books merged into one folder?
+## Mengapa buku yang diimport digabungkan ke dalam satu folder?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+Ciri "import folder", seperti namanya, akan mengimport sebuah folder ke dalam folder utama aplikasi.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Yang mengelirukan ialah apabila anda memilih folder dengan pemilih sistem, ia juga akan menyenaraikan item-itemnya, yang mungkin membuatkan anda berfikir bahawa "Aplikasi sepatutnya mengimport apa yang saya nampak ke dalam aplikasi". Tetapi sila ingat bahawa "Import folder" bermaksud "mengimport satu folder ke dalam aplikasi", bukan "mengabaikan folder yang dipilih itu sendiri tetapi mengimport item-item di dalamnya".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Jika anda mahu mengimport berbilang direktori sebagai berbilang buku, anda perlu mengimport beberapa kali.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Jika anda benar-benar mahu mengimport direktori yang berasingan sebagai buku yang berasingan dalam aplikasi, hanya import folder mereka dan kemudian pindahkan semua subdirektori keluar daripada folder yang diimport ke folder utama aplikasi dengan menggunakan tab "Fail" pada halaman utama aplikasi.

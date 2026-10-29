@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Ofte stillede spørgsmål
 weight: 3
 ---
 
-This document is still under construction
+Dette dokument er stadig under udarbejdelse
 
-## How to recover data
+## Sådan gendanner du data
 
-Please refer to this post:
+Se venligst dette indlæg:
 
-[How to recover data](../how-to-recover-data)
+[Sådan gendanner du data](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Hvad betyder "bøger" i appen?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Teknisk set er de blot direkte undermapper under appens hjemmemappe. Og hvis der er filer ved navn "cover.jpg" og "intro.txt" (disse navne kan ændres i indstillingerne) under bogmappen, vil det blive vist på nogle sider som hovedsiden og bogdetaljesiden.
 
-## Why are the imported books merged into one folder?
+## Hvorfor bliver de importerede bøger slået sammen til én mappe?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+Funktionen "Importer mappe" vil, som navnet antyder, importere en mappe ind i appens hjemmemappe.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Det, der er vildledende, er, at når du vælger en mappe med systemets vælger, vil den også vise mappens indhold, hvilket kan få dig til at tro, at "Appen bør importere det, jeg kan se, ind i appen". Men husk venligst, at "Importer mappe" betyder "at importere én enkelt mappe ind i appen", ikke "at ignorere den valgte mappe selv og i stedet importere elementerne inden i den".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Hvis du vil importere flere mapper som flere bøger, skal du importere flere gange.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Hvis du virkelig vil importere separate mapper som separate bøger i appen, skal du blot importere deres mappe og derefter flytte alle undermapperne ud af den importerede mappe til appens hjemmemappe ved hjælp af fanen "Fil" på appens hovedside.

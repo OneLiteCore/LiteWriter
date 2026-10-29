@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: الأسئلة الشائعة
 weight: 3
 ---
 
-This document is still under construction
+لا يزال هذا المستند قيد الإنشاء
 
-## How to recover data
+## كيفية استعادة البيانات
 
-Please refer to this post:
+يرجى الرجوع إلى هذا المنشور:
 
-[How to recover data](../how-to-recover-data)
+[كيفية استعادة البيانات](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## ماذا تعني "الكتب" في التطبيق؟
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+من الناحية التقنية، هي مجرد مجلدات فرعية مباشرة تحت المجلد الرئيسي للتطبيق. وإذا كانت هناك ملفات باسم "cover.jpg" و"intro.txt" (يمكن تغيير هذه الأسماء في الإعدادات) داخل مجلد الكتاب، فسيتم عرضها في بعض الصفحات مثل الصفحة الرئيسية وصفحة تفاصيل الكتاب.
 
-## Why are the imported books merged into one folder?
+## لماذا يتم دمج الكتب المستوردة في مجلد واحد؟
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+ميزة "استيراد مجلد"، كما يوحي اسمها، تستورد مجلدًا إلى المجلد الرئيسي للتطبيق.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+ما قد يكون مضللًا هو أنه عند تحديد مجلد باستخدام منتقي النظام، فإنه سيعرض أيضًا محتوياته، مما قد يجعلك تظن أن "التطبيق يجب أن يستورد ما أراه إلى التطبيق". لكن تذكر من فضلك أن "استيراد مجلد" تعني "استيراد مجلد واحد إلى التطبيق"، وليس "تجاهل المجلد المحدد نفسه واستيراد العناصر الموجودة بداخله فقط".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+إذا كنت تريد استيراد عدة مجلدات لتكون عدة كتب، فعليك الاستيراد عدة مرات.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+إذا كنت تريد حقًا استيراد مجلدات منفصلة لتكون كتبًا منفصلة في التطبيق، فما عليك سوى استيراد المجلد الخاص بها ثم نقل جميع المجلدات الفرعية من المجلد المستورد إلى المجلد الرئيسي للتطبيق باستخدام علامة التبويب "ملف" في الصفحة الرئيسية للتطبيق.

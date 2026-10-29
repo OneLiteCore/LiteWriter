@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Usein kysytyt kysymykset
 weight: 3
 ---
 
-This document is still under construction
+Tämä asiakirja on vielä työn alla
 
-## How to recover data
+## Tietojen palauttaminen
 
-Please refer to this post:
+Katso tämä kirjoitus:
 
-[How to recover data](../how-to-recover-data)
+[Tietojen palauttaminen](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Mitä "kirjat" tarkoittavat sovelluksessa?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Teknisesti ne ovat vain suoria alihakemistoja sovelluksen kotikansion alla. Ja jos kirjakansion alla on tiedostoja nimeltä "cover.jpg" ja "intro.txt" (nämä nimet voidaan vaihtaa asetuksissa), ne näytetään joillakin sivuilla, kuten pääsivulla ja kirjan tietosivulla.
 
-## Why are the imported books merged into one folder?
+## Miksi tuodut kirjat yhdistetään yhteen kansioon?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+"Tuo kansio" -ominaisuus, kuten nimestä voi päätellä, tuo kansion sovelluksen kotikansioon.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Harhaanjohtavaa on se, että kun valitset kansion järjestelmän valitsimella, se näyttää myös kansion sisällön, mikä saattaa saada sinut ajattelemaan, että "sovelluksen pitäisi tuoda se, minkä näen". Mutta muistathan, että "Tuo kansio" tarkoittaa "yhden kansion tuomista sovellukseen", ei "valitun kansion itsensä ohittamista ja vain sen sisällä olevien kohteiden tuomista".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Jos haluat tuoda useita hakemistoja useina kirjoina, sinun on tuotava useita kertoja.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Jos todella haluat tuoda erilliset hakemistot erillisinä kirjoina sovellukseen, tuo vain niiden kansio ja siirrä sitten kaikki alihakemistot tuodusta kansiosta sovelluksen kotikansioon käyttämällä "Tiedosto"-välilehteä sovelluksen pääsivulla.

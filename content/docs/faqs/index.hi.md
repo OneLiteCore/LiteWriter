@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: अक्सर पूछे जाने वाले प्रश्न
 weight: 3
 ---
 
-This document is still under construction
+यह दस्तावेज़ अभी निर्माणाधीन है
 
-## How to recover data
+## डेटा कैसे पुनर्प्राप्त करें
 
-Please refer to this post:
+कृपया यह पोस्ट देखें:
 
-[How to recover data](../how-to-recover-data)
+[डेटा कैसे पुनर्प्राप्त करें](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## ऐप में "किताबें" का क्या मतलब है?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+तकनीकी रूप से ये ऐप के होम फ़ोल्डर के अंतर्गत सीधे उप-निर्देशिकाएँ हैं। और यदि किताब फ़ोल्डर के अंतर्गत "cover.jpg" और "intro.txt" नाम की फ़ाइलें हों (इन नामों को सेटिंग्स में बदला जा सकता है), तो इन्हें मुख्य पृष्ठ और किताब विवरण पृष्ठ जैसे कुछ पृष्ठों पर प्रदर्शित किया जाएगा।
 
-## Why are the imported books merged into one folder?
+## आयात की गई किताबें एक फ़ोल्डर में क्यों मिल जाती हैं?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+"फ़ोल्डर आयात करें" सुविधा, जैसा कि इसके नाम से पता चलता है, एक फ़ोल्डर को ऐप के होम फ़ोल्डर में आयात करती है।
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+भ्रमित करने वाली बात यह है कि जब आप सिस्टम चयनकर्ता से कोई फ़ोल्डर चुनते हैं, तो वह उसके आइटम भी सूचीबद्ध कर देता है, जिससे आपको लग सकता है कि "ऐप को वही आयात करना चाहिए जो मैं देख रहा हूँ"। लेकिन कृपया याद रखें कि "फ़ोल्डर आयात करें" का अर्थ है "ऐप में एक ही फ़ोल्डर आयात करना", न कि "चयनित फ़ोल्डर को स्वयं अनदेखा करके केवल उसके अंदर के आइटम आयात करना"।
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+यदि आप कई निर्देशिकाओं को कई किताबों के रूप में आयात करना चाहते हैं, तो आपको कई बार आयात करना होगा।
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+यदि आप वास्तव में अलग-अलग निर्देशिकाओं को ऐप में अलग-अलग किताबों के रूप में आयात करना चाहते हैं, तो बस उनके फ़ोल्डर को आयात करें और फिर ऐप के मुख्य पृष्ठ पर "फ़ाइल" टैब का उपयोग करके सभी उप-निर्देशिकाओं को आयात किए गए फ़ोल्डर से ऐप के होम फ़ोल्डर में ले जाएँ।

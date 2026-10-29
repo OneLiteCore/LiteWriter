@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: 자주 묻는 질문
 weight: 3
 ---
 
-This document is still under construction
+이 문서는 아직 작성 중입니다
 
-## How to recover data
+## 데이터 복구 방법
 
-Please refer to this post:
+다음 글을 참조하세요:
 
-[How to recover data](../how-to-recover-data)
+[데이터 복구 방법](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## 앱에서 "책"은 무엇을 의미하나요?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+기술적으로는 앱의 홈 폴더 아래에 있는 직접적인 하위 디렉터리일 뿐입니다. 그리고 책 폴더 아래에 "cover.jpg"와 "intro.txt"라는 파일이 있으면(이 이름은 설정에서 변경할 수 있습니다) 메인 페이지와 책 상세 페이지 같은 일부 페이지에 표시됩니다.
 
-## Why are the imported books merged into one folder?
+## 가져온 책들이 하나의 폴더로 병합되는 이유는 무엇인가요?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+"폴더 가져오기" 기능은 이름 그대로 폴더를 앱의 홈 폴더로 가져옵니다.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+혼동을 주는 점은 시스템 선택기로 폴더를 선택하면 그 안의 항목들도 함께 나열되어 "앱이 내가 보는 것을 가져와야 한다"고 생각할 수 있다는 것입니다. 하지만 "폴더 가져오기"는 "앱에 단일 폴더를 가져오기"를 의미하며 "선택한 폴더 자체는 무시하고 그 안의 항목만 가져오기"를 의미하지 않는다는 점을 기억해 주세요.
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+여러 디렉터리를 여러 책으로 가져오려면 여러 번 가져와야 합니다.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+분리된 디렉터리를 앱에서 분리된 책으로 가져오고 싶다면, 해당 폴더를 가져온 다음 앱 메인 페이지의 "파일" 탭을 사용하여 모든 하위 디렉터리를 가져온 폴더 밖으로 앱의 홈 폴더로 이동하세요.

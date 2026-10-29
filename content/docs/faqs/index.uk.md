@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Поширені запитання
 weight: 3
 ---
 
-This document is still under construction
+Цей документ ще в процесі написання
 
-## How to recover data
+## Як відновити дані
 
-Please refer to this post:
+Будь ласка, зверніться до цього допису:
 
-[How to recover data](../how-to-recover-data)
+[Як відновити дані](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Що означають "книги" у застосунку?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Технічно це просто безпосередні підпапки в домашній папці застосунку. І якщо в папці книги є файли з назвами "cover.jpg" та "intro.txt" (ці назви можна змінити в налаштуваннях), вони відображатимуться на деяких сторінках, наприклад на головній сторінці та на сторінці деталей книги.
 
-## Why are the imported books merged into one folder?
+## Чому імпортовані книги об'єднуються в одну папку?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+Функція "імпортувати папку", як випливає з її назви, імпортує папку в домашню папку застосунку.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Оманливим є те, що коли ви вибираєте папку за допомогою системного вибору, він також показує її вміст, через що може здатися, що "застосунок має імпортувати те, що я бачу". Але, будь ласка, пам'ятайте, що "імпортувати папку" означає "імпортувати одну папку в застосунок", а не "ігнорувати саму вибрану папку й імпортувати лише елементи всередині неї".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Якщо ви хочете імпортувати кілька каталогів як кілька книг, вам потрібно імпортувати кілька разів.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Якщо ви справді хочете імпортувати окремі каталоги як окремі книги в застосунку, просто імпортуйте їхню папку, а потім перемістіть усі підпапки з імпортованої папки в домашню папку застосунку за допомогою вкладки "Файл" на головній сторінці застосунку.

@@ -1,28 +1,28 @@
 ---
 ShowToc: true
 copy_mark: copied
-title: Frequently Asked Questions
+title: Często zadawane pytania
 weight: 3
 ---
 
-This document is still under construction
+Ten dokument jest wciąż w budowie
 
-## How to recover data
+## Jak odzyskać dane
 
-Please refer to this post:
+Zapoznaj się z tym wpisem:
 
-[How to recover data](../how-to-recover-data)
+[Jak odzyskać dane](../how-to-recover-data)
 
-## What do "books" mean in the app?
+## Co oznaczają "książki" w aplikacji?
 
-Technically they are just directly subdirectories under the app's home folder. And if there are files named "cover.jpg" and "intro.txt" (These names can be changed in settigns) under the book folder, it will be displayed on some pages like the main page and the book detail page.
+Technicznie rzecz biorąc, są to po prostu bezpośrednie podkatalogi w folderze głównym aplikacji. A jeśli w folderze książki znajdują się pliki o nazwach "cover.jpg" i "intro.txt" (te nazwy można zmienić w ustawieniach), zostaną one wyświetlone na niektórych stronach, takich jak strona główna i strona szczegółów książki.
 
-## Why are the imported books merged into one folder?
+## Dlaczego zaimportowane książki są scalane w jeden folder?
 
-The "import folder" feature, as its name, will import a folder into the app's home folder.
+Funkcja "importuj folder", jak sama nazwa wskazuje, importuje folder do folderu głównego aplikacji.
 
-What is misleading is that when you select a folder with the system chooser it will also list its items, which might make you think that "The app should import what I can see into the app". But please remember that, the "Import folder" means "importing a single folder into the app", not "Ignore the selected folder itself but import items within it".
+Mylące jest to, że gdy wybierzesz folder za pomocą selektora systemowego, wyświetlone zostaną również jego elementy, co może sprawić, że pomyślisz: "Aplikacja powinna zaimportować to, co widzę". Pamiętaj jednak, że "importuj folder" oznacza "zaimportowanie pojedynczego folderu do aplikacji", a nie "zignorowanie samego wybranego folderu i zaimportowanie tylko elementów w nim zawartych".
 
-If you want to import multiple directories as multiple books, you need to import multiple times.
+Jeśli chcesz zaimportować wiele katalogów jako wiele książek, musisz zaimportować je wielokrotnie.
 
-If you really want to import seperated directories as seperated books in the app, just import their a folder and then move all the sub-directories out of the imported folder to the app's home folder by using the "File" tab on the app main page.
+Jeśli naprawdę chcesz zaimportować oddzielne katalogi jako oddzielne książki w aplikacji, po prostu zaimportuj ich folder, a następnie przenieś wszystkie podkatalogi z zaimportowanego folderu do folderu głównego aplikacji, korzystając z karty "Plik" na stronie głównej aplikacji.
