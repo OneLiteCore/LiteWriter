@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: 원격 링크 기능 사용 방법
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+"링크" 기능을 사용하면 앱 데이터를 PC 디렉터리로 매핑하여 PC 소프트웨어로 데이터를 편집하고 관리할 수 있습니다.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+이 기능은 일반적인 **WebDav** 프로토콜을 기반으로 합니다. 대부분의 운영 체제는 기본적으로 이를 지원하지만 사용하기가 그리 쉽지 않을 수 있습니다. 그래서 여기에 더 쉬운 방법을 소개합니다.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Windows 플랫폼에서는 서드파티 소프트웨어인 **RaiDrive**를 권장합니다. 아래 링크를 클릭하여 다운로드할 수 있습니다:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(1.8.0 버전은 최신 버전은 아니지만 필요한 모든 기능이 있고, 더 중요한 것은 광고가 없다는 점입니다)
 
-Install and open it, you may see panel like this, just follow the tips:
+설치하고 열면 이와 같은 패널이 표시될 수 있습니다. 안내를 따라주세요:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. 상단의 "Add" 버튼을 클릭하여 설정으로 들어갑니다.
+2. "NAS" 탭으로 이동하여 WebDav 옵션을 선택합니다
+3. 원하는 대로 드라이브 이름을 입력합니다
+4. 주소를 입력합니다
+    - "address" 텍스트 옆에 체크박스가 보일 수 있는데, http url을 사용할 수 있도록 **체크 해제** 상태로 유지하세요.
+    - 앱에서 링크 기능을 켤 때 확인할 수 있는 IP 주소와 포트 번호를 입력합니다.
+5. 사용자 지정 사용자 이름과 비밀번호가 있으면 입력하고, 없으면 "Anonymous" 체크박스를 선택합니다
+6. "OK" 버튼을 클릭하여 매핑을 시작합니다
 
-If everything goes well, you might see this:
+모든 것이 잘 진행되면 다음과 같은 화면이 표시될 수 있습니다:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux 또는 MacOS
 
-Wait to be done.
+작성 예정입니다.

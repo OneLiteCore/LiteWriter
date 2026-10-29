@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Comment utiliser la fonction de lien distant
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+La fonction « Lien » vous permet de mapper les données de l'application en tant que répertoire PC, afin de pouvoir utiliser un logiciel PC pour modifier et gérer vos données.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Cette fonction repose sur le protocole général **WebDav**. La plupart des systèmes d'exploitation devraient le prendre en charge nativement, mais il n'est peut-être pas si facile à utiliser. Voici donc une méthode plus simple.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Sur Windows, nous vous recommandons le logiciel tiers **RaiDrive**. Vous pouvez le télécharger en cliquant sur le lien ci-dessous :
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(La version 1.8.0 n'est pas la plus récente, mais elle a tout ce dont nous avons besoin et, surtout, elle ne contient aucune publicité)
 
-Install and open it, you may see panel like this, just follow the tips:
+Installez-la et ouvrez-la ; vous verrez peut-être un panneau comme celui-ci, suivez simplement les conseils :
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Cliquez sur le bouton « Add » en haut pour accéder à la configuration.
+2. Allez dans l'onglet « NAS » et sélectionnez l'option WebDav
+3. Saisissez le nom du lecteur comme vous le souhaitez
+4. Saisissez l'adresse
+    - à côté du texte « address », vous verrez peut-être une case à cocher ; laissez-la **DÉCOCHÉE** afin de pouvoir utiliser une URL http.
+    - Saisissez l'adresse IP et le numéro de port, que vous pouvez trouver lorsque vous activez la fonction de lien dans l'application.
+5. Saisissez votre nom d'utilisateur et votre mot de passe personnalisés si vous en avez ; sinon, cochez simplement la case « Anonymous »
+6. Cliquez sur le bouton « OK » pour démarrer le mappage
 
-If everything goes well, you might see this:
+Si tout se passe bien, vous verrez peut-être ceci :
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux ou MacOS
 
-Wait to be done.
+En attente de finalisation.

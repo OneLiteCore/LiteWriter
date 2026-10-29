@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Uzak Bağlantı özelliği nasıl kullanılır
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+"Bağlantı" özelliği, uygulama verilerini bir PC dizini olarak eşleştirmenizi sağlar; böylece verilerinizi düzenlemek ve yönetmek için PC yazılımını kullanabilirsiniz.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Bu özellik, genel **WebDav** protokolünü temel alır. Çoğu işletim sistemi bunu kutudan çıktığı gibi desteklemelidir, ancak kullanımı o kadar kolay olmayabilir. İşte burada daha kolay bir yol var.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Windows platformunda üçüncü taraf yazılım olan **RaiDrive**'ı öneriyoruz. Aşağıdaki bağlantıya tıklayarak indirebilirsiniz:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(1.8.0 sürümü en son sürüm değildir, ancak ihtiyacımız olan her şeye sahiptir ve daha da önemlisi reklam içermez)
 
-Install and open it, you may see panel like this, just follow the tips:
+Kurup açın; bunun gibi bir panel görebilirsiniz, yalnızca ipuçlarını izleyin:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Yapılandırmaya girmek için üstteki "Add" düğmesine tıklayın.
+2. "NAS" sekmesine gidin ve WebDav seçeneğini seçin
+3. Sürücü adını istediğiniz gibi girin
+4. Adresi girin
+    - "address" metninin yanında bir onay kutusu görebilirsiniz; http url'si kullanabilmemiz için onu **İŞARETSİZ** bırakın.
+    - Uygulamada bağlantı özelliğini açtığınızda bulabileceğiniz IP adresini ve bağlantı noktası numarasını girin.
+5. Varsa özel kullanıcı adınızı ve şifrenizi girin; yoksa "Anonymous" onay kutusunu işaretleyin
+6. Eşleştirmeyi başlatmak için "OK" düğmesine tıklayın
 
-If everything goes well, you might see this:
+Her şey yolunda giderse şunu görebilirsiniz:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux veya MacOS
 
-Wait to be done.
+Tamamlanmayı bekliyor.

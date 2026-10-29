@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Sådan bruger du Remote Link-funktionen
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+"Link"-funktionen giver dig mulighed for at kortlægge appdata som en mappe på pc'en, så du kan bruge pc-software til at redigere og administrere dine data.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Denne funktion er baseret på den generelle **WebDav**-protokol. De fleste operativsystemer burde understøtte den direkte, men det er måske ikke helt let at bruge. Her er derfor en nemmere måde at gøre det på.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+På Windows anbefaler vi tredjepartssoftwaren **RaiDrive**. Du kan downloade den ved at klikke på linket nedenfor:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(Version 1.8.0 er ikke den nyeste, men den har alt, hvad vi har brug for, og vigtigere endnu, den har ingen reklamer)
 
-Install and open it, you may see panel like this, just follow the tips:
+Installer og åbn den; du vil muligvis se et panel som dette. Følg blot vejledningen:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Klik på knappen "Add" øverst for at gå ind i konfigurationen.
+2. Gå til fanen "NAS", og vælg indstillingen WebDav
+3. Indtast drevnavnet, som du ønsker det
+4. Indtast adressen
+    - ved siden af teksten "address" vil du muligvis se et afkrydsningsfelt; lad det blot forblive **IKKE-AFKRYSET**, så vi kan bruge en http-url.
+    - Indtast IP-adressen og portnummeret, som du kan finde, når du aktiverer linkfunktionen i appen.
+5. Indtast dit eget brugernavn og kodeord, hvis du har nogen; ellers skal du blot markere afkrydsningsfeltet "Anonymous"
+6. Klik på knappen "OK" for at starte kortlægningen
 
-If everything goes well, you might see this:
+Hvis alt går godt, vil du muligvis se dette:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux eller MacOS
 
-Wait to be done.
+Afventer at blive færdiggjort.

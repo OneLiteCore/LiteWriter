@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Paano gamitin ang Remote Link feature
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+Ang feature na "Link" ay nagbibigay-daan sa iyo na i-map ang data ng app bilang isang direktoryo sa PC, para magamit mo ang PC software upang i-edit at pamahalaan ang iyong data.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Ang feature na ito ay batay sa pangkalahatang **WebDav** protocol. Karamihan sa mga operating system ay dapat na sumusuporta rito kaagad, ngunit maaaring hindi ito gaanong madaling gamitin. Kaya narito ang mas madaling paraan.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Sa platform na Windows, inirerekomenda namin ang third-party software na **RaiDrive**. Maaari mo itong i-download sa pamamagitan ng pag-click sa link sa ibaba:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(Ang bersyon na 1.8.0 ay hindi ang pinakabago, ngunit mayroon itong lahat ng kailangan namin, at higit sa lahat, wala itong mga ad)
 
-Install and open it, you may see panel like this, just follow the tips:
+I-install at buksan ito; maaari kang makakita ng panel na tulad nito, sundin lamang ang mga tip:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. I-click ang button na "Add" sa itaas upang pumasok sa configuration.
+2. Pumunta sa tab na "NAS" at piliin ang opsyong WebDav
+3. Ilagay ang pangalan ng drive ayon sa gusto mo
+4. Ilagay ang address
+    - sa tabi ng tekstong "address", maaari mong makita ang checkbox; panatilihin lamang itong **WALANG TSEK** upang magamit natin ang http url.
+    - Ilagay ang IP address at port number, na makikita mo kapag binuksan mo ang link feature sa app.
+5. Ilagay ang iyong custom na user name at password kung mayroon ka; kung wala, lagyan lamang ng tsek ang checkbox na "Anonymous"
+6. I-click ang button na "OK" upang simulan ang pag-map
 
-If everything goes well, you might see this:
+Kung maayos ang lahat, maaari mong makita ito:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux o MacOS
 
-Wait to be done.
+Hintaying matapos.

@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Как использовать функцию удаленной ссылки
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+Функция «Ссылка» позволяет сопоставлять данные приложения с каталогом на ПК, чтобы вы могли использовать программное обеспечение ПК для редактирования и управления своими данными.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Эта функция основана на общем протоколе **WebDav**. Большинство операционных систем должны поддерживать его «из коробки», но, возможно, пользоваться им не так просто. Поэтому вот более простой способ.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+На платформе Windows мы рекомендуем стороннее программное обеспечение **RaiDrive**. Вы можете скачать его, нажав на ссылку ниже:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(Версия 1.8.0 не самая новая, но в ней есть всё, что нам нужно, и, что важнее, в ней нет рекламы)
 
-Install and open it, you may see panel like this, just follow the tips:
+Установите и откройте его; вы можете увидеть панель, подобную этой. Просто следуйте подсказкам:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Нажмите кнопку «Add» вверху, чтобы перейти к настройке.
+2. Перейдите на вкладку «NAS» и выберите параметр WebDav
+3. Введите имя диска по своему усмотрению
+4. Введите адрес
+    - рядом с текстом «address» вы можете увидеть флажок; оставьте его **НЕОТМЕЧЕННЫМ**, чтобы мы могли использовать http-адрес.
+    - Введите IP-адрес и номер порта, которые можно найти при включении функции ссылки в приложении.
+5. Введите собственные имя пользователя и пароль, если они у вас есть; в противном случае просто отметьте флажок «Anonymous»
+6. Нажмите кнопку «OK», чтобы начать сопоставление
 
-If everything goes well, you might see this:
+Если всё пройдёт хорошо, вы можете увидеть это:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux или MacOS
 
-Wait to be done.
+Ожидает завершения.

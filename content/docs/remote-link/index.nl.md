@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Zo gebruik je de functie Remote Link
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+Met de functie "Link" kun je app-gegevens als een pc-map koppelen, zodat je pc-software kunt gebruiken om je gegevens te bewerken en te beheren.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Deze functie is gebaseerd op het algemene **WebDav**-protocol. De meeste besturingssystemen zouden dit standaard moeten ondersteunen, maar het is misschien niet zo eenvoudig te gebruiken. Hier is dus een eenvoudigere manier.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Op Windows raden we de software van derden **RaiDrive** aan. Je kunt deze downloaden door op de onderstaande link te klikken:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(Versie 1.8.0 is niet de nieuwste, maar heeft alles wat we nodig hebben en, belangrijker nog, geen advertenties)
 
-Install and open it, you may see panel like this, just follow the tips:
+Installeer en open het; je ziet mogelijk een paneel zoals dit. Volg gewoon de tips:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Klik bovenaan op de knop "Add" om naar de configuratie te gaan.
+2. Ga naar het tabblad "NAS" en selecteer de WebDav-optie
+3. Voer de stationsnaam naar wens in
+4. Voer het adres in
+    - naast de tekst "address" zie je mogelijk een selectievakje; laat het gewoon **NIET AANGEVINKT** zodat we een http-url kunnen gebruiken.
+    - Voer het IP-adres en het poortnummer in, die je kunt vinden wanneer je de linkfunctie in de app inschakelt.
+5. Voer je eigen gebruikersnaam en wachtwoord in als je die hebt; anders vink je gewoon het selectievakje "Anonymous" aan
+6. Klik op de knop "OK" om het koppelen te starten
 
-If everything goes well, you might see this:
+Als alles goed gaat, zie je mogelijk dit:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux of MacOS
 
-Wait to be done.
+Wordt nog afgerond.

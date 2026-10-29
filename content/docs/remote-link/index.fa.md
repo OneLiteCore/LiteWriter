@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: نحوه استفاده از قابلیت لینک از راه دور
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+قابلیت «لینک» به شما امکان می‌دهد داده‌های برنامه را به‌صورت یک پوشه در رایانه نگاشت کنید تا بتوانید با نرم‌افزار رایانه، داده‌های خود را ویرایش و مدیریت کنید.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+این قابلیت بر پایه پروتکل عمومی **WebDav** است. بیشتر سیستم‌عامل‌ها باید به‌صورت پیش‌فرض از آن پشتیبانی کنند، اما شاید استفاده از آن چندان ساده نباشد. بنابراین در اینجا روش ساده‌تری آورده شده است.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+در پلتفرم Windows نرم‌افزار شخص ثالث **RaiDrive** را پیشنهاد می‌کنیم. با کلیک روی لینک زیر می‌توانید آن را دانلود کنید:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(نسخه 1.8.0 آخرین نسخه نیست، اما هر آنچه نیاز داریم را دارد و مهم‌تر اینکه تبلیغات ندارد)
 
-Install and open it, you may see panel like this, just follow the tips:
+آن را نصب و باز کنید؛ ممکن است پنلی مانند این ببینید، فقط راهنمایی‌ها را دنبال کنید:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. روی دکمه «Add» در بالا کلیک کنید تا وارد تنظیمات شوید.
+2. به تب «NAS» بروید و گزینه WebDav را انتخاب کنید
+3. نام درایو را به دلخواه وارد کنید
+4. آدرس را وارد کنید
+    - در کنار عبارت «address» ممکن است یک چک‌باکس ببینید؛ آن را **تیک نخورده** نگه دارید تا بتوانیم از آدرس http استفاده کنیم.
+    - آدرس IP و شماره پورت را وارد کنید که هنگام فعال کردن قابلیت لینک در برنامه می‌توانید آن را پیدا کنید.
+5. نام کاربری و رمز عبور دلخواه خود را وارد کنید، و اگر ندارید فقط چک‌باکس «Anonymous» را علامت بزنید
+6. روی دکمه «OK» کلیک کنید تا نگاشت آغاز شود
 
-If everything goes well, you might see this:
+اگر همه‌چیز درست پیش برود، ممکن است این را ببینید:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux یا MacOS
 
-Wait to be done.
+در انتظار تکمیل.

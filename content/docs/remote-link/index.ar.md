@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: كيفية استخدام ميزة الرابط البعيد
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+تتيح لك ميزة «الرابط» تعيين بيانات التطبيق كمجلد على جهاز الكمبيوتر، بحيث يمكنك استخدام برامج الكمبيوتر لتحرير بياناتك وإدارتها.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+تعتمد هذه الميزة على بروتوكول **WebDav** العام. ينبغي أن تدعمه معظم أنظمة التشغيل بشكل افتراضي، لكن ربما لا يكون استخدامه بهذه السهولة. لذا إليك طريقة أسهل.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+على منصة Windows نوصي ببرنامج الطرف الثالث **RaiDrive**. يمكنك تنزيله بالنقر على الرابط أدناه:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(الإصدار 1.8.0 ليس الأحدث، لكنه يضم كل ما نحتاجه، والأهم من ذلك أنه لا يحتوي على إعلانات)
 
-Install and open it, you may see panel like this, just follow the tips:
+قم بتثبيته وفتحه؛ قد ترى لوحة مثل هذه، ما عليك سوى اتباع الإرشادات:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. انقر على زر «Add» في الأعلى للدخول إلى الإعدادات.
+2. انتقل إلى تبويب «NAS» وحدد خيار WebDav
+3. أدخل اسم محرك الأقراص كما يحلو لك
+4. أدخل العنوان
+    - بجانب النص «address» قد ترى مربع اختيار؛ اتركه **غير محدد** حتى نتمكن من استخدام رابط http.
+    - أدخل عنوان IP ورقم المنفذ، اللذين يمكنك العثور عليهما عند تفعيل ميزة الرابط في التطبيق.
+5. أدخل اسم المستخدم وكلمة المرور المخصصين لديك إن وُجدا، وإلا فحدد مربع الاختيار «Anonymous»
+6. انقر على زر «OK» لبدء التعيين
 
-If everything goes well, you might see this:
+إذا سارت الأمور على ما يرام، فقد ترى هذا:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux أو MacOS
 
-Wait to be done.
+في انتظار الاكتمال.

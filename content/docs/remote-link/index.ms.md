@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: Cara menggunakan ciri Pautan Jauh
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+Ciri "Pautan" membolehkan anda memetakan data aplikasi sebagai direktori PC, supaya anda boleh menggunakan perisian PC untuk mengedit dan mengurus data anda.
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+Ciri ini berdasarkan protokol **WebDav** umum. Kebanyakan sistem pengendalian sepatutnya menyokongnya secara terus, tetapi mungkin ia tidak begitu mudah untuk digunakan. Jadi, inilah cara yang lebih mudah.
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Pada platform Windows, kami mengesyorkan perisian pihak ketiga **RaiDrive**. Anda boleh memuat turunnya dengan mengklik pautan di bawah:
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+(Versi 1.8.0 bukanlah yang terkini, tetapi ia mempunyai semua yang kami perlukan, dan lebih penting lagi, ia tidak mempunyai iklan)
 
-Install and open it, you may see panel like this, just follow the tips:
+Pasang dan bukanya; anda mungkin melihat panel seperti ini, hanya ikut petunjuk:
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. Klik butang "Add" di bahagian atas untuk memasuki konfigurasi.
+2. Pergi ke tab "NAS" dan pilih pilihan WebDav
+3. Masukkan nama pemacu mengikut kehendak anda
+4. Masukkan alamat
+    - di sebelah teks "address", anda mungkin melihat kotak semak; biarkan ia **TIDAK DITANDA** supaya kita boleh menggunakan url http.
+    - Masukkan alamat IP dan nombor port, yang boleh anda temui apabila anda menghidupkan ciri pautan dalam aplikasi.
+5. Masukkan nama pengguna dan kata laluan tersuai anda jika ada; jika tidak, hanya tandakan kotak semak "Anonymous"
+6. Klik butang "OK" untuk memulakan pemetaan
 
-If everything goes well, you might see this:
+Jika semuanya berjalan lancar, anda mungkin melihat ini:
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux atau MacOS
 
-Wait to be done.
+Menunggu untuk disiapkan.

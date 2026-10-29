@@ -2,38 +2,38 @@
 ShowToc: true
 copy_mark: copied
 date: 2024-05-25
-title: How to use the Remote Link feature
+title: リモートリンク機能の使い方
 ---
 
-"Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.
+「リンク」機能を使うと、アプリのデータを PC のディレクトリとして割り当てることができ、PC のソフトウェアでデータを編集・管理できるようになります。
 
-This feature is based on general **WebDav** protocol. Most operation systems should support it out of the box, but maybe it is not that easy to use. So here is some easier way to go.
+この機能は一般的な **WebDav** プロトコルに基づいています。ほとんどのオペレーティングシステムは標準でサポートしているはずですが、使い方が簡単ではないかもしれません。そこで、より簡単な方法をご紹介します。
 
 ## Windows
 
-On Windows platform we recommand you the third-party software, **RaiDrive**. You can download it by clicking the link below:
+Windows では、サードパーティ製ソフトウェア **RaiDrive** をおすすめします。下のリンクをクリックしてダウンロードできます。
 
 [RaiDrive 1.8.0 https://raidrive.en.uptodown.com/windows/download/2114805](https://raidrive.en.uptodown.com/windows/download/2114805)
 
-(1.8.0 version is not the latest, but it has everything we need, and more importantly, it have no ads)
+（1.8.0 は最新版ではありませんが、必要な機能がすべて揃っており、さらに重要なことに広告がありません）
 
-Install and open it, you may see panel like this, just follow the tips:
+インストールして開くと、このようなパネルが表示される場合があります。指示に従ってください。
 
 ![RaiDrive setup](/img/add_drive.webp)
 
-1. Click "Add" button on the top to enter the configuration.
-2. Go "NAS" tab and select the WebDav option
-3. Input the dirver name as you like
-4. Input the address
-    - besides the text "address" you may see the checkbox, just keep it **UNCHECKED** so that we can use http url.
-    - Input the IP address and port number, which you can find when you turn on the link feature in the app.
-5. Input your customized user name and password if you have any, otherwise just check the "Aonymous" checkbox
-6. Click "OK" button to start mapping
+1. 上部の「Add」ボタンをクリックして設定を開きます。
+2. 「NAS」タブに移動し、WebDav オプションを選択します
+3. ドライブ名を任意で入力します
+4. アドレスを入力します
+    - 「address」というテキストの横にチェックボックスが表示される場合があります。http URL を使用できるように、**チェックを外したまま**にしてください。
+    - アプリでリンク機能をオンにしたときに確認できる IP アドレスとポート番号を入力します。
+5. カスタムのユーザー名とパスワードがある場合は入力し、ない場合は「Anonymous」チェックボックスをオンにします
+6. 「OK」ボタンをクリックして割り当てを開始します
 
-If everything goes well, you might see this:
+すべてがうまくいけば、次のように表示されるはずです。
 
 ![Done](/img/done.webp)
 
-## Linux or MacOS
+## Linux または MacOS
 
-Wait to be done.
+準備中です。
