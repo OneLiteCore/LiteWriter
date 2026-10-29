@@ -36,4 +36,25 @@ Se tudo correr bem, você verá isto:
 
 ## Linux ou MacOS
 
-Aguardando conclusão.
+### MacOS
+
+No macOS, você pode usar o **Finder** integrado para se conectar ao serviço WebDav:
+
+1. Abra o **Finder**.
+2. Na barra de menus, clique em **Go** e escolha **Connect to Server…** (ou pressione `Command + K`).
+3. Insira no campo de endereço o endereço mostrado no aplicativo, por exemplo `http://192.168.1.100:8080`.
+4. Clique em **Connect**.
+5. Se solicitado, insira seu nome de usuário e senha, ou conecte-se como convidado.
+6. Uma vez conectado, o serviço WebDav aparecerá no Finder como uma unidade de rede, e você poderá acessar e gerenciar seus dados como uma pasta local.
+
+### Linux
+
+No Linux (usando o desktop do Ubuntu como exemplo), você pode usar o gerenciador de arquivos integrado para se conectar:
+
+1. Abra o aplicativo **Files**.
+2. Clique em **Other Locations** na barra lateral esquerda.
+3. Encontre o campo **Connect to Server** na parte inferior.
+4. Insira o endereço no formato `dav://IP:porta`, por exemplo `dav://192.168.1.100:8080`.
+5. Clique em **Connect**.
+6. Se solicitado, insira seu nome de usuário e senha, ou conecte-se anonimamente.
+7. Uma vez conectado, o serviço WebDav aparecerá no gerenciador de arquivos como uma localização de rede.

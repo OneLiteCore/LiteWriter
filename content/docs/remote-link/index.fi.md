@@ -36,4 +36,25 @@ Jos kaikki menee hyvin, saatat nähdä tämän:
 
 ## Linux tai MacOS
 
-Odottaa valmistumista.
+### MacOS
+
+macOS:ssa voit käyttää sisäänrakennettua **Finder**-ohjelmaa WebDav-palveluun yhdistämiseen:
+
+1. Avaa **Finder**.
+2. Napsauta valikkopalkissa **Go** ja valitse **Connect to Server…** (tai paina `Command + K`).
+3. Kirjoita osoitekenttään sovelluksessa näkyvä osoite, esimerkiksi `http://192.168.1.100:8080`.
+4. Napsauta **Connect**.
+5. Syötä pyydettäessä käyttäjätunnuksesi ja salasanasi tai yhdistä vieraana.
+6. Kun yhteys on muodostettu, WebDav-palvelu näkyy Finderissa verkkoasemana, ja voit käyttää ja hallita tietojasi kuten paikallista kansiota.
+
+### Linux
+
+Linuxissa (esimerkkinä Ubuntu-työpöytä) voit käyttää sisäänrakennettua tiedostonhallintaa yhdistämiseen:
+
+1. Avaa **Files**-sovellus.
+2. Napsauta vasemmassa sivupalkissa **Other Locations**.
+3. Etsi alareunasta **Connect to Server** -kenttä.
+4. Kirjoita osoite muodossa `dav://IP:portti`, esimerkiksi `dav://192.168.1.100:8080`.
+5. Napsauta **Connect**.
+6. Syötä pyydettäessä käyttäjätunnuksesi ja salasanasi tai yhdistä anonyymisti.
+7. Kun yhteys on muodostettu, WebDav-palvelu näkyy tiedostonhallinnassa verkkosijaintina.

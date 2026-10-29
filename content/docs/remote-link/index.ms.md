@@ -36,4 +36,25 @@ Jika semuanya berjalan lancar, anda mungkin melihat ini:
 
 ## Linux atau MacOS
 
-Menunggu untuk disiapkan.
+### MacOS
+
+Pada macOS, anda boleh menggunakan **Finder** terbina dalam untuk menyambung ke perkhidmatan WebDav:
+
+1. Buka **Finder**.
+2. Dalam bar menu, klik **Go** dan pilih **Connect to Server…** (atau tekan `Command + K`).
+3. Masukkan alamat yang ditunjukkan dalam aplikasi ke dalam medan alamat, contohnya `http://192.168.1.100:8080`.
+4. Klik **Connect**.
+5. Jika diminta, masukkan nama pengguna dan kata laluan anda, atau sambung sebagai tetamu.
+6. Setelah disambungkan, perkhidmatan WebDav akan muncul dalam Finder sebagai pemacu rangkaian, dan anda boleh mengakses serta mengurus data anda seperti folder setempat.
+
+### Linux
+
+Pada Linux (mengambil desktop Ubuntu sebagai contoh), anda boleh menggunakan pengurus fail terbina dalam untuk menyambung:
+
+1. Buka aplikasi **Files**.
+2. Klik **Other Locations** dalam bar sisi kiri.
+3. Cari medan **Connect to Server** di bahagian bawah.
+4. Masukkan alamat dalam format `dav://IP:port`, contohnya `dav://192.168.1.100:8080`.
+5. Klik **Connect**.
+6. Jika diminta, masukkan nama pengguna dan kata laluan anda, atau sambung secara tanpa nama.
+7. Setelah disambungkan, perkhidmatan WebDav akan muncul dalam pengurus fail sebagai lokasi rangkaian.

@@ -36,4 +36,25 @@ Her şey yolunda giderse şunu görebilirsiniz:
 
 ## Linux veya MacOS
 
-Tamamlanmayı bekliyor.
+### MacOS
+
+macOS'ta WebDav hizmetine bağlanmak için yerleşik **Finder**'ı kullanabilirsiniz:
+
+1. **Finder**'ı açın.
+2. Menü çubuğunda **Go**'ya tıklayın ve **Connect to Server…** öğesini seçin (veya `Command + K` tuşlarına basın).
+3. Adres alanına uygulamada gösterilen adresi girin, örneğin `http://192.168.1.100:8080`.
+4. **Connect**'e tıklayın.
+5. İstenirse kullanıcı adınızı ve şifrenizi girin veya misafir olarak bağlanın.
+6. Bağlandıktan sonra WebDav hizmeti Finder'da bir ağ sürücüsü olarak görünür ve verilerinize yerel bir klasör gibi erişip yönetebilirsiniz.
+
+### Linux
+
+Linux'ta (örnek olarak Ubuntu masaüstü kullanılarak) bağlanmak için yerleşik dosya yöneticisini kullanabilirsiniz:
+
+1. **Files** uygulamasını açın.
+2. Sol kenar çubuğundaki **Other Locations** öğesine tıklayın.
+3. Alttaki **Connect to Server** alanını bulun.
+4. Adresi `dav://IP:port` biçiminde girin, örneğin `dav://192.168.1.100:8080`.
+5. **Connect**'e tıklayın.
+6. İstenirse kullanıcı adınızı ve şifrenizi girin veya anonim olarak bağlanın.
+7. Bağlandıktan sonra WebDav hizmeti dosya yöneticisinde bir ağ konumu olarak görünür.

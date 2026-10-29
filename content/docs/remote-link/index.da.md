@@ -36,4 +36,25 @@ Hvis alt går godt, vil du muligvis se dette:
 
 ## Linux eller MacOS
 
-Afventer at blive færdiggjort.
+### MacOS
+
+På macOS kan du bruge den indbyggede **Finder** til at oprette forbindelse til WebDav-tjenesten:
+
+1. Åbn **Finder**.
+2. Klik på **Go** i menulinjen, og vælg **Connect to Server…** (eller tryk på `Command + K`).
+3. Indtast den adresse, der vises i appen, i adressefeltet, for eksempel `http://192.168.1.100:8080`.
+4. Klik på **Connect**.
+5. Indtast dit brugernavn og kodeord, hvis du bliver bedt om det, eller opret forbindelse som gæst.
+6. Når forbindelsen er oprettet, vises WebDav-tjenesten i Finder som et netværksdrev, og du kan få adgang til og administrere dine data som en lokal mappe.
+
+### Linux
+
+På Linux (med Ubuntu desktop som eksempel) kan du bruge den indbyggede filhåndtering til at oprette forbindelse:
+
+1. Åbn appen **Files**.
+2. Klik på **Other Locations** i venstre sidepanel.
+3. Find feltet **Connect to Server** nederst.
+4. Indtast adressen i formatet `dav://IP:port`, for eksempel `dav://192.168.1.100:8080`.
+5. Klik på **Connect**.
+6. Indtast dit brugernavn og kodeord, hvis du bliver bedt om det, eller opret forbindelse anonymt.
+7. Når forbindelsen er oprettet, vises WebDav-tjenesten i filhåndteringen som en netværksplacering.

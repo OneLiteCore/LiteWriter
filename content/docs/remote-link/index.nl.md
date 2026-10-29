@@ -36,4 +36,25 @@ Als alles goed gaat, zie je mogelijk dit:
 
 ## Linux of MacOS
 
-Wordt nog afgerond.
+### MacOS
+
+Op macOS kun je de ingebouwde **Finder** gebruiken om verbinding te maken met de WebDav-service:
+
+1. Open de **Finder**.
+2. Klik in de menubalk op **Go** en kies **Connect to Server…** (of druk op `Command + K`).
+3. Voer het in de app getoonde adres in het adresveld in, bijvoorbeeld `http://192.168.1.100:8080`.
+4. Klik op **Connect**.
+5. Voer desgevraagd je gebruikersnaam en wachtwoord in, of maak verbinding als gast.
+6. Zodra de verbinding tot stand is gebracht, verschijnt de WebDav-service in de Finder als netwerkstation en kun je je gegevens als een lokale map benaderen en beheren.
+
+### Linux
+
+Op Linux (met Ubuntu desktop als voorbeeld) kun je de ingebouwde bestandsbeheerder gebruiken om verbinding te maken:
+
+1. Open de app **Files**.
+2. Klik in de linkerzijbalk op **Other Locations**.
+3. Zoek onderaan het veld **Connect to Server**.
+4. Voer het adres in de indeling `dav://IP:poort` in, bijvoorbeeld `dav://192.168.1.100:8080`.
+5. Klik op **Connect**.
+6. Voer desgevraagd je gebruikersnaam en wachtwoord in, of maak anoniem verbinding.
+7. Zodra de verbinding tot stand is gebracht, verschijnt de WebDav-service in de bestandsbeheerder als netwerklocatie.
