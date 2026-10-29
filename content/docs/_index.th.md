@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: เอกสาร
 ---
 
-# Documents
+# เอกสาร
 
-⬅️ Click one document on the left side menu to see
+⬅️ คลิกเอกสารในแถบด้านข้างเพื่อเริ่มต้น

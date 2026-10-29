@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Dokumente
 ---
 
-# Documents
+# Dokumente
 
-⬅️ Click one document on the left side menu to see
+⬅️ Klicke auf ein Dokument in der Seitenleiste, um zu beginnen

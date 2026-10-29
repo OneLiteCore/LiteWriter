@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: المستندات
 ---
 
-# Documents
+# المستندات
 
-⬅️ Click one document on the left side menu to see
+⬅️ انقر على مستند في الشريط الجانبي للبدء

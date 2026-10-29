@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: दस्तावेज़
 ---
 
-# Documents
+# दस्तावेज़
 
-⬅️ Click one document on the left side menu to see
+⬅️ शुरू करने के लिए साइडबार में किसी दस्तावेज़ पर क्लिक करें

@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: 문서
 ---
 
-# Documents
+# 문서
 
-⬅️ Click one document on the left side menu to see
+⬅️ 시작하려면 사이드바의 문서를 클릭하세요

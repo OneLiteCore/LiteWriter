@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Dokumenter
 ---
 
-# Documents
+# Dokumenter
 
-⬅️ Click one document on the left side menu to see
+⬅️ Klik på et dokument i sidebjælken for at komme i gang

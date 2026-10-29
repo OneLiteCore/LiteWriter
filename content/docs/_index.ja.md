@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: ドキュメント
 ---
 
-# Documents
+# ドキュメント
 
-⬅️ Click one document on the left side menu to see
+⬅️ サイドバーのドキュメントをクリックして開始してください

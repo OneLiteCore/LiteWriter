@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Документи
 ---
 
-# Documents
+# Документи
 
-⬅️ Click one document on the left side menu to see
+⬅️ Натисніть на документ у бічній панелі, щоб почати

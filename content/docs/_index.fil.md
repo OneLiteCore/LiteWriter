@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Mga Dokumento
 ---
 
-# Documents
+# Mga Dokumento
 
-⬅️ Click one document on the left side menu to see
+⬅️ I-click ang isang dokumento sa sidebar upang magsimula

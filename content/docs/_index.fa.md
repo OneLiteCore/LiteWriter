@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: مستندات
 ---
 
-# Documents
+# مستندات
 
-⬅️ Click one document on the left side menu to see
+⬅️ برای شروع، روی یک سند در نوار کناری کلیک کنید

@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Documenten
 ---
 
-# Documents
+# Documenten
 
-⬅️ Click one document on the left side menu to see
+⬅️ Klik op een document in de zijbalk om te beginnen

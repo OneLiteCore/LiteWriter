@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Belgeler
 ---
 
-# Documents
+# Belgeler
 
-⬅️ Click one document on the left side menu to see
+⬅️ Başlamak için kenar çubuğundaki bir belgeye tıklayın

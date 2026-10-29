@@ -1,9 +1,9 @@
 ---
 ShowToc: true
 copy_mark: copied
-linkTitle: Documents
+linkTitle: Dokumen
 ---
 
-# Documents
+# Dokumen
 
-⬅️ Click one document on the left side menu to see
+⬅️ Klik dokumen di bilah sisi untuk memulai
