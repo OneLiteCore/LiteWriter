@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: شرایط و ضوابط
 ---
 

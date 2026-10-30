@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: คำถามที่พบบ่อย
 weight: 3
 ---

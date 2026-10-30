@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Często zadawane pytania
 weight: 3
 ---

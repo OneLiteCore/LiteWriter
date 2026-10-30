@@ -2,7 +2,6 @@
 title: Why Markdown
 date: 2026-06-17
 ShowToc: true
-copy_mark: src
 ---
 
 Markdown is a simple and lightweight writing format. It lets you use plain text to express many common rich-text styles, such as headings, emphasis, lists, and images, without depending on heavy document editors or Word-style rich-text document formats. This page itself is also written in Markdown.

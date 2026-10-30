@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: 开源许可证
 ---
 

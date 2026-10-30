@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 date: 2024-05-25
 title: रिमोट लिंक सुविधा का उपयोग कैसे करें
 ---

@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: よくある質問
 weight: 3
 ---

@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 title: Open Source Licenses
 ---
 

@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 ---
 
 ![Img](/img/app_graphic.jpg)

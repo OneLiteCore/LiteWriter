@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: 오픈 소스 라이선스
 ---
 

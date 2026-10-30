@@ -2,7 +2,6 @@
 title: Storage backup service
 date: 2026-06-14
 ShowToc: true
-copy_mark: src
 ---
 
 The storage backup service lets you use a folder on your device as a backup location. After you grant the app read and write permission for a specific folder in your device storage, the app can save backup files there for you.

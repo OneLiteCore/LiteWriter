@@ -2,7 +2,6 @@
 title: How to use the Remote Link feature
 date: 2024-05-25
 ShowToc: true
-copy_mark: src
 ---
 
 "Link" feature allows you to map app data as a PC directory, so that you can use PC softwafre to edit and manage your data.

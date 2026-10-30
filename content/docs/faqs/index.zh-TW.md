@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 title: 常見問題
 weight: 3
 ---

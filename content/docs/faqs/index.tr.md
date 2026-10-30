@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Sık Sorulan Sorular
 weight: 3
 ---

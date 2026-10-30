@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 date: 2026-06-14
 title: Usługa kopii zapasowej Google Drive
 ---

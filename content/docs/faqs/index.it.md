@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Domande frequenti
 weight: 3
 ---

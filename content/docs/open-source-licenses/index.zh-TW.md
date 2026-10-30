@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: 開源授權
 ---
 

@@ -2,7 +2,6 @@
 title: OneDrive backup service
 date: 2026-08-14
 ShowToc: true
-copy_mark: src
 ---
 
 OneDrive is a cloud storage service provided by Microsoft. Your backup data is stored on your own cloud drive, so you keep full control over your data.

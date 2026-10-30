@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 date: 2024-05-25
 title: 如何使用“連線”功能?
 ---

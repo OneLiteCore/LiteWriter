@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Licences open source
 ---
 

@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: अक्सर पूछे जाने वाले प्रश्न
 weight: 3
 ---

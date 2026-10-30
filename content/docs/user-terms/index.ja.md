@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: 利用規約
 ---
 

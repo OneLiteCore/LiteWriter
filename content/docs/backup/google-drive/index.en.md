@@ -2,7 +2,6 @@
 title: Google Drive backup service
 date: 2026-06-14
 ShowToc: true
-copy_mark: src
 ---
 
 Google Drive is a cloud storage service provided by Google, and it can be a convenient way to keep your backups in a place that is both familiar and easy to access. Your backup files stay in your own Google account, which means the data remains under your control.

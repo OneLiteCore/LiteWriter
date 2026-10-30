@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 date: 2026-08-14
 title: Serviço de backup do OneDrive
 ---

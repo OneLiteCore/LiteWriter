@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Questions fréquentes
 weight: 3
 ---

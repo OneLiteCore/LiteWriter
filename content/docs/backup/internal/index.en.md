@@ -2,7 +2,6 @@
 title: Internal backup service
 date: 2026-06-14
 ShowToc: true
-copy_mark: src
 ---
 
 The app provides an internal backup mechanism that periodically compresses your chapter data into a .zip file.

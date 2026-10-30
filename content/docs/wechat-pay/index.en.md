@@ -2,7 +2,6 @@
 title: Wechat Pay
 date: 2025-01-06
 ShowToc: true
-copy_mark: src
 ---
 
 Currently only the China Mainland version of the app support Wechat Payment, the Google Play version of the app though does not, two versions are individual, which means you can't activate the China Mainland version of the app by Google Play, vice versa.

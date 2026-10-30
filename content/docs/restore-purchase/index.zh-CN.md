@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 date: 2024-09-18
 title: 如何恢复购买
 ---

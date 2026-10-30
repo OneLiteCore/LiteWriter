@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Поширені запитання
 weight: 3
 ---

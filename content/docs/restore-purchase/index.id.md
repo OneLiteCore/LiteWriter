@@ -2,7 +2,6 @@
 title: Cara Memulihkan Pembelian  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: src
 ---
 
 Jika Anda telah beralih ke perangkat baru atau menginstal ulang aplikasi, panduan ini akan membantu Anda memulihkan pembelian edisi Pro Anda.

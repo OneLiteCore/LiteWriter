@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: Mga Madalas Itanong
 weight: 3
 ---

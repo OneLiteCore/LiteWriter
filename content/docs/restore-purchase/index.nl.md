@@ -2,7 +2,6 @@
 title: Hoe een aankoop te herstellen  
 date: 2024-09-18  
 ShowToc: true
-copy_mark: src
 ---
 
 Als je bent overgestapt naar een nieuw apparaat of de app opnieuw hebt geïnstalleerd, zal deze handleiding je helpen om je aankoop van de Pro-versie te herstellen.

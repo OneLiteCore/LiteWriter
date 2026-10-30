@@ -2,7 +2,6 @@
 title: Email backup service
 date: 2026-06-14
 ShowToc: true
-copy_mark: src
 ---
 
 The email backup service uses your own email account to send backup files as attachments to your own mailbox. This keeps the backup files in an email account that you already control, giving you better privacy and full ownership of your backup data.

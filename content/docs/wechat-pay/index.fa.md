@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 date: 2025-01-06
 title: Wechat Pay
 ---

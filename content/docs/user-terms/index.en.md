@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: src
 title: Terms & Conditions
 ---
 

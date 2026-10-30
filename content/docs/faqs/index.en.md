@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 ShowToc: true
 weight: 3
-copy_mark: src
 ---
 
 This document is still under construction

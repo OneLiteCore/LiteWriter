@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 title: 자주 묻는 질문
 weight: 3
 ---

@@ -1,6 +1,5 @@
 ---
 ShowToc: true
-copy_mark: copied
 date: 2024-05-25
 title: วิธีใช้ฟีเจอร์ลิงก์ระยะไกล
 ---
