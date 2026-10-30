@@ -13,7 +13,16 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by me in any way.
+For a better user experience, while you are using our Service, we may collect certain necessary operational data, which mainly includes:
+
+- System version, device model, device memory and storage space, etc., which are used for data statistics.
+- Crash logs, runtime logs, and app performance data, etc., which are used to optimize the app's stability and performance.
+- User interaction process, which does not contain any personal privacy information, and is mainly used to analyze and improve the product and its features.
+- Personal email address, which is not necessary. It is only sent to the developer together with your feedback when you submit feedback through the app's built-in feedback channel and wish to receive a reply. If you do not need a reply, you can submit feedback anonymously without providing an email address.
+
+When we upload such data, it is encrypted during transmission.
+
+## Third-party services' privacy policies
 
 The app does use third-party services that may collect information used to identify you.
 
