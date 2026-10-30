@@ -20,3 +20,52 @@ Si aún no has descargado la aplicación, pulsa los botones de abajo para ir a l
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
+
+# ¡Tu asistente de escritura ideal!
+
+Diseñado con pasión y dedicación, Lite Writer está listo para ser tu mejor asistente en el proceso de creación de tus nuevos libros y ficciones. Ya seas un escritor profesional, un novelista principiante o simplemente alguien que necesita una aplicación de notas para tomar apuntes, Lite Writer es para ti.
+
+-- FUNCIONES PODEROSAS --
+
+Lite Writer ofrece muchas funciones esenciales para ayudarte a escribir:
+
+📚 Gestión de Archivos y Estante:
+
+- Organiza tu creación en una estructura de carpetas y archivos.
+- Personaliza las portadas de los libros.
+- Operaciones masivas simplificadas.
+- Reconocimiento inteligente de números de capítulo y ordenación.
+- Mapeo de tu carpeta principal en tu PC y edición con software de escritura para PC.
+
+📝 Nota Instantánea para Inspiraciones Instantáneas:
+
+- Abre un panel de notas rápido desde atajos.
+- Ancla una nota en tu barra de notificaciones para recordarte.
+- Organiza tus archivos de notas de una manera más fácil.
+
+📈 Seguimiento Fácil de Palabras y Caracteres:
+
+- Monitoriza el recuento de caracteres y palabras de un vistazo.
+- Rastrea las tendencias de palabras durante 7 días.
+- Widget flotante para recuentos rápidos.
+- Soporte completo para caracteres CJK.
+
+🎨 Personalización y Temas Inspiradores:
+
+- Temas puros blancos o negros.
+- Modo oscuro amigable para la noche.
+- Amplia variedad de temas gratuitos.
+- Importa tus propios fondos de pantalla.
+
+💾 Sistema de Respaldo Confiable:
+
+- Respaldo automático en Google Drive y WebDav.
+- Usa una carpeta personalizada para guardar archivos de respaldo locales.
+- Recupera datos de registros de historial y papelera de reciclaje.
+- Exporta todos los datos sin problemas con un solo clic.
+
+🔐 Seguridad y Privacidad:
+
+- Asegura tu aplicación con huella digital o un patrón.
+- Bloqueo automático en estado inactivo.
+- Desenfoca las capturas de pantalla de la aplicación en las tareas recientes.

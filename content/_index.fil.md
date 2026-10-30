@@ -20,3 +20,52 @@ Kung hindi mo pa nada-download ang app, pindutin ang mga button sa ibaba para pu
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
+
+# Ang iyong mahusay na katulong sa pagsusulat!
+
+Binuo nang may pagnanasa at dedikasyon, handa nang maging pinakamahusay na kasangga ang Lite Writer sa iyong proseso ng pagsusulat ng iyong mga bagong aklat at kathang-isip. Maging ikaw ay propesyonal na manunulat o nagsisimulang nobelista, o kahit sino mang nangangailangan ng app para gumawa ng mga tala, ang Lite Writer ay para sa iyo!
+
+--- MGA MAHUSAY NA TAMPOK ---
+
+Nag-aalok ang Lite Writer ng maraming mahahalagang tampok upang matulungan kang magsulat:
+
+📚 Pamamahala ng File at Bookshelf:
+
+- Ayusin ang iyong likha sa isang folder-file structure
+- Personalisahin ang mga book cover
+- Pinadali ang bulk operations
+- Intelligent chapter number recognition at sorting
+- I-mapping ang iyong home folder sa iyong PC at i-edit ang mga ito gamit ang PC writer software
+
+📝 Mabilisang Nota para sa Agad na mga Inspirasyon:
+
+- Buksan ang isang mabilisang nota panel mula sa mga shortcuts
+- I-pin ang isang nota sa iyong notification bar upang ipaalala sa iyo
+- Ayusin ang iyong mga file ng nota ng mas madali
+
+📈 Madaling Paggamit ng Bilang ng Salita at Character:
+
+- Subaybayan ang bilang ng character at salita sa isang sulyap
+- Subaybayan ang mga trend ng salita sa loob ng 7 araw.
+- Floating widget para sa mabilis na bilang
+- Buong suporta para sa mga CJK characters
+
+🎨 Pagpapaganda at Inspirasyon Themes:
+
+- Puro puti o itim na mga tema
+- Night-friendly na dark mode
+- Makulay na hanay ng mga libreng tema
+- Mag-import ng iyong sariling mga wallpapers
+
+💾 Maaasahang Sistema ng Backup:
+
+- Auto-backup sa Google Drive at WebDav
+- Gumamit ng custom folder para sa lokal na backup files
+- Kunin ang data mula sa mga history records at recycle bin
+- Nang walang kahirap-hirap na i-export ang lahat ng data sa isang click
+
+🔐 Seguridad at Privacy:
+
+- Protektahan ang iyong app gamit ang fingerprint o pattern lock
+- Auto-locking kapag idle
+- I-blur ang mga screenshot ng app sa mga kamakailang gawain

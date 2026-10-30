@@ -20,3 +20,53 @@ Jika anda belum memuat turun aplikasi ini, ketik butang di bawah untuk pergi ke 
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
+
+# Pembantu penulisan andalan anda!
+
+Direka dengan semangat dan dedikasi, Lite Writer bersedia menjadi pembantu terbaik anda dalam proses penciptaan menulis buku dan fiksyen baru anda. Sama ada anda seorang penulis profesional atau penulis yang sedang memulakan atau hanya seseorang yang memerlukan aplikasi nota untuk membuat beberapa nota, Lite Writer adalah untuk anda!
+
+--- CIRI-CIRI KUAT ---
+
+Lite Writer menawarkan banyak ciri penting untuk membantu anda menulis:
+
+📚 Pengurusan Fail dan Rak Buku:
+
+- Susun ciptaan anda dalam struktur fail folder
+- Peribadi ciri penutup buku
+- Operasi pukal yang dimudahkan
+- Pengiktirafan nombor dan penyusunan cakera yang bijak
+- Pemetaan folder utama anda ke PC dan edit dengan perisian penulis PC
+
+📝 Nota Segera untuk Inspirasi Segera:
+
+- Buka papan nota cepat dari pintas
+- Pin nota dalam bar pemberitahuan anda untuk mengingatkan anda
+- Susun fail nota anda dengan cara yang lebih mudah
+
+📈 Pemantauan Kata dan Kiraan Watak Tanpa Usaha:
+
+- Pantau kiraan watak dan kata dengan cepat
+- Jejak tren kata selama 7 hari.
+- Widget terapung untuk pengiraan cepat
+- Sokongan penuh untuk aksara CJK
+
+🎨 Penyesuaian dan Tema yang Menginspirasi:
+
+- Tema putih atau hitam tulen
+- Mod gelap mesra malam
+- Pelbagai tema percuma yang bertenaga
+- Import wallpaper anda sendiri
+
+💾 Sistem Sandaran Yang Dapat Dipercayai:
+
+
+- Auto-sandar di Google Drive dan WebDav
+- Guna folder kustom untuk menyimpan fail sandaran tempatan
+- Dapatkan data dari rekod sejarah dan tong kitar semula
+- Eksport semua data dengan sekali klik yang lancar
+
+🔐 Keselamatan dan Privasi:
+
+- Selamatkan aplikasi anda dengan cap jari atau kunci corak
+- Penguncian automatik apabila tidak digunakan
+- Kaburkan tangkapan skrin aplikasi dalam tugas terkini

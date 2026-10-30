@@ -20,3 +20,52 @@ Hvis du endnu ikke har downloadet appen, kan du trykke på knapperne nedenfor fo
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
+
+# Din dygtige skriveassistent!
+
+Designet med passion og dedikation er Lite Writer klar til at være din bedste assistent i din skabelsesproces af at skrive dine nye bøger og fiktioner. Uanset om du er en professionel forfatter eller en spirende romanforfatter eller bare nogen, der har brug for en notesapp til at lave nogle noter, så er Lite  Writer for dig!
+
+--- KRAFTIGE FUNKTIONER ---
+
+Lite Writer tilbyder mange essentielle funktioner for at hjælpe dig med at skrive:
+
+📚 Filhåndtering og Boghylde:
+
+- Organiser din kreation i en mappe-fil-struktur
+- Tilpas bogomslag
+- Optimerede masseoperationer
+- Intelligent kapitelnr. genkendelse og sortering
+- Kortlægning af din hjemmemappe til din pc og rediger dem med pc-forfattersoftware
+
+📝 Øjeblikkelig note til øjeblikkelig inspiration:
+
+- Åbn en hurtig notepanel fra genveje
+- Fastgør en note i din meddelelseslinje for at minde dig
+- Organiser dine note-filer på en nemmere måde
+
+📈 Ubesværet ord- og tegnsfølge:
+
+- Overvåg karakter- og ordtælling med et øjeblik
+- Spor ordtendenser over 7 dage.
+- Flydende widget til hurtige tællinger
+- Fuld support til CJK-tegn
+
+🎨 Tilpasning og inspirerende temaer:
+
+- Ren hvid eller sort temaer
+- Natvenlig mørk tilstand
+- Levende udvalg af gratis temaer
+- Importer dine egne baggrunde
+
+💾 Pålideligt backup-system:
+
+- Auto-backup på Google Drive og WebDav
+- Brug brugerdefineret mappe til at opbevare lokale backupfiler
+- Gendan data fra historik og papirkurv
+- Problemfri eksport af alle data med et enkelt klik
+
+🔐 Sikkerhed og privatliv:
+
+- Sikre din app med fingeraftryk eller mønstertilslutning
+- Automatisk låsning ved inaktivitet
+- Slør appens skærmbilleder i nylige opgaver

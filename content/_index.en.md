@@ -20,3 +20,52 @@ If you haven't downloaded the app yet, hit the buttons below to go to the app st
   {{< card title="应用宝" link="https://sj.qq.com/appdetail/core.writer">}}
   {{< card title="酷安" link="https://www.coolapk.com/apk/core.writer">}}
 {{< /cards >}}
+
+# Lite Writer is for you!
+
+Designed with passion and dedication, Lite Writer is ready to be your best assistant in your creation process of writing your new books and fictions. Either you are a professional writer or a budding novelist or just someone who need a note app to make some notes, Lite Writer is for you!
+
+--- POWERFUL FEATURES ---
+
+Lite Writer offers many essential features to help you write:
+
+📚 File Management and Bookshelf:
+
+- Organize your creation in a folder-file structure
+- Personalize book covers
+- Streamlined bulk operations
+- Intelligent chapter number recognition and sorting
+- Mapping your home folder onto your PC and edit them with PC writer software
+
+📝 Instant Note for Instant Inspirations:
+
+- Open a quick note panel from shortcuts
+- Pin a note in your notification bar to remind you
+- Organize your note files in an easier way
+
+📈 Effortless Word and Character Tracking:
+
+- Monitor character and word count at a glance
+- Track word trends over 7 days.
+- Floating widget for quick counts
+- Full support for CJK characters
+
+🎨 Customization and Inspiring Themes:
+
+- Pure white or black themes
+- Night-friendly dark mode
+- Vibrant array of free themes
+- Import your own wallpapers
+
+💾 Reliable Backup System:
+
+- Auto-backup on Google Drive and WebDav
+- Use custom folder to keep local backup files
+- Retrieve data from history records and recycle bin
+- Seamlessly export all data with a single click
+
+🔐 Security and Privacy:
+
+- Secure your app with fingerprint or a pattern lock
+- Automatic locking when idle
+- Blur app screenshots in recent tasks
